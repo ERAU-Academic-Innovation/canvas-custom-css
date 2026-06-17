@@ -2,10 +2,10 @@
 /***** UNRIVALED BLUE THEME ******* **********************************/
 
 /* HEADING STYLES */
-.erau-unrivaled-wrapper {
+.dp-wrapper .erau-unrivaled-wrapper {
     font-family: "Roboto", sans-serif;
 }
-.erau-unrivaled-wrapper h2 {
+.dp-wrapper .erau-unrivaled-wrapper h2 {
     margin: 0;
     padding: 12px;
     color: #FFFFFF;
@@ -16,7 +16,7 @@
     border-left: 12px solid #FFCB06;
     border-radius: 4px;
 }
-.erau-unrivaled-wrapper h3 {
+.dp-wrapper .erau-unrivaled-wrapper h3 {
     color: #03539E;
     font-size: 48px;
     font-weight: 900;
@@ -29,24 +29,24 @@
     font-weight: 900;
     font-family: "Oswald", sans-serif;
 }
-.erau-unrivaled-wrapper h5 {
+.dp-wrapper .erau-unrivaled-wrapper h5 {
     color: #03539E;
     font-size: 24px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
 }
-.erau-unrivaled-wrapper h6 {
+.dp-wrapper .erau-unrivaled-wrapper h6 {
     color: #03539E;
     font-size: 20px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
 }
 /* BANNER STYLES */
-#dp-wrapper:has(header.erau-unrivaled-header) {
+.dp-wrapper:has(header.erau-unrivaled-header) {
     display: flex;
     flex-direction: column;
 }
-header.erau-unrivaled-header {
+.dp-wrapper header.erau-unrivaled-header {
     margin: 0;
     padding: 24px;
     color: #FFFFFF;
@@ -56,27 +56,27 @@ header.erau-unrivaled-header {
     border-radius: 4px;
     font-family: "Roboto", sans-serif;
 }
-#dp-wrapper:has(.dp-banner-image) > header.erau-unrivaled-header {
+.dp-wrapper:has(.dp-banner-image) > header.erau-unrivaled-header {
     border-radius: 0 0 4px 4px;
 }
-#dp-wrapper:has(header.erau-unrivaled-header) .dp-banner-image {
+.dp-wrapper:has(header.erau-unrivaled-header) .dp-banner-image {
     border-top: 20px solid #03539E;
     order: -1;
     border-radius: 4px 4px 0 0;
 }
-header.erau-unrivaled-header .dp-heading {
+.dp-wrapper header.erau-unrivaled-header .dp-heading {
     padding: 0;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     border: none;
 }
-header.erau-unrialed-header .dp-header-title {
+.dp-wrapper header.erau-unrialed-header .dp-header-title {
     font-size: 64px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
 }
-header.erau-unrivaled-header .dp-header-pre {
+.dp-wrapper header.erau-unrivaled-header .dp-header-pre {
     padding: 6px 12px;
     color: #03539E;
     font-size: 20px;
@@ -86,11 +86,11 @@ header.erau-unrivaled-header .dp-header-pre {
     letter-spacing: 4px;
     background-color: #FFCB06;
 }
-header.erau-unrivaled-header .dp-header-pre-2:before {
+.dp-wrapper header.erau-unrivaled-header .dp-header-pre-2:before {
     content: url("https://madeby.johnsexton.media/erau-eagle-unrivaled-20.png");
     margin-right: 8px;
 }
-header.erau-unrivaled-header .dp-header-subtitle {
+.dp-wrapper header.erau-unrivaled-header .dp-header-subtitle {
     margin: 0;
     color: #FFFFFF;
     font-size: 24px;
@@ -104,11 +104,11 @@ header.erau-unrivaled-header .dp-header-description {
 }
 
 /* NAVIGATION STYLES */
-nav.erau-unrivaled-grid {
+.dp-wrapper nav.erau-unrivaled-grid {
     margin: 2rem 0;
     padding: 0;
 }
-nav.erau-unrivaled-grid a {
+.dp-wrapper nav.erau-unrivaled-grid a {
     padding: .8rem 1rem;
     color: #FFFFFF;
     text-transform: uppercase;
@@ -124,14 +124,14 @@ nav.erau-unrivaled-grid a {
         background-color 0.5s ease,
         border-color 0.5s ease;
 }
-nav.erau-unrivaled-grid a:hover {
+.dp-wrapper nav.erau-unrivaled-grid a:hover {
     text-decoration: none;
     border-bottom: 6px solid #FFCB06;
 }
-nav.erau-unrivaled-grid a:has(.fa-icons) {
+.dp-wrapper nav.erau-unrivaled-grid a:has(.fa-icons) {
     justify-content: start;
 }
-nav.erau-unrivaled-grid .fa-icons {
+.dp-wrapper nav.erau-unrivaled-grid .fa-icons {
     margin: 0 .5rem 0 0;
     color: #FFCB06;
 }
