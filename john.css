@@ -2,7 +2,7 @@
 /***** UNRIVALED BLUE THEME ******* **********************************/
 
 /* HEADING STYLES */
-body #dp-wrapper .erau-unrivaled-wrapper h2 {
+.erau-unrivaled-wrapper h2 {
     margin: 0;
     padding: 12px;
     color: #FFFFFF;
@@ -13,37 +13,37 @@ body #dp-wrapper .erau-unrivaled-wrapper h2 {
     border-left: 12px solid #FFCB06;
     border-radius: 4px;
 }
-body #dp-wrapper .erau-unrivaled-wrapper h3 {
+.erau-unrivaled-wrapper h3 {
     color: #03539E;
     font-size: 48px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
     border-bottom: 4px solid #FFCB06;
 }
-body #dp-wrapper .erau-unrivaled-wrapper h4 {
+.erau-unrivaled-wrapper h4 {
     color: #03539E;
     font-size: 36px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
 }
-body #dp-wrapper .erau-unrivaled-wrapper h5 {
+.erau-unrivaled-wrapper h5 {
     color: #03539E;
     font-size: 24px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
 }
-body #dp-wrapper .erau-unrivaled-wrapper h6 {
+.erau-unrivaled-wrapper h6 {
     color: #03539E;
     font-size: 20px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
 }
 /* BANNER STYLES */
-body #dp-wrapper:has(header.erau-unrivaled-header) {
+#dp-wrapper:has(header.erau-unrivaled-header) {
     display: flex;
     flex-direction: column;
 }
-body #dp-wrapper header.erau-unrivaled-header {
+header.erau-unrivaled-header {
     margin: 0;
     padding: 24px;
     color: #FFFFFF;
@@ -52,22 +52,22 @@ body #dp-wrapper header.erau-unrivaled-header {
     flex-direction: column;
     border-radius: 4px;
 }
-body #dp-wrapper:has(.dp-banner-image) > header.erau-unrivaled-header {
+#dp-wrapper:has(.dp-banner-image) > header.erau-unrivaled-header {
     border-radius: 0 0 4px 4px;
 }
-body #dp-wrapper:has(header.erau-unrivaled-header) .dp-banner-image {
+#dp-wrapper:has(header.erau-unrivaled-header) .dp-banner-image {
     border-top: 20px solid #03539E;
     order: -1;
     border-radius: 4px 4px 0 0;
 }
-body #dp-wrapper header.erau-unrivaled-header .dp-heading {
+header.erau-unrivaled-header .dp-heading {
     padding: 0;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     border: none;
 }
-body #dp-wrapper header.erau-unrivaled-header .dp-header-pre {
+header.erau-unrivaled-header .dp-header-pre {
     padding: 6px 12px;
     color: #03539E;
     font-size: 20px;
@@ -77,17 +77,17 @@ body #dp-wrapper header.erau-unrivaled-header .dp-header-pre {
     letter-spacing: 4px;
     background-color: #FFCB06;
 }
-body #dp-wrapper header.erau-unrivaled-header .dp-header-pre-2:before {
+header.erau-unrivaled-header .dp-header-pre-2:before {
     content: url("https://madeby.johnsexton.media/erau-eagle-unrivaled-20.png");
     margin-right: 8px;
 }
-body #dp-wrapper header.erau-unrivaled-header .dp-header-subtitle {
+header.erau-unrivaled-header .dp-header-subtitle {
     margin: 0;
     color: #FFFFFF;
     font-size: 24px;
     font-family: "Oswald", sans-serif;
 }
-body #dp-wrapper header.erau-unrivaled-header .dp-header-description {
+header.erau-unrivaled-header .dp-header-description {
     padding: 6px 0;
     color: #FFFFFF;
     font-size: 16px;
@@ -95,11 +95,11 @@ body #dp-wrapper header.erau-unrivaled-header .dp-header-description {
 }
 
 /* NAVIGATION STYLES */
-body #dp-wrapper nav.erau-unrivaled-grid {
+nav.erau-unrivaled-grid {
     margin: 2rem 0;
     padding: 0;
 }
-body #dp-wrapper nav.erau-unrivaled-grid a {
+nav.erau-unrivaled-grid a {
     padding: .8rem 1rem;
     color: #FFFFFF;
     text-transform: uppercase;
@@ -115,14 +115,14 @@ body #dp-wrapper nav.erau-unrivaled-grid a {
         background-color 0.5s ease,
         border-color 0.5s ease;
 }
-body #dp-wrapper nav.erau-unrivaled-grid a:hover {
+nav.erau-unrivaled-grid a:hover {
     text-decoration: none;
     border-bottom: 6px solid #FFCB06;
 }
-body #dp-wrapper nav.erau-unrivaled-grid a:has(.fa-icons) {
+nav.erau-unrivaled-grid a:has(.fa-icons) {
     justify-content: start;
 }
-body #dp-wrapper nav.erau-unrivaled-grid .fa-icons {
+nav.erau-unrivaled-grid .fa-icons {
     margin: 0 .5rem 0 0;
     color: #FFCB06;
 }
@@ -131,7 +131,7 @@ body #dp-wrapper nav.erau-unrivaled-grid .fa-icons {
 /***** BEYOND BLUE THEME ******* **********************************/
 
 /* HEADING STYLES */
-body #dp-wrapper .erau-beyond-wrapper h2 {
+.erau-beyond-wrapper h2 {
     margin: 0;
     padding: 12px;
     color: #FFFFFF;
@@ -142,37 +142,37 @@ body #dp-wrapper .erau-beyond-wrapper h2 {
     border-left: 12px solid #FFCB06;
     border-radius: 4px;
 }
-body #dp-wrapper .erau-beyond-wrapper h3 {
+.erau-beyond-wrapper h3 {
     color: #1C2B57;
     font-size: 48px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
     border-bottom: 4px solid #FFCB06;
 }
-body #dp-wrapper .erau-beyond-wrapper h4 {
+.erau-beyond-wrapper h4 {
     color: #1C2B57;
     font-size: 36px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
 }
-body #dp-wrapper .erau-beyond-wrapper h5 {
+.erau-beyond-wrapper h5 {
     color: #1C2B57;
     font-size: 24px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
 }
-body #dp-wrapper .erau-beyond-wrapper h6 {
+.erau-beyond-wrapper h6 {
     color: #1C2B57;
     font-size: 20px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
 }
 /* BANNER STYLES */
-body #dp-wrapper:has(header.erau-beyond-header) {
+#dp-wrapper:has(header.erau-beyond-header) {
     display: flex;
     flex-direction: column;
 }
-body #dp-wrapper header.erau-beyond-header {
+header.erau-beyond-header {
     margin: 0;
     padding: 24px;
     color: #FFFFFF;
@@ -181,22 +181,22 @@ body #dp-wrapper header.erau-beyond-header {
     flex-direction: column;
     border-radius: 4px;
 }
-body #dp-wrapper:has(.dp-banner-image) > header.erau-beyond-header {
+#dp-wrapper:has(.dp-banner-image) > header.erau-beyond-header {
     border-radius: 0 0 4px 4px;
 }
-body #dp-wrapper:has(header.erau-beyond-header) .dp-banner-image {
+#dp-wrapper:has(header.erau-beyond-header) .dp-banner-image {
     border-top: 20px solid #1C2B57;
     order: -1;
     border-radius: 4px 4px 0 0;
 }
-body #dp-wrapper header.erau-beyond-header .dp-heading {
+header.erau-beyond-header .dp-heading {
     padding: 0;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     border: none;
 }
-body #dp-wrapper header.erau-beyond-header .dp-header-pre {
+header.erau-beyond-header .dp-header-pre {
     padding: 6px 12px;
     color: #1C2B57;
     font-size: 20px;
@@ -206,17 +206,17 @@ body #dp-wrapper header.erau-beyond-header .dp-header-pre {
     letter-spacing: 4px;
     background-color: #FFCB06;
 }
-body #dp-wrapper header.erau-beyond-header .dp-header-pre-2:before {
+header.erau-beyond-header .dp-header-pre-2:before {
     content: url("https://madeby.johnsexton.media/erau-eagle-unrivaled-20.png");
     margin-right: 8px;
 }
-body #dp-wrapper header.erau-beyond-header .dp-header-subtitle {
+header.erau-beyond-header .dp-header-subtitle {
     margin: 0;
     color: #FFFFFF;
     font-size: 24px;
     font-family: "Oswald", sans-serif;
 }
-body #dp-wrapper header.erau-beyond-header .dp-header-description {
+header.erau-beyond-header .dp-header-description {
     padding: 6px 0;
     color: #FFFFFF;
     font-size: 16px;
@@ -224,11 +224,11 @@ body #dp-wrapper header.erau-beyond-header .dp-header-description {
 }
 
 /* NAVIGATION STYLES */
-body #dp-wrapper nav.erau-beyond-grid {
+nav.erau-beyond-grid {
     margin: 2rem 0;
     padding: 0;
 }
-body #dp-wrapper nav.erau-beyond-grid a {
+nav.erau-beyond-grid a {
     padding: .8rem 1rem;
     color: #FFFFFF;
     text-transform: uppercase;
@@ -244,14 +244,14 @@ body #dp-wrapper nav.erau-beyond-grid a {
         background-color 0.5s ease,
         border-color 0.5s ease;
 }
-body #dp-wrapper nav.erau-beyond-grid a:hover {
+nav.erau-beyond-grid a:hover {
     text-decoration: none;
     border-bottom: 6px solid #FFCB06;
 }
-body #dp-wrapper nav.erau-beyond-grid a:has(.fa-icons) {
+nav.erau-beyond-grid a:has(.fa-icons) {
     justify-content: start;
 }
-body #dp-wrapper nav.erau-beyond-grid .fa-icons {
+nav.erau-beyond-grid .fa-icons {
     margin: 0 .5rem 0 0;
     color: #FFCB06;
 }
@@ -260,7 +260,7 @@ body #dp-wrapper nav.erau-beyond-grid .fa-icons {
 /***** SUNRISE YELLOW THEME ******* **********************************/
 
 /* HEADING STYLES */
-body #dp-wrapper .erau-sunrise-wrapper h2 {
+.erau-sunrise-wrapper h2 {
     margin: 0;
     padding: 12px;
     color: #03539E;
@@ -271,7 +271,7 @@ body #dp-wrapper .erau-sunrise-wrapper h2 {
     border-left: 12px solid #03539E;
     border-radius: 4px;
 }
-body #dp-wrapper .erau-sunrise-wrapper h3 {
+.erau-sunrise-wrapper h3 {
     padding: 6px 12px;
     color: #03539E;
     background-color: #FFCB06;
@@ -280,7 +280,7 @@ body #dp-wrapper .erau-sunrise-wrapper h3 {
     font-family: "Oswald", sans-serif;
     border-radius: 4px;
 }
-body #dp-wrapper .erau-sunrise-wrapper h4 {
+.erau-sunrise-wrapper h4 {
     padding: 6px 12px;
     color: #03539E;
     background-color: #FFCB06;
@@ -289,7 +289,7 @@ body #dp-wrapper .erau-sunrise-wrapper h4 {
     font-family: "Oswald", sans-serif;
     border-radius: 4px;
 }
-body #dp-wrapper .erau-sunrise-wrapper h5 {
+.erau-sunrise-wrapper h5 {
     padding: 6px 12px;
     color: #03539E;
     background-color: #FFCB06;
@@ -298,7 +298,7 @@ body #dp-wrapper .erau-sunrise-wrapper h5 {
     font-family: "Oswald", sans-serif;
     border-radius: 4px;
 }
-body #dp-wrapper .erau-sunrise-wrapper h6 {
+.erau-sunrise-wrapper h6 {
     padding: 6px 12px;
     color: #03539E;
     background-color: #FFCB06;
@@ -308,11 +308,11 @@ body #dp-wrapper .erau-sunrise-wrapper h6 {
     border-radius: 4px;
 }
 /* BANNER STYLES */
-body #dp-wrapper:has(header.erau-sunrise-header) {
+#dp-wrapper:has(header.erau-sunrise-header) {
     display: flex;
     flex-direction: column;
 }
-body #dp-wrapper header.erau-sunrise-header {
+header.erau-sunrise-header {
     margin: 0;
     padding: 24px;
     color: #03539E;
@@ -321,22 +321,22 @@ body #dp-wrapper header.erau-sunrise-header {
     flex-direction: column;
     border-radius: 4px;
 }
-body #dp-wrapper:has(.dp-banner-image) > header.erau-sunrise-header {
+#dp-wrapper:has(.dp-banner-image) > header.erau-sunrise-header {
     border-radius: 0 0 4px 4px;
 }
-body #dp-wrapper:has(header.erau-sunrise-header) .dp-banner-image {
+#dp-wrapper:has(header.erau-sunrise-header) .dp-banner-image {
     border-top: 20px solid #FFCB06;
     order: -1;
     border-radius: 4px 4px 0 0;
 }
-body #dp-wrapper header.erau-sunrise-header .dp-heading {
+header.erau-sunrise-header .dp-heading {
     padding: 0;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     border: none;
 }
-body #dp-wrapper header.erau-sunrise-header .dp-header-pre {
+header.erau-sunrise-header .dp-header-pre {
     padding: 6px 12px;
     color: #FFCB06;
     font-size: 20px;
@@ -346,17 +346,17 @@ body #dp-wrapper header.erau-sunrise-header .dp-header-pre {
     letter-spacing: 4px;
     background-color: #03539E;
 }
-body #dp-wrapper header.erau-sunrise-header .dp-header-pre-2:before {
+header.erau-sunrise-header .dp-header-pre-2:before {
     content: url("https://madeby.johnsexton.media/erau-eagle-unrivaled-20.png");
     margin-right: 8px;
 }
-body #dp-wrapper header.erau-sunrise-header .dp-header-subtitle {
+header.erau-sunrise-header .dp-header-subtitle {
     margin: 0;
     color: #03539E;
     font-size: 24px;
     font-family: "Oswald", sans-serif;
 }
-body #dp-wrapper header.erau-sunrise-header .dp-header-description {
+header.erau-sunrise-header .dp-header-description {
     padding: 6px 0;
     color: #03539E;
     font-size: 16px;
@@ -364,11 +364,11 @@ body #dp-wrapper header.erau-sunrise-header .dp-header-description {
 }
 
 /* NAVIGATION STYLES */
-body #dp-wrapper nav.erau-sunrise-grid {
+nav.erau-sunrise-grid {
     margin: 2rem 0;
     padding: 0;
 }
-body #dp-wrapper nav.erau-sunrise-grid a {
+nav.erau-sunrise-grid a {
     padding: .8rem 1rem;
     color: #03539E;
     text-transform: uppercase;
@@ -384,14 +384,14 @@ body #dp-wrapper nav.erau-sunrise-grid a {
         background-color 0.5s ease,
         border-color 0.5s ease;
 }
-body #dp-wrapper nav.erau-sunrise-grid a:hover {
+nav.erau-sunrise-grid a:hover {
     text-decoration: none;
     border-bottom: 6px solid #03539E;
 }
-body #dp-wrapper nav.erau-sunrise-grid a:has(.fa-icons) {
+nav.erau-sunrise-grid a:has(.fa-icons) {
     justify-content: start;
 }
-body #dp-wrapper nav.erau-sunrise-grid .fa-icons {
+nav.erau-sunrise-grid .fa-icons {
     margin: 0 .5rem 0 0;
     color: #03539E;
 }
@@ -400,7 +400,7 @@ body #dp-wrapper nav.erau-sunrise-grid .fa-icons {
 /***** ALTITUDE BLUE THEME ******* **********************************/
 
 /* HEADING STYLES */
-body #dp-wrapper .erau-altitude-wrapper h2 {
+.erau-altitude-wrapper h2 {
     margin: 0;
     padding: 12px;
     color: #1C2B57;
@@ -411,7 +411,7 @@ body #dp-wrapper .erau-altitude-wrapper h2 {
     border-left: 12px solid #03539E;
     border-radius: 4px;
 }
-body #dp-wrapper .erau-altitude-wrapper h3 {
+.erau-altitude-wrapper h3 {
     padding: 6px 12px;
     color: #1C2B57;
     background-color: #01B2E3;
@@ -420,7 +420,7 @@ body #dp-wrapper .erau-altitude-wrapper h3 {
     font-family: "Oswald", sans-serif;
     border-radius: 4px;
 }
-body #dp-wrapper .erau-altitude-wrapper h4 {
+.erau-altitude-wrapper h4 {
     padding: 6px 12px;
     color: #1C2B57;
     background-color: #01B2E3;
@@ -429,7 +429,7 @@ body #dp-wrapper .erau-altitude-wrapper h4 {
     font-family: "Oswald", sans-serif;
     border-radius: 4px;
 }
-body #dp-wrapper .erau-altitude-wrapper h5 {
+.erau-altitude-wrapper h5 {
     padding: 6px 12px;
     color: #1C2B57;
     background-color: #01B2E3;
@@ -438,7 +438,7 @@ body #dp-wrapper .erau-altitude-wrapper h5 {
     font-family: "Oswald", sans-serif;
     border-radius: 4px;
 }
-body #dp-wrapper .erau-altitude-wrapper h6 {
+.erau-altitude-wrapper h6 {
     padding: 6px 12px;
     color: #1C2B57;
     background-color: #01B2E3;
@@ -448,11 +448,11 @@ body #dp-wrapper .erau-altitude-wrapper h6 {
     border-radius: 4px;
 }
 /* BANNER STYLES */
-body #dp-wrapper:has(header.erau-altitude-header) {
+#dp-wrapper:has(header.erau-altitude-header) {
     display: flex;
     flex-direction: column;
 }
-body #dp-wrapper header.erau-altitude-header {
+header.erau-altitude-header {
     margin: 0;
     padding: 24px;
     color: #1C2B57;
@@ -461,22 +461,22 @@ body #dp-wrapper header.erau-altitude-header {
     flex-direction: column;
     border-radius: 4px;
 }
-body #dp-wrapper:has(.dp-banner-image) > header.erau-altitude-header {
+#dp-wrapper:has(.dp-banner-image) > header.erau-altitude-header {
     border-radius: 0 0 4px 4px;
 }
-body #dp-wrapper:has(header.erau-altitude-header) .dp-banner-image {
+#dp-wrapper:has(header.erau-altitude-header) .dp-banner-image {
     border-top: 20px solid #01B2E3;
     order: -1;
     border-radius: 4px 4px 0 0;
 }
-body #dp-wrapper header.erau-altitude-header .dp-heading {
+header.erau-altitude-header .dp-heading {
     padding: 0;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     border: none;
 }
-body #dp-wrapper header.erau-altitude-header .dp-header-pre {
+header.erau-altitude-header .dp-header-pre {
     padding: 6px 12px;
     color: #01B2E3;
     font-size: 20px;
@@ -486,17 +486,17 @@ body #dp-wrapper header.erau-altitude-header .dp-header-pre {
     letter-spacing: 4px;
     background-color: #1C2B57;
 }
-body #dp-wrapper header.erau-altitude-header .dp-header-pre-2:before {
+header.erau-altitude-header .dp-header-pre-2:before {
     content: url("https://madeby.johnsexton.media/erau-eagle-unrivaled-20.png");
     margin-right: 8px;
 }
-body #dp-wrapper header.erau-altitude-header .dp-header-subtitle {
+header.erau-altitude-header .dp-header-subtitle {
     margin: 0;
     color: #1C2B57;
     font-size: 24px;
     font-family: "Oswald", sans-serif;
 }
-body #dp-wrapper header.erau-altitude-header .dp-header-description {
+header.erau-altitude-header .dp-header-description {
     padding: 6px 0;
     color: #1C2B57;
     font-size: 16px;
@@ -504,11 +504,11 @@ body #dp-wrapper header.erau-altitude-header .dp-header-description {
 }
 
 /* NAVIGATION STYLES */
-body #dp-wrapper nav.erau-altitude-grid {
+nav.erau-altitude-grid {
     margin: 2rem 0;
     padding: 0;
 }
-body #dp-wrapper nav.erau-altitude-grid a {
+nav.erau-altitude-grid a {
     padding: .8rem 1rem;
     color: #1C2B57;
     text-transform: uppercase;
@@ -524,14 +524,14 @@ body #dp-wrapper nav.erau-altitude-grid a {
         background-color 0.5s ease,
         border-color 0.5s ease;
 }
-body #dp-wrapper nav.erau-altitude-grid a:hover {
+nav.erau-altitude-grid a:hover {
     text-decoration: none;
     border-bottom: 6px solid #1C2B57;
 }
-body #dp-wrapper nav.erau-altitude-grid a:has(.fa-icons) {
+nav.erau-altitude-grid a:has(.fa-icons) {
     justify-content: start;
 }
-body #dp-wrapper nav.erau-altitude-grid .fa-icons {
+nav.erau-altitude-grid .fa-icons {
     margin: 0 .5rem 0 0;
     color: #1C2B57;
 }
