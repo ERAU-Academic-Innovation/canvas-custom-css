@@ -11,7 +11,7 @@
 #dp-wrapper header.erau-unrivaled-header {
     margin: 0;
     padding: 24px;
-    color: #FFFFFF;
+    color: #F5F5F5;
     background: #03539E;
     display: flex;
     flex-direction: column;
@@ -47,7 +47,7 @@
     line-height: 20px;
     text-transform: uppercase;
     letter-spacing: 4px;
-    background-color: #FFFFFF;
+    background-color: #F5F5F5;
 }
 #dp-wrapper:has(.erau-unrivaled-header) .erau-unrivaled-header .dp-header-pre-2:before {
     content: url("https://madeby.johnsexton.media/erau-eagle-unrivaled-20.png");
@@ -55,13 +55,13 @@
 }
 #dp-wrapper:has(.erau-unrivaled-header) .erau-unrivaled-header .dp-header-subtitle {
     margin: 0;
-    color: #FFFFFF;
+    color: #F5F5F5;
     font-size: 24px;
     font-family: "Oswald", sans-serif;
 }
 #dp-wrapper:has(.erau-unrivaled-header) .erau-unrivaled-header .dp-header-description {
     padding: 6px 0;
-    color: #FFFFFF;
+    color: #F5F5F5;
     font-size: 16px;
     font-family: "Roboto", sans-serif;
 }
@@ -70,7 +70,7 @@
 #dp-wrapper.erau-unrivaled-wrapper h2 {
     margin: 0;
     padding: 12px;
-    color: #FFFFFF;
+    color: #F5F5F5;
     background-color: #03539E;
     font-size: 64px;
     font-weight: 900;
@@ -427,7 +427,7 @@
 #dp-wrapper header.erau-beyond-header {
     margin: 0;
     padding: 24px;
-    color: #FFFFFF;
+    color: #F5F5F5;
     background: #1C2B57;
     display: flex;
     flex-direction: column;
@@ -463,7 +463,7 @@
     line-height: 20px;
     text-transform: uppercase;
     letter-spacing: 4px;
-    background-color: #FFFFFF;
+    background-color: #F5F5F5;
 }
 #dp-wrapper:has(.erau-beyond-header) .erau-beyond-header .dp-header-pre-2:before {
     content: url("https://madeby.johnsexton.media/erau-eagle-beyond-20.png");
@@ -471,13 +471,13 @@
 }
 #dp-wrapper:has(.erau-beyond-header) .erau-beyond-header .dp-header-subtitle {
     margin: 0;
-    color: #FFFFFF;
+    color: #F5F5F5;
     font-size: 24px;
     font-family: "Oswald", sans-serif;
 }
 #dp-wrapper:has(.erau-beyond-header) .erau-beyond-header .dp-header-description {
     padding: 6px 0;
-    color: #FFFFFF;
+    color: #F5F5F5;
     font-size: 16px;
     font-family: "Roboto", sans-serif;
 }
@@ -486,7 +486,7 @@
 #dp-wrapper.erau-beyond-wrapper h2 {
     margin: 0;
     padding: 12px;
-    color: #FFFFFF;
+    color: #F5F5F5;
     background-color: #1C2B57;
     font-size: 64px;
     font-weight: 900;
@@ -527,7 +527,7 @@
 }
 #dp-wrapper .erau-beyond-grid a {
     padding: .8rem 1rem;
-    color: #FFFFFF;
+    color: #F5F5F5;
     text-transform: uppercase;
     text-decoration: none;
     background: #1C2B57;
@@ -550,7 +550,7 @@
 }
 #dp-wrapper .erau-beyond-grid .dp-icon {
     margin: 0 .5rem 0 0;
-    color: #FFFFFF;
+    color: #F5F5F5;
 }
 /*********************************************************************/
 /***** BEYOND-SUNRISE THEME 
