@@ -2,6 +2,44 @@
 /***** UNRIVALED THEME 
 **********************************************************************/
 
+/*** HEADING STYLES ***/
+.dp-wrapper .erau-unrivaled-wrapper h2 {
+    margin: 0;
+    padding: 12px;
+    color: #FFFFFF;
+    background-color: #03539E;
+    font-size: 64px;
+    font-weight: 900;
+    font-family: "Oswald", sans-serif;
+    border-left: 12px solid #03539E;
+    border-radius: 4px;
+}
+.dp-wrapper .erau-unrivaled-wrapper h3 {
+    color: #03539E;
+    font-size: 48px;
+    font-weight: 900;
+    font-family: "Oswald", sans-serif;
+    border-bottom: 4px solid #03539E;
+}
+.dp-wrapper .erau-unrivaled-wrapper h4 {
+    color: #03539E;
+    font-size: 36px;
+    font-weight: 900;
+    font-family: "Oswald", sans-serif;
+}
+.dp-wrapper .erau-unrivaled-wrapper h5 {
+    color: #03539E;
+    font-size: 24px;
+    font-weight: 900;
+    font-family: "Oswald", sans-serif;
+}
+.dp-wrapper .erau-unrivaled-wrapper h6 {
+    color: #03539E;
+    font-size: 20px;
+    font-weight: 900;
+    font-family: "Oswald", sans-serif;
+}
+
 /*** BANNER STYLES ***/
 .dp-wrapper:has(.erau-unrivaled-header) {
     display: flex;
@@ -63,44 +101,6 @@
     color: #FFFFFF;
     font-size: 16px;
     font-family: "Roboto", sans-serif;
-}
-
-/*** HEADING STYLES ***/
-.dp-wrapper .erau-unrivaled-wrapper h2 {
-    margin: 0;
-    padding: 12px;
-    color: #FFFFFF;
-    background-color: #03539E;
-    font-size: 64px;
-    font-weight: 900;
-    font-family: "Oswald", sans-serif;
-    border-left: 12px solid #FFCB06;
-    border-radius: 4px;
-}
-.dp-wrapper .erau-unrivaled-wrapper h3 {
-    color: #03539E;
-    font-size: 48px;
-    font-weight: 900;
-    font-family: "Oswald", sans-serif;
-    border-bottom: 4px solid #03539E;
-}
-.dp-wrapper .erau-unrivaled-wrapper h4 {
-    color: #03539E;
-    font-size: 36px;
-    font-weight: 900;
-    font-family: "Oswald", sans-serif;
-}
-.dp-wrapper .erau-unrivaled-wrapper h5 {
-    color: #03539E;
-    font-size: 24px;
-    font-weight: 900;
-    font-family: "Oswald", sans-serif;
-}
-.dp-wrapper .erau-unrivaled-wrapper h6 {
-    color: #03539E;
-    font-size: 20px;
-    font-weight: 900;
-    font-family: "Oswald", sans-serif;
 }
 
 /*** NAVIGATION STYLES ***/
