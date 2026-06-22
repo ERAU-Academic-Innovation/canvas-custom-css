@@ -38,6 +38,7 @@
     font-family: "Oswald", sans-serif;
 }
 .dp-wrapper:has(.erau-unrivaled-header) .erau-unrivaled-header .dp-header-pre {
+    margin: 0;
     padding: 6px 12px;
     color: #03539E;
     font-size: 20px;
@@ -45,7 +46,7 @@
     line-height: 20px;
     text-transform: uppercase;
     letter-spacing: 4px;
-    background-color: none;
+    background-color: #FFFFFF;
 }
 .dp-wrapper:has(.erau-unrivaled-header) .erau-unrivaled-header .dp-header-pre-2:before {
     content: url("https://madeby.johnsexton.media/erau-eagle-unrivaled-20.png");
@@ -175,6 +176,7 @@
     font-family: "Oswald", sans-serif;
 }
 .dp-wrapper:has(.erau-unrivaled-sunrise-header) .erau-unrivaled-sunrise-header .dp-header-pre {
+    margin: 0;
     padding: 6px 12px;
     color: #03539E;
     font-size: 20px;
@@ -313,6 +315,7 @@
     font-family: "Oswald", sans-serif;
 }
 .dp-wrapper:has(.erau-unrivaled-altitude-header) .erau-unrivaled-altitude-header .dp-header-pre {
+    margin: 0;
     padding: 6px 12px;
     color: #03539E;
     font-size: 20px;
