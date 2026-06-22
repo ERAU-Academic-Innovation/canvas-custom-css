@@ -1,5 +1,5 @@
 /*********************************************************************/
-/***** UNRIVALED-BEYOND THEME 
+/***** UNRIVALED THEME 
 **********************************************************************/
 
 /*** BANNER STYLES ***/
@@ -45,7 +45,7 @@
     line-height: 20px;
     text-transform: uppercase;
     letter-spacing: 4px;
-    background-color: #1C2B57;
+    background-color: none;
 }
 .dp-wrapper:has(.erau-unrivaled-beyond-header) .erau-unrivaled-beyond-header .dp-header-pre-2:before {
     content: url("https://madeby.johnsexton.media/erau-eagle-unrivaled-20.png");
@@ -81,7 +81,7 @@
     font-size: 48px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
-    border-bottom: 4px solid #1C2B57;
+    border-bottom: 4px solid #03539E;
 }
 .dp-wrapper .erau-unrivaled-beyond-wrapper h4 {
     color: #03539E;
@@ -132,7 +132,7 @@
 }
 .dp-wrapper .erau-unrivaled-beyond-grid .fa-icons {
     margin: 0 .5rem 0 0;
-    color: #1C2B57;
+    color: #FFFFFF;
 }
 
 /*********************************************************************/
