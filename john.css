@@ -6,6 +6,7 @@
 @import url(https://erau-academic-innovation.github.io/canvas-custom-css/john-beyond-altitude.css);
 
 .course-footer {
+    margin: 0 auto;
     max-width: 900px;
 }
 .course-footer p {
