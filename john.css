@@ -6,6 +6,7 @@
 #dp-wrapper:has(.erau-unrivaled-header) {
     display: flex;
     flex-direction: column;
+    justify-content: start;
 }
 #dp-wrapper header.erau-unrivaled-header {
     margin: 0;
