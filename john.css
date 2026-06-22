@@ -67,7 +67,7 @@
 }
 
 /*** HEADING STYLES ***/
-.erau-unrivaled-wrapper h2 {
+#dp-wrapper.erau-unrivaled-wrapper h2 {
     margin: 0;
     padding: 12px;
     color: #FFFFFF;
@@ -78,26 +78,26 @@
     border-left: 12px solid #03539E;
     border-radius: 4px;
 }
-.erau-unrivaled-wrapper h3 {
+#dp-wrapper.erau-unrivaled-wrapper h3 {
     color: #03539E;
     font-size: 48px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
     border-bottom: 4px solid #03539E;
 }
-.erau-unrivaled-wrapper h4 {
+#dp-wrapper.erau-unrivaled-wrapper h4 {
     color: #03539E;
     font-size: 36px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
 }
-.erau-unrivaled-wrapper h5 {
+#dp-wrapper.erau-unrivaled-wrapper h5 {
     color: #03539E;
     font-size: 24px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
 }
-.erau-unrivaled-wrapper h6 {
+#dp-wrapper.erau-unrivaled-wrapper h6 {
     color: #03539E;
     font-size: 20px;
     font-weight: 900;
@@ -205,7 +205,7 @@
 }
 
 /*** HEADING STYLES ***/
-.erau-unrivaled-sunrise-wrapper h2 {
+#dp-wrapper.erau-unrivaled-sunrise-wrapper h2 {
     margin: 0;
     padding: 12px;
     color: #FFFFFF;
@@ -216,26 +216,26 @@
     border-left: 12px solid #FFCB06;
     border-radius: 4px;
 }
-.erau-unrivaled-sunrise-wrapper h3 {
+#dp-wrapper.erau-unrivaled-sunrise-wrapper h3 {
     color: #03539E;
     font-size: 48px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
     border-bottom: 4px solid #FFCB06;
 }
-.erau-unrivaled-sunrise-wrapper h4 {
+#dp-wrapper.erau-unrivaled-sunrise-wrapper h4 {
     color: #03539E;
     font-size: 36px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
 }
-.erau-unrivaled-sunrise-wrapper h5 {
+#dp-wrapper.erau-unrivaled-sunrise-wrapper h5 {
     color: #03539E;
     font-size: 24px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
 }
-.erau-unrivaled-sunrise-wrapper h6 {
+#dp-wrapper.erau-unrivaled-sunrise-wrapper h6 {
     color: #03539E;
     font-size: 20px;
     font-weight: 900;
@@ -344,7 +344,7 @@
 }
 
 /*** HEADING STYLES ***/
-.erau-unrivaled-altitude-wrapper h2 {
+#dp-wrapper.erau-unrivaled-altitude-wrapper h2 {
     margin: 0;
     padding: 12px;
     color: #FFFFFF;
@@ -355,26 +355,26 @@
     border-left: 12px solid #01B2E3;
     border-radius: 4px;
 }
-.erau-unrivaled-altitude-wrapper h3 {
+#dp-wrapper.erau-unrivaled-altitude-wrapper h3 {
     color: #03539E;
     font-size: 48px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
     border-bottom: 4px solid #01B2E3;
 }
-.erau-unrivaled-altitude-wrapper h4 {
+#dp-wrapper.erau-unrivaled-altitude-wrapper h4 {
     color: #03539E;
     font-size: 36px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
 }
-.erau-unrivaled-altitude-wrapper h5 {
+#dp-wrapper.erau-unrivaled-altitude-wrapper h5 {
     color: #03539E;
     font-size: 24px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
 }
-.erau-unrivaled-altitude-wrapper h6 {
+#dp-wrapper.erau-unrivaled-altitude-wrapper h6 {
     color: #03539E;
     font-size: 20px;
     font-weight: 900;
