@@ -164,5 +164,11 @@
 }
 
 #dp-wrapper.erau-unrivaled-wrapper .db-card .dp-list-nav a {
+    color: #FFFFFF;
     background-color: #03539E;
+}
+
+#dp-wrapper.erau-unrivaled-wrapper .db-card .dp-list-nav a:hover {
+    color: #000000;
+    background-color: #CCCCCC;
 }
