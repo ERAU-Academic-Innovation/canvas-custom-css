@@ -127,7 +127,7 @@
 }
 #dp-wrapper .erau-unrivaled-grid a:hover {
     text-decoration: none;
-    border-bottom: 6px solid #F5F5F5;
+    border-bottom: 6px solid #DDDDDD;
 }
 #dp-wrapper .erau-unrivaled-grid a.dp-has-icon {
     justify-content: start;
@@ -543,7 +543,7 @@
 }
 #dp-wrapper .erau-beyond-grid a:hover {
     text-decoration: none;
-    border-bottom: 6px solid #F5F5F5;
+    border-bottom: 6px solid #DDDDDD;
 }
 #dp-wrapper .erau-beyond-grid a.dp-has-icon {
     justify-content: start;
