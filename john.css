@@ -129,7 +129,7 @@
     text-decoration: none;
     border-bottom: 6px solid #F5F5F5;
 }
-#dp-wrapper .erau-unrivaled-grid a:has(.dp-has-icon) {
+#dp-wrapper .erau-unrivaled-grid a.dp-has-icon {
     justify-content: start;
 }
 #dp-wrapper .erau-unrivaled-grid .dp-icon {
@@ -267,7 +267,7 @@
     text-decoration: none;
     border-bottom: 6px solid #FFCB06;
 }
-#dp-wrapper .erau-unrivaled-sunrise-grid a:has(.dp-has-icon) {
+#dp-wrapper .erau-unrivaled-sunrise-grid a.dp-has-icon {
     justify-content: start;
 }
 #dp-wrapper .erau-unrivaled-sunrise-grid .dp-icon {
@@ -406,7 +406,7 @@
     text-decoration: none;
     border-bottom: 6px solid #01B2E3;
 }
-#dp-wrapper .erau-unrivaled-altitude-grid a:has(.dp-has-icon) {
+#dp-wrapper .erau-unrivaled-altitude-grid a.dp-has-icon {
     justify-content: start;
 }
 #dp-wrapper .erau-unrivaled-altitude-grid .dp-icon {
@@ -545,7 +545,7 @@
     text-decoration: none;
     border-bottom: 6px solid #F5F5F5;
 }
-#dp-wrapper .erau-beyond-grid a:has(.dp-has-icon) {
+#dp-wrapper .erau-beyond-grid a.dp-has-icon {
     justify-content: start;
 }
 #dp-wrapper .erau-beyond-grid .dp-icon {
@@ -682,7 +682,7 @@
     text-decoration: none;
     border-bottom: 6px solid #FFCB06;
 }
-#dp-wrapper .erau-beyond-sunrise-grid a:has(.dp-has-icon) {
+#dp-wrapper .erau-beyond-sunrise-grid a.dp-has-icon {
     justify-content: start;
 }
 #dp-wrapper .erau-beyond-sunrise-grid .dp-icon {
@@ -821,7 +821,7 @@
     text-decoration: none;
     border-bottom: 6px solid #01B2E3;
 }
-#dp-wrapper .erau-beyond-altitude-grid a:has(.dp-has-icon) {
+#dp-wrapper .erau-beyond-altitude-grid a.dp-has-icon {
     justify-content: start;
 }
 #dp-wrapper .erau-beyond-altitude-grid .dp-icon {
