@@ -11,7 +11,7 @@
 #dp-wrapper header.erau-unrivaled-header {
     margin: 0;
     padding: 24px;
-    color: #F5F5F5;
+    color: #FFFFFF;
     background: #03539E;
     display: flex;
     flex-direction: column;
@@ -47,7 +47,7 @@
     line-height: 20px;
     text-transform: uppercase;
     letter-spacing: 4px;
-    background-color: #F5F5F5;
+    background-color: #DCDCDC;
 }
 #dp-wrapper:has(.erau-unrivaled-header) .erau-unrivaled-header .dp-header-pre-2:before {
     content: url("https://madeby.johnsexton.media/erau-eagle-unrivaled-20.png");
@@ -55,7 +55,7 @@
 }
 #dp-wrapper:has(.erau-unrivaled-header) .erau-unrivaled-header .dp-header-subtitle {
     margin: 0;
-    color: #F5F5F5;
+    color: #FFFFFF;
     font-size: 24px;
     font-family: "Oswald", sans-serif;
 }
@@ -103,7 +103,7 @@
 #dp-wrapper.erau-unrivaled-wrapper h2 {
     margin: 0;
     padding: 12px;
-    color: #F5F5F5;
+    color: #FFFFFF;
     background-color: #03539E;
     font-size: 64px;
     font-weight: 900;
@@ -116,7 +116,7 @@
     font-size: 48px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
-    border-bottom: 4px solid #03539E;
+    border-bottom: 4px solid #DCDCDC;
 }
 #dp-wrapper.erau-unrivaled-wrapper h4 {
     color: #03539E;
