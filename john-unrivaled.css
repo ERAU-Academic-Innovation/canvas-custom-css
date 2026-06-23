@@ -186,10 +186,6 @@
 }
 
 /*** MODULE ITEM DETAILS STYLES ***/
-#dp-wrapper.erau-unrivaled-wrapper.ig-list .ig-row.ig-published:not(.student-view):before {
-    background-color: #03539E;
-}
-
 #dp-wrapper.erau-unrivaled-wrapper .context_module_item .type_icon i {
     color: #03539E;
 }
