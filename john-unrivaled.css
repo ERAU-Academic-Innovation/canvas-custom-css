@@ -198,3 +198,7 @@
     margin-left: 20px;
     color: #03539E;
 }
+
+#dp-wrapper.erau-unrivaled-wrapper .ig-header {
+    display: none;
+}
