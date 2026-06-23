@@ -193,3 +193,8 @@
 #dp-wrapper.erau-unrivaled-wrapper .module-item-title a {
     text-decoration: none;
 }
+
+#dp-wrapper.erau-unrivaled-wrapper .context_module_item .fa-map-marker-alt {
+    margin-left: 20px;
+    color: #03539E;
+}
