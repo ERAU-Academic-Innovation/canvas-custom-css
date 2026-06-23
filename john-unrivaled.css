@@ -83,7 +83,7 @@
     justify-content: center;
     transition: 
         padding 0.5s ease,
-        background-color 0.5s ease,
+        border0.5s ease,
         border-color 0.5s ease;
 }
 #dp-wrapper .erau-unrivaled-grid a:hover {
@@ -140,11 +140,11 @@
 /*** BUTTON STYLES ***/
 #dp-wrapper.erau-unrivaled-wrapper .btn {
     margin: 0 auto;
-    padding: .5rem;
-    color: #03539E;
+    padding: .5rem 1.5rem;
+    color: #FFFFFF;
     text-transform: uppercase;
     text-decoration: none;
-    background: #FFFFFF;
+    background: #03539E;
     border-radius: 4px;
     font-family: "Roboto", sans-serif;
     font-weight: 600;
@@ -156,8 +156,8 @@
 }
 #dp-wrapper.erau-unrivaled-wrapper .btn:hover {
     text-decoration: none;
-    color: #FFFFFF;
-    background-color: #03539E;
+    color: #03539E;
+    background-color: #FFFFFF;
 }
 
 /*** CARD STYLES ***/
