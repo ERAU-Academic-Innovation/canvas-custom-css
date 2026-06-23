@@ -149,7 +149,6 @@
     font-family: "Roboto", sans-serif;
     font-weight: 600;
     justify-content: center;
-    border: 4px solid #03539E;
     transition: 
         background-color 0.5s ease,
         color 0.5s ease;
@@ -178,4 +177,9 @@
     padding-left: 24px;
     color: #03539E;
     background-color: #DCDCDC;
+}
+
+/*** DIVIDER STYLES ***/
+#dp-wrapper.erau-unrivaled-wrapper hr[class*=dp-hr-] {
+    border-color: #03539E;
 }
