@@ -2,6 +2,14 @@
 /***** UNRIVALED THEME 
 **********************************************************************/
 
+:root {
+    --erau-heading-font: "Oswald", sans-serif;
+    --erau-body-font: "Roboto", sans-serif;
+    --erau-white: #FFFFFF;
+    --erau-unrivaled-primary: #03539E;
+    --erau-unrivaled-highlight: #DCDCDC;
+}
+
 /*** BANNER STYLES ***/
 #dp-wrapper:has(.erau-unrivaled-header) {
     display: flex;
@@ -11,8 +19,8 @@
 #dp-wrapper header.erau-unrivaled-header {
     margin: 0;
     padding: 24px;
-    color: #FFFFFF;
-    background: #03539E;
+    color: var(--erau-white);
+    background: var(--erau-unrivaled-primary);
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -22,8 +30,8 @@
     border-radius: 0 0 4px 4px;
 }
 #dp-wrapper:has(.erau-unrivaled-header) .dp-banner-image {
-    border-top: 20px solid #03539E;
-    order: -1;
+    border-top: 20px solid var(--erau-unrivaled-primary);
+    order: -1; // MOVES BANNER ABOVE HEADING
     border-radius: 4px 4px 0 0;
 }
 #dp-wrapper .erau-unrivaled-header .dp-heading {
@@ -41,13 +49,13 @@
 #dp-wrapper:has(.erau-unrivaled-header) .erau-unrivaled-header .dp-header-pre {
     margin: 0;
     padding: 6px 12px;
-    color: #03539E;
+    color: var(--erau-unrivaled-primary);
     font-size: 20px;
     font-weight: 400;
     line-height: 20px;
     text-transform: uppercase;
     letter-spacing: 4px;
-    background-color: #DCDCDC;
+    background-color: var(--erau-unrivaled-highlight);
 }
 #dp-wrapper:has(.erau-unrivaled-header) .erau-unrivaled-header .dp-header-pre-2:before {
     content: url("https://madeby.johnsexton.media/erau-eagle-unrivaled-20.png");
@@ -55,15 +63,15 @@
 }
 #dp-wrapper:has(.erau-unrivaled-header) .erau-unrivaled-header .dp-header-subtitle {
     margin: 0;
-    color: #FFFFFF;
+    color: var(--erau-white);
     font-size: 24px;
-    font-family: "Oswald", sans-serif;
+    font-family: var(--erau-heading-font);
 }
 #dp-wrapper:has(.erau-unrivaled-header) .erau-unrivaled-header .dp-header-description {
     padding: 6px 0;
-    color: #F5F5F5;
+    color: var(--erau-white);
     font-size: 16px;
-    font-family: "Roboto", sans-serif;
+    font-family: var(--erau-body-font);
 }
 
 /*** NAVIGATION STYLES ***/
@@ -73,12 +81,12 @@
 }
 #dp-wrapper .erau-unrivaled-grid a {
     padding: .8rem 1rem;
-    color: #FFFFFF;
+    color: var(--erau-white);
     text-transform: uppercase;
     text-decoration: none;
-    background: #03539E;
+    background: var(--erau-unrivaled-primary);
     border-radius: 4px;
-    font-family: "Roboto", sans-serif;
+    font-family: var(--erau-body-font);
     font-weight: 600;
     justify-content: center;
     transition: 
@@ -89,49 +97,49 @@
 #dp-wrapper .erau-unrivaled-grid a:hover {
     padding-left: 24px;
     text-decoration: none;
-    border-left: 24px solid #CCCCCC;
+    border-left: 24px solid var(--erau-unrivaled-highlight);
 }
 #dp-wrapper .erau-unrivaled-grid a.dp-has-icon {
     justify-content: start;
 }
 #dp-wrapper .erau-unrivaled-grid .dp-icon {
     margin: 0 .5rem 0 0;
-    color: #FFFFFF;
+    color: var(--erau-white);
 }
 
 /*** THEME STYLES ***/
 #dp-wrapper.erau-unrivaled-wrapper h2 {
     margin: 0;
     padding: 12px;
-    color: #FFFFFF;
-    background-color: #03539E;
+    color: var(--erau-white);
+    background-color: var(--erau-unrivaled-primary);
     font-size: 64px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
-    border-left: 12px solid #03539E;
+    border-left: 12px solid var(--erau-unrivaled-primary);
     border-radius: 4px;
 }
 #dp-wrapper.erau-unrivaled-wrapper h3 {
-    color: #03539E;
+    color: var(--erau-unrivaled-primary);
     font-size: 48px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
-    border-bottom: 4px solid #DCDCDC;
+    border-bottom: 4px solid var(--erau-unrivaled-highlight);
 }
 #dp-wrapper.erau-unrivaled-wrapper h4 {
-    color: #03539E;
+    color: var(--erau-unrivaled-primary);
     font-size: 36px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
 }
 #dp-wrapper.erau-unrivaled-wrapper h5 {
-    color: #03539E;
+    color: var(--erau-unrivaled-primary);
     font-size: 24px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
 }
 #dp-wrapper.erau-unrivaled-wrapper h6 {
-    color: #03539E;
+    color: var(--erau-unrivaled-primary);
     font-size: 20px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
@@ -141,13 +149,13 @@
 #dp-wrapper.erau-unrivaled-wrapper .btn {
     margin: 0 auto;
     padding: .5rem 1.5rem;
-    color: #FFFFFF;
+    color: var(--erau-white);
     text-transform: uppercase;
     text-decoration: none;
-    background: #03539E;
+    background: var(--erau-unrivaled-primary);
     border: none;
     border-radius: 4px;
-    font-family: "Roboto", sans-serif;
+    font-family: var(--erau-body-font);
     font-weight: 600;
     justify-content: center;
     transition: 
@@ -156,8 +164,8 @@
 }
 #dp-wrapper.erau-unrivaled-wrapper .btn:hover {
     text-decoration: none;
-    color: #03539E;
-    background-color: #DCDCDC;
+    color: var(--erau-unrivaled-primary);
+    background-color: var(--erau-unrivaled-highlight);
 }
 
 /*** CARD STYLES ***/
@@ -166,8 +174,8 @@
 }
 
 #dp-wrapper.erau-unrivaled-wrapper .dp-card .nav-link {
-    color: #FFFFFF;
-    background-color: #03539E;
+    color: var(--erau-white);
+    background-color: var(--erau-unrivaled-primary);
     transition: 
         padding 0.5s ease,
         color 0.5s ease,
@@ -176,13 +184,13 @@
 
 #dp-wrapper.erau-unrivaled-wrapper .dp-card .nav-link:hover {
     padding-left: 24px;
-    color: #03539E;
-    background-color: #DCDCDC;
+    color: var(--erau-unrivaled-primary);
+    background-color: var(--erau-unrivaled-highlight);
 }
 
 /*** DIVIDER STYLES ***/
 #dp-wrapper.erau-unrivaled-wrapper hr[class*=dp-hr-] {
-    border-color: #03539E;
+    border-color: var(--erau-unrivaled-primary);
 }
 
 /*** MODULE ITEM DETAILS STYLES ***/
@@ -197,15 +205,15 @@
 }
 
 #dp-wrapper.erau-unrivaled-wrapper .dp-module-details li.dp-current .ig-row {
-    background-color: #DCDCDC;
+    background-color: var(--erau-unrivaled-highlight);
 }
 
 #dp-wrapper.erau-unrivaled-wrapper .dp-module-details li.dp-current .ig-row a {
-    color: #03529E;
+    color: var(--erau-unrivaled-primary);
 }
 
 #dp-wrapper.erau-unrivaled-wrapper .context_module_item .type_icon i {
-    color: #03539E;
+    color: var(--erau-unrivaled-primary);
 }
 
 #dp-wrapper.erau-unrivaled-wrapper .module-item-title a {
@@ -214,5 +222,5 @@
 
 #dp-wrapper.erau-unrivaled-wrapper .context_module_item .fa-map-marker-alt {
     margin-left: 20px;
-    color: #03539E;
+    color: var(--erau-unrivaled-primary);
 }
