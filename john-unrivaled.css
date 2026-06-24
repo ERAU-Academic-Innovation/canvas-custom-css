@@ -56,6 +56,7 @@
     text-transform: uppercase;
     letter-spacing: 4px;
     background-color: var(--erau-unrivaled-highlight);
+    border-radius: 4px;
 }
 #dp-wrapper:has(.erau-unrivaled-header) .erau-unrivaled-header .dp-header-pre-2:before {
     content: url("https://madeby.johnsexton.media/erau-eagle-unrivaled-20.png");
