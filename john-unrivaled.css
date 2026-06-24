@@ -68,7 +68,7 @@
     font-size: 24px;
     font-family: var(--erau-heading-font);
 }
-#dp-wrapper:has(.erau-unrivaled-header) .erau-unrivaled-header .dp-header-description {
+#dp-wrapper:has(.erau-unrivaled-header) .erau-unrivaled-header .dp-header-description p {
     padding: 6px 0;
     color: var(--erau-white);
     font-size: 16px;
