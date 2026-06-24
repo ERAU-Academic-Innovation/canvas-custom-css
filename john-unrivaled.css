@@ -170,6 +170,9 @@
 }
 
 /*** CARD STYLES ***/
+#dp-wrapper.erau-unrivaled-wrapper .dp-card h3 {
+    font-size: 18px;
+}
 #dp-wrapper.erau-unrivaled-wrapper .dp-card nav {
     margin-bottom: 0;
 }
