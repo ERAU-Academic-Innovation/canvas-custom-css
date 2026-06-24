@@ -198,14 +198,14 @@
 }
 
 /*** MODULE ITEM DETAILS STYLES ***/
-#dp-wrapper.erau-unrivaled-wrapper .ig-header { // HIDES HEADER OF MODULE NAVIGATION
+#dp-wrapper.erau-unrivaled-wrapper .ig-header { /* HIDES HEADER OF MODULE NAVIGATION */
     display: none;
 }
 
 #dp-wrapper.erau-unrivaled-wrapper .dp-module-details {
     margin: 8px 0 0 0;
     padding: 0;
-    border-top: 1px solid #E8EAEC; // ADDS TOP BORDER AFTER HIDING HEADER
+    border-top: 1px solid #E8EAEC; /* ADDS TOP BORDER AFTER HIDING HEADER */
 }
 
 #dp-wrapper.erau-unrivaled-wrapper .dp-module-details li.dp-current .ig-row {
