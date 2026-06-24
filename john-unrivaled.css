@@ -186,6 +186,20 @@
 }
 
 /*** MODULE ITEM DETAILS STYLES ***/
+#dp-wrapper.erau-unrivaled-wrapper .dp-module-details {
+    margin: 8px 0 0 0;
+    padding: 0;
+    border-top: 1px solid #DCDCDC;
+}
+
+#dp-wrapper.erau-unrivaled-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: #DCDCDC;
+}
+
+#dp-wrapper.erau-unrivaled-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: #03529E;
+}
+
 #dp-wrapper.erau-unrivaled-wrapper .context_module_item .type_icon i {
     color: #03539E;
 }
@@ -199,6 +213,7 @@
     color: #03539E;
 }
 
+/* HIDES NAVIGATION HEADER */
 #dp-wrapper.erau-unrivaled-wrapper .ig-header {
     display: none;
 }
