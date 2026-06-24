@@ -170,7 +170,7 @@
 }
 
 /*** CARD STYLES ***/
-#dp-wrapper.erau-unrivaled-wrapper .dp-card h3 {
+#dp-wrapper.erau-unrivaled-wrapper .dp-card .card-title {
     font-size: 18px;
 }
 #dp-wrapper.erau-unrivaled-wrapper .dp-card nav {
