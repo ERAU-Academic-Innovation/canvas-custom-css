@@ -791,7 +791,7 @@
 /***** BLACK-UNRIVALED COLOR STYLES
 **********************************************************************/
 
-#dp-wrapper header.black-unrivalled-header {
+#dp-wrapper header.black-unrivaled-header {
     color: var(--erau-white);
     background: var(--erau-black);
 }
@@ -799,7 +799,7 @@
     border-top: 20px solid var(--erau-black);
 }
 #dp-wrapper:has(.black-unrivaled-header) .black-unrivaled-header .dp-header-pre {
-    color: var(--erau-black);
+    color: var(--erau-white);
     background-color: var(--erau-unrivaled);
 }
 
