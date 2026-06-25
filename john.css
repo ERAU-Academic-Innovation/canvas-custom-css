@@ -427,7 +427,7 @@
 #dp-wrapper.unrivaled-altitude-wrapper h2 {
     background-color: var(--erau-unrivaled);
 }
-#dp-wrapper.unrivaled-wrapper h3 {
+#dp-wrapper.unrivaled-altitude-wrapper h3 {
     color: var(--erau-unrivaled);
     border-bottom: 4px solid var(--erau-altitude);
 }
