@@ -322,76 +322,76 @@
 /***** UNRIVALED-SUNRISE COLOR STYLES
 **********************************************************************/
 
-#dp-wrapper header.unrivaled-header {
+#dp-wrapper header.unrivaled-sunrise-header {
     color: var(--erau-white);
     background: var(--erau-unrivaled);
 }
-#dp-wrapper:has(.unrivaled-header) .dp-banner-image {
+#dp-wrapper:has(.unrivaled-sunrise-header) .dp-banner-image {
     border-top: 20px solid var(--erau-unrivaled);
 }
-#dp-wrapper:has(.unrivaled-header) .unrivaled-header .dp-header-pre {
+#dp-wrapper:has(.unrivaled-sunrise-header) .unrivaled-sunrise-header .dp-header-pre {
     color: var(--erau-unrivaled);
     background-color: var(--erau-sunrise);
 }
 
-#dp-wrapper .unrivaled-link-grid a {
+#dp-wrapper .unrivaled-sunrise-link-grid a {
     background: var(--erau-unrivaled);
 }
-#dp-wrapper .unrivaled-link-grid a:hover {
+#dp-wrapper .unrivaled-sunrise-link-grid a:hover {
     border-left: 24px solid var(--erau-sunrise);
 }
-#dp-wrapper .unrivaled-link-grid .dp-icon {
+#dp-wrapper .unrivaled-sunrise-link-grid .dp-icon {
     color: var(--erau-sunrise);
 }
 
-#dp-wrapper.unrivaled-wrapper h2 {
+#dp-wrapper.unrivaled-sunrise-wrapper h2 {
     background-color: var(--erau-unrivaled);
 }
-#dp-wrapper.unrivaled-wrapper h3 {
+#dp-wrapper.unrivaled-sunrise-wrapper h3 {
     color: var(--erau-unrivaled);
     border-bottom: 4px solid var(--erau-sunrise);
 }
-#dp-wrapper.unrivaled-wrapper h4,
-#dp-wrapper.unrivaled-wrapper h5,
-#dp-wrapper.unrivaled-wrapper h6 {
+#dp-wrapper.unrivaled-sunrise-wrapper h4,
+#dp-wrapper.unrivaled-sunrise-wrapper h5,
+#dp-wrapper.unrivaled-sunrise-wrapper h6 {
     color: var(--erau-unrivaled);
 }
 
-#dp-wrapper.unrivaled-wrapper .btn {
+#dp-wrapper.unrivaled-sunrise-wrapper .btn {
     color: var(--erau-white);
     background: var(--erau-unrivaled);
 }
-#dp-wrapper.unrivaled-wrapper .btn:hover {
+#dp-wrapper.unrivaled-sunrise-wrapper .btn:hover {
     color: var(--erau-unrivaled);
     background-color: var(--erau-sunrise);
 }
 
-#dp-wrapper.unrivaled-wrapper .dp-card .nav-link {
+#dp-wrapper.unrivaled-sunrise-wrapper .dp-card .nav-link {
     color: var(--erau-white);
     background-color: var(--erau-unrivaled);
 }
-#dp-wrapper.unrivaled-wrapper .dp-card .nav-link:hover {
+#dp-wrapper.unrivaled-sunrise-wrapper .dp-card .nav-link:hover {
     color: var(--erau-unrivaled);
     background-color: var(--erau-sunrise);
 }
 
-#dp-wrapper.unrivaled-wrapper hr[class*=dp-hr-] {
+#dp-wrapper.unrivaled-sunrise-wrapper hr[class*=dp-hr-] {
     border-color: var(--erau-unrivaled);
 }
 
-#dp-wrapper.unrivaled-wrapper .dp-module-details li.dp-current .ig-row {
+#dp-wrapper.unrivaled-sunrise-wrapper .dp-module-details li.dp-current .ig-row {
     background-color: var(--erau-sunrise);
 }
 
-#dp-wrapper.unrivaled-wrapper .dp-module-details li.dp-current .ig-row a {
+#dp-wrapper.unrivaled-sunrise-wrapper .dp-module-details li.dp-current .ig-row a {
     color: var(--erau-unrivaled);
 }
 
-#dp-wrapper.unrivaled-wrapper .context_module_item .type_icon i {
+#dp-wrapper.unrivaled-sunrise-wrapper .context_module_item .type_icon i {
     color: var(--erau-unrivaled);
 }
 
-#dp-wrapper.unrivaled-wrapper .context_module_item .fa-map-marker-alt {
+#dp-wrapper.unrivaled-sunrise-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-unrivaled);
 }
 
@@ -399,76 +399,76 @@
 /***** UNRIVALED-ALTITUDE COLOR STYLES
 **********************************************************************/
 
-#dp-wrapper header.unrivaled-header {
+#dp-wrapper header.unrivaled-altitude-header {
     color: var(--erau-white);
     background: var(--erau-unrivaled);
 }
-#dp-wrapper:has(.unrivaled-header) .dp-banner-image {
+#dp-wrapper:has(.unrivaled-altitude-header) .dp-banner-image {
     border-top: 20px solid var(--erau-unrivaled);
 }
-#dp-wrapper:has(.unrivaled-header) .unrivaled-header .dp-header-pre {
+#dp-wrapper:has(.unrivaled-altitude-header) .unrivaled-altitude-header .dp-header-pre {
     color: var(--erau-unrivaled);
     background-color: var(--erau-altitude);
 }
 
-#dp-wrapper .unrivaled-link-grid a {
+#dp-wrapper .unrivaled-altitude-link-grid a {
     background: var(--erau-unrivaled);
 }
-#dp-wrapper .unrivaled-link-grid a:hover {
+#dp-wrapper .unrivaled-altitude-link-grid a:hover {
     border-left: 24px solid var(--erau-altitude);
 }
-#dp-wrapper .unrivaled-link-grid .dp-icon {
+#dp-wrapper .unrivaled-altitude-link-grid .dp-icon {
     color: var(--erau-altitude);
 }
 
-#dp-wrapper.unrivaled-wrapper h2 {
+#dp-wrapper.unrivaled-altitude-wrapper h2 {
     background-color: var(--erau-unrivaled);
 }
 #dp-wrapper.unrivaled-wrapper h3 {
     color: var(--erau-unrivaled);
     border-bottom: 4px solid var(--erau-altitude);
 }
-#dp-wrapper.unrivaled-wrapper h4,
-#dp-wrapper.unrivaled-wrapper h5,
-#dp-wrapper.unrivaled-wrapper h6 {
+#dp-wrapper.unrivaled-altitude-wrapper h4,
+#dp-wrapper.unrivaled-altitude-wrapper h5,
+#dp-wrapper.unrivaled-altitude-wrapper h6 {
     color: var(--erau-unrivaled);
 }
 
-#dp-wrapper.unrivaled-wrapper .btn {
+#dp-wrapper.unrivaled-altitude-wrapper .btn {
     color: var(--erau-white);
     background: var(--erau-unrivaled);
 }
-#dp-wrapper.unrivaled-wrapper .btn:hover {
+#dp-wrapper.unrivaled-altitude-wrapper .btn:hover {
     color: var(--erau-unrivaled);
     background-color: var(--erau-altitude);
 }
 
-#dp-wrapper.unrivaled-wrapper .dp-card .nav-link {
+#dp-wrapper.unrivaled-altitude-wrapper .dp-card .nav-link {
     color: var(--erau-white);
     background-color: var(--erau-unrivaled);
 }
-#dp-wrapper.unrivaled-wrapper .dp-card .nav-link:hover {
+#dp-wrapper.unrivaled-altitude-wrapper .dp-card .nav-link:hover {
     color: var(--erau-unrivaled);
     background-color: var(--erau-altitude);
 }
 
-#dp-wrapper.unrivaled-wrapper hr[class*=dp-hr-] {
+#dp-wrapper.unrivaled-altitude-wrapper hr[class*=dp-hr-] {
     border-color: var(--erau-unrivaled);
 }
 
-#dp-wrapper.unrivaled-wrapper .dp-module-details li.dp-current .ig-row {
+#dp-wrapper.unrivaled-altitude-wrapper .dp-module-details li.dp-current .ig-row {
     background-color: var(--erau-altitude);
 }
 
-#dp-wrapper.unrivaled-wrapper .dp-module-details li.dp-current .ig-row a {
+#dp-wrapper.unrivaled-altitude-wrapper .dp-module-details li.dp-current .ig-row a {
     color: var(--erau-unrivaled);
 }
 
-#dp-wrapper.unrivaled-wrapper .context_module_item .type_icon i {
+#dp-wrapper.unrivaled-altitude-wrapper .context_module_item .type_icon i {
     color: var(--erau-unrivaled);
 }
 
-#dp-wrapper.unrivaled-wrapper .context_module_item .fa-map-marker-alt {
+#dp-wrapper.unrivaled-altitude-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-unrivaled);
 }
 
@@ -553,76 +553,76 @@
 /***** BEYOND-SUNRISE COLOR STYLES
 **********************************************************************/
 
-#dp-wrapper header.beyond-header {
+#dp-wrapper header.beyond-sunrise-header {
     color: var(--erau-white);
     background: var(--erau-beyond);
 }
-#dp-wrapper:has(.beyond-header) .dp-banner-image {
+#dp-wrapper:has(.beyond-sunrise-header) .dp-banner-image {
     border-top: 20px solid var(--erau-beyond);
 }
-#dp-wrapper:has(.beyond-header) .beyond-header .dp-header-pre {
+#dp-wrapper:has(.beyond-sunrise-header) .beyond-sunrise-header .dp-header-pre {
     color: var(--erau-beyond);
     background-color: var(--erau-sunrise);
 }
 
-#dp-wrapper .beyond-link-grid a {
+#dp-wrapper .beyond-sunrise-link-grid a {
     background: var(--erau-beyond);
 }
-#dp-wrapper .beyond-link-grid a:hover {
+#dp-wrapper .beyond-sunrise-link-grid a:hover {
     border-left: 24px solid var(--erau-sunrise);
 }
-#dp-wrapper .beyond-link-grid .dp-icon {
+#dp-wrapper .beyond-sunrise-link-grid .dp-icon {
     color: var(--erau-sunrise);
 }
 
-#dp-wrapper.beyond-wrapper h2 {
+#dp-wrapper.beyond-sunrise-wrapper h2 {
     background-color: var(--erau-beyond);
 }
-#dp-wrapper.beyond-wrapper h3 {
+#dp-wrapper.beyond-sunrise-wrapper h3 {
     color: var(--erau-beyond);
     border-bottom: 4px solid var(--erau-sunrise);
 }
-#dp-wrapper.beyond-wrapper h4,
-#dp-wrapper.beyond-wrapper h5,
-#dp-wrapper.beyond-wrapper h6 {
+#dp-wrapper.beyond-sunrise-wrapper h4,
+#dp-wrapper.beyond-sunrise-wrapper h5,
+#dp-wrapper.beyond-sunrise-wrapper h6 {
     color: var(--erau-beyond);
 }
 
-#dp-wrapper.beyond-wrapper .btn {
+#dp-wrapper.beyond-sunrise-wrapper .btn {
     color: var(--erau-white);
     background: var(--erau-beyond);
 }
-#dp-wrapper.beyond-wrapper .btn:hover {
+#dp-wrapper.beyond-sunrise-wrapper .btn:hover {
     color: var(--erau-beyond);
     background-color: var(--erau-sunrise);
 }
 
-#dp-wrapper.beyond-wrapper .dp-card .nav-link {
+#dp-wrapper.beyond-sunrise-wrapper .dp-card .nav-link {
     color: var(--erau-white);
     background-color: var(--erau-beyond);
 }
-#dp-wrapper.beyond-wrapper .dp-card .nav-link:hover {
+#dp-wrapper.beyond-sunrise-wrapper .dp-card .nav-link:hover {
     color: var(--erau-beyond);
     background-color: var(--erau-sunrise);
 }
 
-#dp-wrapper.beyond-wrapper hr[class*=dp-hr-] {
+#dp-wrapper.beyond-sunrise-wrapper hr[class*=dp-hr-] {
     border-color: var(--erau-beyond);
 }
 
-#dp-wrapper.beyond-wrapper .dp-module-details li.dp-current .ig-row {
+#dp-wrapper.beyond-sunrise-wrapper .dp-module-details li.dp-current .ig-row {
     background-color: var(--erau-sunrise);
 }
 
-#dp-wrapper.beyond-wrapper .dp-module-details li.dp-current .ig-row a {
+#dp-wrapper.beyond-sunrise-wrapper .dp-module-details li.dp-current .ig-row a {
     color: var(--erau-beyond);
 }
 
-#dp-wrapper.beyond-wrapper .context_module_item .type_icon i {
+#dp-wrapper.beyond-sunrise-wrapper .context_module_item .type_icon i {
     color: var(--erau-beyond);
 }
 
-#dp-wrapper.beyond-wrapper .context_module_item .fa-map-marker-alt {
+#dp-wrapper.beyond-sunrise-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-beyond);
 }
 
@@ -630,75 +630,75 @@
 /***** BEYOND-ALTITUDE COLOR STYLES
 **********************************************************************/
 
-#dp-wrapper header.beyond-header {
+#dp-wrapper header.beyond-altitude-header {
     color: var(--erau-white);
     background: var(--erau-beyond);
 }
-#dp-wrapper:has(.beyond-header) .dp-banner-image {
+#dp-wrapper:has(.beyond-altitude-header) .dp-banner-image {
     border-top: 20px solid var(--erau-beyond);
 }
-#dp-wrapper:has(.beyond-header) .beyond-header .dp-header-pre {
+#dp-wrapper:has(.beyond-altitude-header) .beyond-altitude-header .dp-header-pre {
     color: var(--erau-beyond);
     background-color: var(--erau-sunrise);
 }
 
-#dp-wrapper .beyond-link-grid a {
+#dp-wrapper .beyond-altitude-link-grid a {
     background: var(--erau-beyond);
 }
-#dp-wrapper .beyond-link-grid a:hover {
+#dp-wrapper .beyond-altitude-link-grid a:hover {
     border-left: 24px solid var(--erau-sunrise);
 }
-#dp-wrapper .beyond-link-grid .dp-icon {
+#dp-wrapper .beyond-altitude-link-grid .dp-icon {
     color: var(--erau-sunrise);
 }
 
-#dp-wrapper.beyond-wrapper h2 {
+#dp-wrapper.beyond-altitude-wrapper h2 {
     background-color: var(--erau-beyond);
 }
-#dp-wrapper.beyond-wrapper h3 {
+#dp-wrapper.beyond-altitude-wrapper h3 {
     color: var(--erau-beyond);
     border-bottom: 4px solid var(--erau-sunrise);
 }
-#dp-wrapper.beyond-wrapper h4,
-#dp-wrapper.beyond-wrapper h5,
-#dp-wrapper.beyond-wrapper h6 {
+#dp-wrapper.beyond-altitude-wrapper h4,
+#dp-wrapper.beyond-altitude-wrapper h5,
+#dp-wrapper.beyond-altitude-wrapper h6 {
     color: var(--erau-beyond);
 }
 
-#dp-wrapper.beyond-wrapper .btn {
+#dp-wrapper.beyond-altitude-wrapper .btn {
     color: var(--erau-white);
     background: var(--erau-beyond);
 }
-#dp-wrapper.beyond-wrapper .btn:hover {
+#dp-wrapper.beyond-altitude-wrapper .btn:hover {
     color: var(--erau-beyond);
     background-color: var(--erau-sunrise);
 }
 
-#dp-wrapper.beyond-wrapper .dp-card .nav-link {
+#dp-wrapper.beyond-altitude-wrapper .dp-card .nav-link {
     color: var(--erau-white);
     background-color: var(--erau-beyond);
 }
-#dp-wrapper.beyond-wrapper .dp-card .nav-link:hover {
+#dp-wrapper.beyond-altitude-wrapper .dp-card .nav-link:hover {
     color: var(--erau-beyond);
     background-color: var(--erau-sunrise);
 }
 
-#dp-wrapper.beyond-wrapper hr[class*=dp-hr-] {
+#dp-wrapper.beyond-altitude-wrapper hr[class*=dp-hr-] {
     border-color: var(--erau-beyond);
 }
 
-#dp-wrapper.beyond-wrapper .dp-module-details li.dp-current .ig-row {
+#dp-wrapper.beyond-altitude-wrapper .dp-module-details li.dp-current .ig-row {
     background-color: var(--erau-sunrise);
 }
 
-#dp-wrapper.beyond-wrapper .dp-module-details li.dp-current .ig-row a {
+#dp-wrapper.beyond-altitude-wrapper .dp-module-details li.dp-current .ig-row a {
     color: var(--erau-beyond);
 }
 
-#dp-wrapper.beyond-wrapper .context_module_item .type_icon i {
+#dp-wrapper.beyond-altitude-wrapper .context_module_item .type_icon i {
     color: var(--erau-beyond);
 }
 
-#dp-wrapper.beyond-wrapper .context_module_item .fa-map-marker-alt {
+#dp-wrapper.beyond-altitude-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-beyond);
 }
