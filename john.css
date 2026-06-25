@@ -6,7 +6,7 @@
     --erau-heading-font: "Oswald", sans-serif;
     --erau-body-font: "Roboto", sans-serif;
     --erau-white: #FFFFFF;
-    --erau-black: #222222;
+    --erau-black: #000000;
     --erau-unrivaled: #03539E;
     --erau-beyond: #1C2B57;
     --erau-grey: #DCDCDC;
@@ -784,5 +784,161 @@
 }
 
 #dp-wrapper.black-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-black);
+}
+
+/*********************************************************************/
+/***** BLACK-SUNRISE COLOR STYLES
+**********************************************************************/
+
+#dp-wrapper header.black-sunrise-header {
+    color: var(--erau-white);
+    background: var(--erau-black);
+}
+#dp-wrapper:has(.black-sunrise-header) .dp-banner-image {
+    border-top: 20px solid var(--erau-black);
+}
+#dp-wrapper:has(.black-sunrise-header) .black-sunrise-header .dp-header-pre {
+    color: var(--erau-black);
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper .black-sunrise-link-grid a {
+    background: var(--erau-black);
+}
+#dp-wrapper .black-sunrise-link-grid a:hover {
+    border-left: 24px solid var(--erau-sunrise);
+}
+#dp-wrapper .black-sunrise-link-grid .dp-icon,
+#dp-wrapper .black-sunrise-link-grid .fas {
+    color: var(--erau-sunrise);
+}
+
+#dp-wrapper.black-sunrise-wrapper h2 {
+    background-color: var(--erau-black);
+}
+#dp-wrapper.black-sunrise-wrapper h3 {
+    color: var(--erau-black);
+    border-bottom: 4px solid var(--erau-sunrise);
+}
+#dp-wrapper.black-sunrise-wrapper h4,
+#dp-wrapper.black-sunrise-wrapper h5,
+#dp-wrapper.black-sunrise-wrapper h6 {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.black-sunrise-wrapper .btn {
+    color: var(--erau-white);
+    background: var(--erau-black);
+}
+#dp-wrapper.black-sunrise-wrapper .btn:hover {
+    color: var(--erau-black);
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.black-sunrise-wrapper .dp-card .nav-link {
+    color: var(--erau-white);
+    background-color: var(--erau-black);
+}
+#dp-wrapper.black-sunrise-wrapper .dp-card .nav-link:hover {
+    color: var(--erau-black);
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.black-sunrise-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-black);
+}
+
+#dp-wrapper.black-sunrise-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.black-sunrise-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.black-sunrise-wrapper .context_module_item .type_icon i {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.black-sunrise-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-black);
+}
+
+/*********************************************************************/
+/***** BLACK-ALTITUDE COLOR STYLES
+**********************************************************************/
+
+#dp-wrapper header.black-altitude-header {
+    color: var(--erau-white);
+    background: var(--erau-black);
+}
+#dp-wrapper:has(.black-altitude-header) .dp-banner-image {
+    border-top: 20px solid var(--erau-black);
+}
+#dp-wrapper:has(.black-altitude-header) .black-altitude-header .dp-header-pre {
+    color: var(--erau-black);
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper .black-altitude-link-grid a {
+    background: var(--erau-black);
+}
+#dp-wrapper .black-altitude-link-grid a:hover {
+    border-left: 24px solid var(--erau-altitude);
+}
+#dp-wrapper .black-altitude-link-grid .dp-icon,
+#dp-wrapper .black-altitude-link-grid .fas {
+    color: var(--erau-altitude);
+}
+
+#dp-wrapper.black-altitude-wrapper h2 {
+    background-color: var(--erau-black);
+}
+#dp-wrapper.black-altitude-wrapper h3 {
+    color: var(--erau-black);
+    border-bottom: 4px solid var(--erau-altitude);
+}
+#dp-wrapper.black-altitude-wrapper h4,
+#dp-wrapper.black-altitude-wrapper h5,
+#dp-wrapper.black-altitude-wrapper h6 {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.black-altitude-wrapper .btn {
+    color: var(--erau-white);
+    background: var(--erau-black);
+}
+#dp-wrapper.black-altitude-wrapper .btn:hover {
+    color: var(--erau-black);
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper.black-altitude-wrapper .dp-card .nav-link {
+    color: var(--erau-white);
+    background-color: var(--erau-black);
+}
+#dp-wrapper.black-altitude-wrapper .dp-card .nav-link:hover {
+    color: var(--erau-black);
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper.black-altitude-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-black);
+}
+
+#dp-wrapper.black-altitude-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper.black-altitude-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.black-altitude-wrapper .context_module_item .type_icon i {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.black-altitude-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-black);
 }
