@@ -110,7 +110,7 @@
     padding: 0;
 }
 #dp-wrapper .erau-link-grid a {
-    padding: 10px 35px 10px 5px;
+    padding: 10px 25px 10px 10px;
     color: var(--erau-white);
     text-transform: uppercase;
     text-decoration: none;
@@ -125,7 +125,7 @@
 }
 
 #dp-wrapper .erau-link-grid a:hover {
-    padding: 10px 5px 10px 20px;
+    padding: 10px 10px 10px 10px;
     text-decoration: none;
     border-left: 15px solid;
 }
