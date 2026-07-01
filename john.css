@@ -51,6 +51,7 @@
 #dp-wrapper:has(.erau-header) .dp-banner-image {
     order: -1; // MOVES BANNER ABOVE HEADING
     border-radius: 4px 4px 0 0;
+    border-top: 20px solid;
 }
 
 #dp-wrapper .erau-header .dp-heading {
@@ -126,6 +127,7 @@
 #dp-wrapper .erau-link-grid a:hover {
     padding-left: 24px;
     text-decoration: none;
+    border-left: 24px solid;
 }
 #dp-wrapper .erau-link-grid a.dp-has-icon {
     justify-content: start;
@@ -153,6 +155,7 @@
     font-size: 48px;
     font-weight: 900;
     font-family: "Oswald", sans-serif;
+    border-bottom: 4px solid;
 }
 
 #dp-wrapper.erau-wrapper h4 {
@@ -250,7 +253,7 @@
     background: var(--erau-unrivaled);
 }
 #dp-wrapper:has(.unrivaled-header) .dp-banner-image {
-    border-top: 20px solid var(--erau-unrivaled);
+    border-color: var(--erau-unrivaled);
 }
 #dp-wrapper:has(.unrivaled-header) .unrivaled-header .dp-header-pre {
     color: var(--erau-unrivaled);
@@ -261,7 +264,7 @@
     background: var(--erau-unrivaled);
 }
 #dp-wrapper .unrivaled-link-grid a:hover {
-    border-left: 24px solid var(--erau-grey);
+    border-color: var(--erau-grey);
 }
 #dp-wrapper .unrivaled-link-grid .dp-icon,
 #dp-wrapper .unrivaled-link-grid .fas {
@@ -273,7 +276,7 @@
 }
 #dp-wrapper.unrivaled-wrapper h3 {
     color: var(--erau-unrivaled);
-    border-bottom: 4px solid var(--erau-grey);
+    border-color: var(--erau-grey);
 }
 #dp-wrapper.unrivaled-wrapper h4,
 #dp-wrapper.unrivaled-wrapper h5,
@@ -328,7 +331,7 @@
     background: var(--erau-unrivaled);
 }
 #dp-wrapper:has(.unrivaled-sunrise-header) .dp-banner-image {
-    border-top: 20px solid var(--erau-unrivaled);
+    border-color: var(--erau-unrivaled);
 }
 #dp-wrapper:has(.unrivaled-sunrise-header) .unrivaled-sunrise-header .dp-header-pre {
     color: var(--erau-unrivaled);
@@ -339,7 +342,7 @@
     background: var(--erau-unrivaled);
 }
 #dp-wrapper .unrivaled-sunrise-link-grid a:hover {
-    border-left: 24px solid var(--erau-sunrise);
+    border-color: var(--erau-sunrise);
 }
 #dp-wrapper .unrivaled-sunrise-link-grid .dp-icon,
 #dp-wrapper .unrivaled-sunrise-link-grid .fas {
@@ -351,7 +354,7 @@
 }
 #dp-wrapper.unrivaled-sunrise-wrapper h3 {
     color: var(--erau-unrivaled);
-    border-bottom: 4px solid var(--erau-sunrise);
+    border-color: var(--erau-sunrise);
 }
 #dp-wrapper.unrivaled-sunrise-wrapper h4,
 #dp-wrapper.unrivaled-sunrise-wrapper h5,
@@ -406,7 +409,7 @@
     background: var(--erau-unrivaled);
 }
 #dp-wrapper:has(.unrivaled-altitude-header) .dp-banner-image {
-    border-top: 20px solid var(--erau-unrivaled);
+    border-color: var(--erau-unrivaled);
 }
 #dp-wrapper:has(.unrivaled-altitude-header) .unrivaled-altitude-header .dp-header-pre {
     color: var(--erau-unrivaled);
@@ -417,7 +420,7 @@
     background: var(--erau-unrivaled);
 }
 #dp-wrapper .unrivaled-altitude-link-grid a:hover {
-    border-left: 24px solid var(--erau-altitude);
+    border-color: var(--erau-altitude);
 }
 #dp-wrapper .unrivaled-altitude-link-grid .dp-icon,
 #dp-wrapper .unrivaled-altitude-link-grid .fas {
@@ -429,7 +432,7 @@
 }
 #dp-wrapper.unrivaled-altitude-wrapper h3 {
     color: var(--erau-unrivaled);
-    border-bottom: 4px solid var(--erau-altitude);
+    border-color: var(--erau-altitude);
 }
 #dp-wrapper.unrivaled-altitude-wrapper h4,
 #dp-wrapper.unrivaled-altitude-wrapper h5,
@@ -484,7 +487,7 @@
     background: var(--erau-beyond);
 }
 #dp-wrapper:has(.beyond-header) .dp-banner-image {
-    border-top: 20px solid var(--erau-beyond);
+    border-color: var(--erau-beyond);
 }
 #dp-wrapper:has(.beyond-header) .beyond-header .dp-header-pre {
     color: var(--erau-beyond);
@@ -495,7 +498,7 @@
     background: var(--erau-beyond);
 }
 #dp-wrapper .beyond-link-grid a:hover {
-    border-left: 24px solid var(--erau-grey);
+    border-color: var(--erau-grey);
 }
 #dp-wrapper .beyond-link-grid .dp-icon,
 #dp-wrapper .beyond-link-grid .fas {
@@ -507,7 +510,7 @@
 }
 #dp-wrapper.beyond-wrapper h3 {
     color: var(--erau-beyond);
-    border-bottom: 4px solid var(--erau-grey);
+    border-color: var(--erau-grey);
 }
 #dp-wrapper.beyond-wrapper h4,
 #dp-wrapper.beyond-wrapper h5,
@@ -562,7 +565,7 @@
     background: var(--erau-beyond);
 }
 #dp-wrapper:has(.beyond-sunrise-header) .dp-banner-image {
-    border-top: 20px solid var(--erau-beyond);
+    border-color: var(--erau-beyond);
 }
 #dp-wrapper:has(.beyond-sunrise-header) .beyond-sunrise-header .dp-header-pre {
     color: var(--erau-beyond);
@@ -573,7 +576,7 @@
     background: var(--erau-beyond);
 }
 #dp-wrapper .beyond-sunrise-link-grid a:hover {
-    border-left: 24px solid var(--erau-sunrise);
+    border-color: var(--erau-sunrise);
 }
 #dp-wrapper .beyond-sunrise-link-grid .dp-icon,
 #dp-wrapper .beyond-sunrise-link-grid .fas {
@@ -585,7 +588,7 @@
 }
 #dp-wrapper.beyond-sunrise-wrapper h3 {
     color: var(--erau-beyond);
-    border-bottom: 4px solid var(--erau-sunrise);
+    border-color: var(--erau-sunrise);
 }
 #dp-wrapper.beyond-sunrise-wrapper h4,
 #dp-wrapper.beyond-sunrise-wrapper h5,
@@ -640,7 +643,7 @@
     background: var(--erau-beyond);
 }
 #dp-wrapper:has(.beyond-altitude-header) .dp-banner-image {
-    border-top: 20px solid var(--erau-beyond);
+    border-color: var(--erau-beyond);
 }
 #dp-wrapper:has(.beyond-altitude-header) .beyond-altitude-header .dp-header-pre {
     color: var(--erau-beyond);
@@ -651,7 +654,7 @@
     background: var(--erau-beyond);
 }
 #dp-wrapper .beyond-altitude-link-grid a:hover {
-    border-left: 24px solid var(--erau-altitude);
+    border-color: var(--erau-altitude);
 }
 #dp-wrapper .beyond-altitude-link-grid .dp-icon,
 #dp-wrapper .beyond-altitude-link-grid .fas {
@@ -663,7 +666,7 @@
 }
 #dp-wrapper.beyond-altitude-wrapper h3 {
     color: var(--erau-beyond);
-    border-bottom: 4px solid var(--erau-altitude);
+    border-color: var(--erau-altitude);
 }
 #dp-wrapper.beyond-altitude-wrapper h4,
 #dp-wrapper.beyond-altitude-wrapper h5,
@@ -718,7 +721,7 @@
     background: var(--erau-black);
 }
 #dp-wrapper:has(.black-header) .dp-banner-image {
-    border-top: 20px solid var(--erau-black);
+    border-color: var(--erau-black);
 }
 #dp-wrapper:has(.black-header) .black-header .dp-header-pre {
     color: var(--erau-black);
@@ -729,7 +732,7 @@
     background: var(--erau-black);
 }
 #dp-wrapper .black-link-grid a:hover {
-    border-left: 24px solid var(--erau-grey);
+    border-color: var(--erau-grey);
 }
 #dp-wrapper .black-link-grid .dp-icon,
 #dp-wrapper .black-link-grid .fas {
@@ -741,7 +744,7 @@
 }
 #dp-wrapper.black-wrapper h3 {
     color: var(--erau-black);
-    border-bottom: 4px solid var(--erau-grey);
+    border-color: var(--erau-grey);
 }
 #dp-wrapper.black-wrapper h4,
 #dp-wrapper.black-wrapper h5,
@@ -796,7 +799,7 @@
     background: var(--erau-black);
 }
 #dp-wrapper:has(.black-unrivaled-header) .dp-banner-image {
-    border-top: 20px solid var(--erau-black);
+    border-color: var(--erau-black);
 }
 #dp-wrapper:has(.black-unrivaled-header) .black-unrivaled-header .dp-header-pre {
     color: var(--erau-white);
@@ -807,7 +810,7 @@
     background: var(--erau-black);
 }
 #dp-wrapper .black-unrivaled-link-grid a:hover {
-    border-left: 24px solid var(--erau-unrivaled);
+    border-color: var(--erau-unrivaled);
 }
 #dp-wrapper .black-unrivaled-link-grid .dp-icon,
 #dp-wrapper .black-unrivaled-link-grid .fas {
@@ -819,7 +822,7 @@
 }
 #dp-wrapper.black-unrivaled-wrapper h3 {
     color: var(--erau-black);
-    border-bottom: 4px solid var(--erau-unrivaled);
+    border-color: var(--erau-unrivaled);
 }
 #dp-wrapper.black-unrivaled-wrapper h4,
 #dp-wrapper.black-unrivaled-wrapper h5,
@@ -874,7 +877,7 @@
     background: var(--erau-black);
 }
 #dp-wrapper:has(.black-sunrise-header) .dp-banner-image {
-    border-top: 20px solid var(--erau-black);
+    border-color: var(--erau-black);
 }
 #dp-wrapper:has(.black-sunrise-header) .black-sunrise-header .dp-header-pre {
     color: var(--erau-black);
@@ -885,7 +888,7 @@
     background: var(--erau-black);
 }
 #dp-wrapper .black-sunrise-link-grid a:hover {
-    border-left: 24px solid var(--erau-sunrise);
+    border-color: var(--erau-sunrise);
 }
 #dp-wrapper .black-sunrise-link-grid .dp-icon,
 #dp-wrapper .black-sunrise-link-grid .fas {
@@ -897,7 +900,7 @@
 }
 #dp-wrapper.black-sunrise-wrapper h3 {
     color: var(--erau-black);
-    border-bottom: 4px solid var(--erau-sunrise);
+    border-color: var(--erau-sunrise);
 }
 #dp-wrapper.black-sunrise-wrapper h4,
 #dp-wrapper.black-sunrise-wrapper h5,
@@ -952,7 +955,7 @@
     background: var(--erau-black);
 }
 #dp-wrapper:has(.black-altitude-header) .dp-banner-image {
-    border-top: 20px solid var(--erau-black);
+    border-color: var(--erau-black);
 }
 #dp-wrapper:has(.black-altitude-header) .black-altitude-header .dp-header-pre {
     color: var(--erau-black);
@@ -963,7 +966,7 @@
     background: var(--erau-black);
 }
 #dp-wrapper .black-altitude-link-grid a:hover {
-    border-left: 24px solid var(--erau-altitude);
+    border-color: var(--erau-altitude);
 }
 #dp-wrapper .black-altitude-link-grid .dp-icon,
 #dp-wrapper .black-altitude-link-grid .fas {
@@ -975,7 +978,7 @@
 }
 #dp-wrapper.black-altitude-wrapper h3 {
     color: var(--erau-black);
-    border-bottom: 4px solid var(--erau-altitude);
+    border-color: var(--erau-altitude);
 }
 #dp-wrapper.black-altitude-wrapper h4,
 #dp-wrapper.black-altitude-wrapper h5,
