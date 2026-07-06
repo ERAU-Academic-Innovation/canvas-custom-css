@@ -248,6 +248,11 @@
 /***** UNRIVALED COLOR STYLES
 **********************************************************************/
 
+#main:has(.unrivaled-wrapper) #left-side a, /* course navigation links */
+.unrivaled-wrapper a {
+    color: var(--erau-unrivaled);
+}
+
 #dp-wrapper header.unrivaled-header {
     color: var(--erau-white);
     background: var(--erau-unrivaled);
@@ -325,6 +330,11 @@
 /*********************************************************************/
 /***** UNRIVALED-SUNRISE COLOR STYLES
 **********************************************************************/
+
+#main:has(.unrivaled-sunrise-wrapper) #left-side a, /* course navigation links */
+.unrivaled-sunrise-wrapper a {
+    color: var(--erau-unrivaled);
+}
 
 #dp-wrapper header.unrivaled-sunrise-header {
     color: var(--erau-white);
@@ -404,6 +414,11 @@
 /***** UNRIVALED-ALTITUDE COLOR STYLES
 **********************************************************************/
 
+#main:has(.unrivaled-altitude-wrapper) #left-side a, /* course navigation links */
+.unrivaled-altitude-wrapper a {
+    color: var(--erau-unrivaled);
+}
+
 #dp-wrapper header.unrivaled-altitude-header {
     color: var(--erau-white);
     background: var(--erau-unrivaled);
@@ -481,6 +496,11 @@
 /*********************************************************************/
 /***** BEYOND COLOR STYLES
 **********************************************************************/
+
+#main:has(.beyond-wrapper) #left-side a, /* course navigation links */
+.beyond-wrapper a {
+    color: var(--erau-beyond);
+}
 
 #dp-wrapper header.beyond-header {
     color: var(--erau-white);
@@ -560,6 +580,11 @@
 /***** BEYOND-SUNRISE COLOR STYLES
 **********************************************************************/
 
+#main:has(.beyond-sunrise-wrapper) #left-side a, /* course navigation links */
+.beyond-sunrise-wrapper a {
+    color: var(--erau-beyond);
+}
+
 #dp-wrapper header.beyond-sunrise-header {
     color: var(--erau-white);
     background: var(--erau-beyond);
@@ -637,6 +662,11 @@
 /*********************************************************************/
 /***** BEYOND-ALTITUDE COLOR STYLES
 **********************************************************************/
+
+#main:has(.beyond-altitude-wrapper) #left-side a, /* course navigation links */
+.beyond-altitude-wrapper a {
+    color: var(--erau-beyond);
+}
 
 #dp-wrapper header.beyond-altitude-header {
     color: var(--erau-white);
@@ -794,6 +824,11 @@
 /***** BLACK-UNRIVALED COLOR STYLES
 **********************************************************************/
 
+#main:has(.black-unrivaled-wrapper) #left-side a, /* course navigation links */
+.black-unrivaled-wrapper a {
+    color: var(--erau-beyond);
+}
+
 #dp-wrapper header.black-unrivaled-header {
     color: var(--erau-white);
     background: var(--erau-black);
@@ -872,6 +907,11 @@
 /***** BLACK-SUNRISE COLOR STYLES
 **********************************************************************/
 
+#main:has(.black-sunrise-wrapper) #left-side a, /* course navigation links */
+.black-sunrise-wrapper a {
+    color: var(--erau-beyond);
+}
+
 #dp-wrapper header.black-sunrise-header {
     color: var(--erau-white);
     background: var(--erau-black);
@@ -949,6 +989,11 @@
 /*********************************************************************/
 /***** BLACK-ALTITUDE COLOR STYLES
 **********************************************************************/
+
+#main:has(.black-altitude-wrapper) #left-side a, /* course navigation links */
+.black-altitude-wrapper a {
+    color: var(--erau-beyond);
+}
 
 #dp-wrapper header.black-altitude-header {
     color: var(--erau-white);
