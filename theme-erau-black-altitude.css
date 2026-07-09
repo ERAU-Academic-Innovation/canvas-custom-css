@@ -1,0 +1,82 @@
+/*********************************************************************/
+/***** BLACK-ALTITUDE COLOR STYLES
+**********************************************************************/
+
+#main:has(.black-altitude-wrapper) #left-side a, /* course navigation links */
+.black-altitude-wrapper a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper header.black-altitude-header {
+    color: var(--erau-white);
+    background: var(--erau-black);
+}
+#dp-wrapper:has(.black-altitude-header) .dp-banner-image {
+    border-color: var(--erau-black);
+}
+#dp-wrapper:has(.black-altitude-header) .black-altitude-header .dp-header-pre {
+    color: var(--erau-black);
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper .black-altitude-link-grid a {
+    background: var(--erau-black);
+}
+#dp-wrapper .black-altitude-link-grid a:hover {
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper .black-altitude-link-grid .dp-icon,
+#dp-wrapper .black-altitude-link-grid .fas {
+    color: var(--erau-altitude);
+}
+
+#dp-wrapper.black-altitude-wrapper h2 {
+    background-color: var(--erau-black);
+}
+#dp-wrapper.black-altitude-wrapper h3 {
+    color: var(--erau-black);
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper.black-altitude-wrapper h4,
+#dp-wrapper.black-altitude-wrapper h5,
+#dp-wrapper.black-altitude-wrapper h6 {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.black-altitude-wrapper .btn {
+    color: var(--erau-white);
+    background: var(--erau-black);
+}
+#dp-wrapper.black-altitude-wrapper .btn:hover {
+    color: var(--erau-black);
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper.black-altitude-wrapper .dp-card .nav-link {
+    color: var(--erau-white);
+    background-color: var(--erau-black);
+}
+#dp-wrapper.black-altitude-wrapper .dp-card .nav-link:hover {
+    color: var(--erau-black);
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper.black-altitude-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-black);
+}
+
+#dp-wrapper.black-altitude-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper.black-altitude-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.black-altitude-wrapper .context_module_item .type_icon i {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.black-altitude-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-black);
+}

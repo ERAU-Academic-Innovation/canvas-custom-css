@@ -1,0 +1,82 @@
+/*********************************************************************/
+/***** BLACK-UNRIVALED COLOR STYLES
+**********************************************************************/
+
+#main:has(.black-unrivaled-wrapper) #left-side a, /* course navigation links */
+.black-unrivaled-wrapper a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper header.black-unrivaled-header {
+    color: var(--erau-white);
+    background: var(--erau-black);
+}
+#dp-wrapper:has(.black-unrivaled-header) .dp-banner-image {
+    border-color: var(--erau-black);
+}
+#dp-wrapper:has(.black-unrivaled-header) .black-unrivaled-header .dp-header-pre {
+    color: var(--erau-white);
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper .black-unrivaled-link-grid a {
+    background: var(--erau-black);
+}
+#dp-wrapper .black-unrivaled-link-grid a:hover {
+    border-color: var(--erau-unrivaled);
+}
+#dp-wrapper .black-unrivaled-link-grid .dp-icon,
+#dp-wrapper .black-unrivaled-link-grid .fas {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.black-unrivaled-wrapper h2 {
+    background-color: var(--erau-black);
+}
+#dp-wrapper.black-unrivaled-wrapper h3 {
+    color: var(--erau-black);
+    border-color: var(--erau-unrivaled);
+}
+#dp-wrapper.black-unrivaled-wrapper h4,
+#dp-wrapper.black-unrivaled-wrapper h5,
+#dp-wrapper.black-unrivaled-wrapper h6 {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.black-unrivaled-wrapper .btn {
+    color: var(--erau-white);
+    background: var(--erau-black);
+}
+#dp-wrapper.black-unrivaled-wrapper .btn:hover {
+    color: var(--erau-black);
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.black-unrivaled-wrapper .dp-card .nav-link {
+    color: var(--erau-white);
+    background-color: var(--erau-black);
+}
+#dp-wrapper.black-unrivaled-wrapper .dp-card .nav-link:hover {
+    color: var(--erau-black);
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.black-unrivaled-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-black);
+}
+
+#dp-wrapper.black-unrivaled-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.black-unrivaled-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.black-unrivaled-wrapper .context_module_item .type_icon i {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.black-unrivaled-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-black);
+}

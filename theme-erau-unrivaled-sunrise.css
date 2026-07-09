@@ -1,0 +1,82 @@
+/*********************************************************************/
+/***** UNRIVALED-SUNRISE COLOR STYLES
+**********************************************************************/
+
+#main:has(.unrivaled-sunrise-wrapper) #left-side a, /* course navigation links */
+.unrivaled-sunrise-wrapper a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper header.unrivaled-sunrise-header {
+    color: var(--erau-white);
+    background: var(--erau-unrivaled);
+}
+#dp-wrapper:has(.unrivaled-sunrise-header) .dp-banner-image {
+    border-color: var(--erau-unrivaled);
+}
+#dp-wrapper:has(.unrivaled-sunrise-header) .unrivaled-sunrise-header .dp-header-pre {
+    color: var(--erau-unrivaled);
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper .unrivaled-sunrise-link-grid a {
+    background: var(--erau-unrivaled);
+}
+#dp-wrapper .unrivaled-sunrise-link-grid a:hover {
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper .unrivaled-sunrise-link-grid .dp-icon,
+#dp-wrapper .unrivaled-sunrise-link-grid .fas {
+    color: var(--erau-sunrise);
+}
+
+#dp-wrapper.unrivaled-sunrise-wrapper h2 {
+    background-color: var(--erau-unrivaled);
+}
+#dp-wrapper.unrivaled-sunrise-wrapper h3 {
+    color: var(--erau-unrivaled);
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper.unrivaled-sunrise-wrapper h4,
+#dp-wrapper.unrivaled-sunrise-wrapper h5,
+#dp-wrapper.unrivaled-sunrise-wrapper h6 {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.unrivaled-sunrise-wrapper .btn {
+    color: var(--erau-white);
+    background: var(--erau-unrivaled);
+}
+#dp-wrapper.unrivaled-sunrise-wrapper .btn:hover {
+    color: var(--erau-unrivaled);
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.unrivaled-sunrise-wrapper .dp-card .nav-link {
+    color: var(--erau-white);
+    background-color: var(--erau-unrivaled);
+}
+#dp-wrapper.unrivaled-sunrise-wrapper .dp-card .nav-link:hover {
+    color: var(--erau-unrivaled);
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.unrivaled-sunrise-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.unrivaled-sunrise-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.unrivaled-sunrise-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.unrivaled-sunrise-wrapper .context_module_item .type_icon i {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.unrivaled-sunrise-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-unrivaled);
+}

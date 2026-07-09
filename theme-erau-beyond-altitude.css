@@ -1,0 +1,82 @@
+/*********************************************************************/
+/***** ERAU BEYOND ALTITUDE THEME ************************************/
+/*********************************************************************/
+
+#main:has(.beyond-altitude-wrapper) #left-side a, /* course navigation links */
+.beyond-altitude-wrapper a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper header.beyond-altitude-header {
+    color: var(--erau-white);
+    background: var(--erau-beyond);
+}
+#dp-wrapper:has(.beyond-altitude-header) .dp-banner-image {
+    border-color: var(--erau-beyond);
+}
+#dp-wrapper:has(.beyond-altitude-header) .beyond-altitude-header .dp-header-pre {
+    color: var(--erau-beyond);
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper .beyond-altitude-link-grid a {
+    background: var(--erau-beyond);
+}
+#dp-wrapper .beyond-altitude-link-grid a:hover {
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper .beyond-altitude-link-grid .dp-icon,
+#dp-wrapper .beyond-altitude-link-grid .fas {
+    color: var(--erau-altitude);
+}
+
+#dp-wrapper.beyond-altitude-wrapper h2 {
+    background-color: var(--erau-beyond);
+}
+#dp-wrapper.beyond-altitude-wrapper h3 {
+    color: var(--erau-beyond);
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper.beyond-altitude-wrapper h4,
+#dp-wrapper.beyond-altitude-wrapper h5,
+#dp-wrapper.beyond-altitude-wrapper h6 {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.beyond-altitude-wrapper .btn {
+    color: var(--erau-white);
+    background: var(--erau-beyond);
+}
+#dp-wrapper.beyond-altitude-wrapper .btn:hover {
+    color: var(--erau-beyond);
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper.beyond-altitude-wrapper .dp-card .nav-link {
+    color: var(--erau-white);
+    background-color: var(--erau-beyond);
+}
+#dp-wrapper.beyond-altitude-wrapper .dp-card .nav-link:hover {
+    color: var(--erau-beyond);
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper.beyond-altitude-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-beyond);
+}
+
+#dp-wrapper.beyond-altitude-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper.beyond-altitude-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.beyond-altitude-wrapper .context_module_item .type_icon i {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.beyond-altitude-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-beyond);
+}

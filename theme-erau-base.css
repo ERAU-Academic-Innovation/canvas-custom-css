@@ -1,0 +1,245 @@
+/*********************************************************************/
+/***** ERAU BASE THEME ***********************************************/
+/*********************************************************************/
+
+:root {
+    --erau-heading-font: "Oswald", sans-serif;
+    --erau-body-font: "Roboto", sans-serif;
+    --erau-white: #FFFFFF;
+    --erau-black: #000000;
+    --erau-unrivaled: #03539E;
+    --erau-beyond: #1C2B57;
+    --erau-grey: #DCDCDC;
+    --erau-sunrise: #FFCB06;
+    --erau-altitude: #01B2E3;
+}
+
+.course-footer {
+    margin: 0 auto;
+    max-width: 900px;
+}
+
+.course-footer p {
+    text-align: center;
+    font-size: 10px;
+    line-height: 10px;
+}
+
+/*********************************************************************/
+/***** ERAU BANNER HEADER STYLES
+**********************************************************************/
+
+#dp-wrapper:has(.erau-header) {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+
+#dp-wrapper header.erau-header {
+    margin: 0 0 20px 0;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    border-radius: 4px;
+}
+
+#dp-wrapper:has(.dp-banner-image) > .erau-header {
+    border-radius: 0 0 4px 4px;
+}
+
+#dp-wrapper:has(.erau-header) .dp-banner-image {
+    order: -1; /* MOVES BANNER ABOVE HEADING */
+    border-radius: 4px 4px 0 0;
+    border-top: 20px solid;
+}
+
+#dp-wrapper .erau-header .dp-heading {
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    border: none;
+}
+
+#dp-wrapper .erau-header .dp-header-title {
+    font-size: 64px;
+    font-weight: 900;
+    font-family: "Oswald", sans-serif;
+}
+
+#dp-wrapper:has(.erau-header) .erau-header .dp-header-pre {
+    margin: 0;
+    padding: 6px 12px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    border-radius: 4px;
+}
+
+#dp-wrapper:has(.erau-header) .erau-header .dp-header-pre-2:before {
+    margin-right: 12px;
+    content: url("https://madeby.johnsexton.media/erau-eagle-unrivaled-20.png");
+}
+
+#dp-wrapper:has(.erau-header) .erau-header .dp-header-subtitle {
+    margin: 0;
+    font-size: 24px;
+    font-family: var(--erau-heading-font);
+}
+
+#dp-wrapper:has(.erau-header) .erau-header .dp-header-subtitle {
+    color: var(--erau-white);
+}
+
+#dp-wrapper:has(.erau-header) .erau-header .dp-header-description p {
+    padding: 6px 0;
+    color: var(--erau-white);
+    font-size: 16px;
+    font-family: var(--erau-body-font);
+}
+
+/*********************************************************************/
+/***** ERAU LINK GRID STYLES
+**********************************************************************/
+
+#dp-wrapper .erau-link-grid {
+    margin: 2rem 0;
+    padding: 0;
+}
+#dp-wrapper .erau-link-grid a {
+    padding: 10px 25px 10px 10px;
+    color: var(--erau-white);
+    text-transform: uppercase;
+    text-decoration: none;
+    border-radius: 4px;
+    font-family: var(--erau-body-font);
+    font-weight: 600;
+    justify-content: center;
+    transition: 
+        padding 0.5s ease,
+        border 0.5s ease,
+        border-color 0.5s ease;
+}
+
+#dp-wrapper .erau-link-grid a:hover {
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+    border-left: 15px solid;
+}
+#dp-wrapper .erau-link-grid a.dp-has-icon {
+    justify-content: start;
+}
+
+#dp-wrapper .erau-link-grid .dp-icon {
+    margin: 0 .5rem 0 0;
+}
+
+/*********************************************************************/
+/***** ERAU THEME/WRAPPER STYLES
+**********************************************************************/
+
+#dp-wrapper.erau-wrapper h2 {
+    margin: 0;
+    padding: 12px;
+    color: var(--erau-white);
+    font-size: 64px;
+    font-weight: 900;
+    font-family: "Oswald", sans-serif;
+    border-radius: 4px;
+}
+
+#dp-wrapper.erau-wrapper h3 {
+    font-size: 48px;
+    font-weight: 900;
+    font-family: "Oswald", sans-serif;
+    border-bottom: 4px solid;
+}
+
+#dp-wrapper.erau-wrapper h4 {
+    font-size: 36px;
+    font-weight: 900;
+    font-family: "Oswald", sans-serif;
+}
+
+#dp-wrapper.erau-wrapper h5 {
+    font-size: 24px;
+    font-weight: 900;
+    font-family: "Oswald", sans-serif;
+}
+
+#dp-wrapper.erau-wrapper h6 {
+    font-size: 20px;
+    font-weight: 900;
+    font-family: "Oswald", sans-serif;
+}
+
+/*********************************************************************/
+/***** ERAU BUTTON STYLES
+**********************************************************************/
+
+#dp-wrapper.erau-wrapper .btn {
+    margin: 0 auto;
+    padding: .5rem 1.5rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    font-family: var(--erau-body-font);
+    font-weight: 600;
+    justify-content: center;
+    transition: 
+        background-color 0.5s ease,
+        color 0.5s ease;
+}
+
+#dp-wrapper.erau-wrapper .btn:hover {
+    text-decoration: none;
+}
+
+/*********************************************************************/
+/***** ERAU CARD STYLES
+**********************************************************************/
+
+#dp-wrapper.erau-wrapper .dp-card .card-title {
+    font-size: 18px;
+}
+
+#dp-wrapper.erau-wrapper .dp-card nav {
+    margin-bottom: 0;
+}
+
+#dp-wrapper.erau-wrapper .dp-card .nav-link {
+    transition: 
+        padding 0.5s ease,
+        color 0.5s ease,
+        background-color 0.5s ease;
+}
+
+#dp-wrapper.erau-wrapper .dp-card .nav-link:hover {
+    padding-left: 24px;
+}
+
+/*********************************************************************/
+/***** MODULE ITEM DETAILS STYLES
+**********************************************************************/
+
+#dp-wrapper.erau-wrapper .ig-header { /* HIDES HEADER OF MODULE NAVIGATION */
+    display: none;
+}
+
+#dp-wrapper.erau-wrapper .dp-module-details {
+    margin: 8px 0 0 0;
+    padding: 0;
+    border-top: 1px solid #E8EAEC; /* ADDS TOP BORDER AFTER HIDING HEADER */
+}
+
+#dp-wrapper.erau-wrapper .module-item-title a {
+    text-decoration: none;
+}
+
+#dp-wrapper.erau-wrapper .context_module_item .fa-map-marker-alt {
+    margin-left: 20px;
+}

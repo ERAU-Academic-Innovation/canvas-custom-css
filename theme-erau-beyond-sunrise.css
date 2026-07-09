@@ -1,0 +1,82 @@
+/*********************************************************************/
+/***** BEYOND-SUNRISE COLOR STYLES
+**********************************************************************/
+
+#main:has(.beyond-sunrise-wrapper) #left-side a, /* course navigation links */
+.beyond-sunrise-wrapper a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper header.beyond-sunrise-header {
+    color: var(--erau-white);
+    background: var(--erau-beyond);
+}
+#dp-wrapper:has(.beyond-sunrise-header) .dp-banner-image {
+    border-color: var(--erau-beyond);
+}
+#dp-wrapper:has(.beyond-sunrise-header) .beyond-sunrise-header .dp-header-pre {
+    color: var(--erau-beyond);
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper .beyond-sunrise-link-grid a {
+    background: var(--erau-beyond);
+}
+#dp-wrapper .beyond-sunrise-link-grid a:hover {
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper .beyond-sunrise-link-grid .dp-icon,
+#dp-wrapper .beyond-sunrise-link-grid .fas {
+    color: var(--erau-sunrise);
+}
+
+#dp-wrapper.beyond-sunrise-wrapper h2 {
+    background-color: var(--erau-beyond);
+}
+#dp-wrapper.beyond-sunrise-wrapper h3 {
+    color: var(--erau-beyond);
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper.beyond-sunrise-wrapper h4,
+#dp-wrapper.beyond-sunrise-wrapper h5,
+#dp-wrapper.beyond-sunrise-wrapper h6 {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.beyond-sunrise-wrapper .btn {
+    color: var(--erau-white);
+    background: var(--erau-beyond);
+}
+#dp-wrapper.beyond-sunrise-wrapper .btn:hover {
+    color: var(--erau-beyond);
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.beyond-sunrise-wrapper .dp-card .nav-link {
+    color: var(--erau-white);
+    background-color: var(--erau-beyond);
+}
+#dp-wrapper.beyond-sunrise-wrapper .dp-card .nav-link:hover {
+    color: var(--erau-beyond);
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.beyond-sunrise-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-beyond);
+}
+
+#dp-wrapper.beyond-sunrise-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.beyond-sunrise-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.beyond-sunrise-wrapper .context_module_item .type_icon i {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.beyond-sunrise-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-beyond);
+}

@@ -1,0 +1,82 @@
+/*********************************************************************/
+/***** BEYOND COLOR STYLES
+**********************************************************************/
+
+#main:has(.beyond-wrapper) #left-side a, /* course navigation links */
+.beyond-wrapper a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper header.beyond-header {
+    color: var(--erau-white);
+    background: var(--erau-beyond);
+}
+#dp-wrapper:has(.beyond-header) .dp-banner-image {
+    border-color: var(--erau-beyond);
+}
+#dp-wrapper:has(.beyond-header) .beyond-header .dp-header-pre {
+    color: var(--erau-beyond);
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper .beyond-link-grid a {
+    background: var(--erau-beyond);
+}
+#dp-wrapper .beyond-link-grid a:hover {
+    border-color: var(--erau-grey);
+}
+#dp-wrapper .beyond-link-grid .dp-icon,
+#dp-wrapper .beyond-link-grid .fas {
+    color: var(--erau-grey);
+}
+
+#dp-wrapper.beyond-wrapper h2 {
+    background-color: var(--erau-beyond);
+}
+#dp-wrapper.beyond-wrapper h3 {
+    color: var(--erau-beyond);
+    border-color: var(--erau-grey);
+}
+#dp-wrapper.beyond-wrapper h4,
+#dp-wrapper.beyond-wrapper h5,
+#dp-wrapper.beyond-wrapper h6 {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.beyond-wrapper .btn {
+    color: var(--erau-white);
+    background: var(--erau-beyond);
+}
+#dp-wrapper.beyond-wrapper .btn:hover {
+    color: var(--erau-beyond);
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper.beyond-wrapper .dp-card .nav-link {
+    color: var(--erau-white);
+    background-color: var(--erau-beyond);
+}
+#dp-wrapper.beyond-wrapper .dp-card .nav-link:hover {
+    color: var(--erau-beyond);
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper.beyond-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-beyond);
+}
+
+#dp-wrapper.beyond-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper.beyond-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.beyond-wrapper .context_module_item .type_icon i {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.beyond-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-beyond);
+}

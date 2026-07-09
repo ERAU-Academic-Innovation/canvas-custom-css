@@ -1,20 +1,6 @@
 /*********************************************************************/
-/***** DESIGN TOOLS CORE THEME IMPORT ********************************/
+/***** DESIGN TOOLS CUSTOMIZATIONS ***********************************/
 /*********************************************************************/
-/* Import statements need to be at the top of your CSS file */
-/* For Main CSS file */
-@import url(https://designtools.ciditools.com/css/themes.css);
-/* For Mobile app CSS file */
-/*@import url(https://designtools.ciditools.com/css/app.css);*/
-/*********************************************************************/
-
-/*** New Sidebar ***/
-/* For Main CSS files */
-@import url(https://designplus.ciditools.com/css/content.css);
-@import url(https://designplus.ciditools.com/css/editor.css);
-/* For Mobile app CSS file */
-/*@import url(https://designplus.ciditools.com/css/mobile.css);*/
-
 :root {
     --dt-color-primary: #0A3665;
     --dt-color-primary-contrast: #FFFFFF;
@@ -177,15 +163,18 @@
     color: #fff;
 }
 /* BASIC COLOR PANEL NAVIGAION */
+/*
 #kl_wrapper_3.kl_basic_color_panel_nav #kl_navigation ul li a {
-   /*color:  #0088CC;*/
+   color:  #0088CC;
 }
 #kl_wrapper_3.kl_basic_color_panel_nav #kl_navigation ul li a:hover {
-    /*color: #0088CC;*/
+    color: #0088CC;
 }
 #kl_wrapper_3.kl_basic_color_panel_nav #kl_navigation li a:visited {
-   /*color: #0088CC;*/
+   color: #0088CC;
 }
+/*
+
 /* Media Queries w/ & w/out Course Menu Collapsed */
 @media screen and (min-width: 640px) {
     #kl_wrapper_3.kl_basic_color_panel_nav #kl_navigation ul {
@@ -1060,7 +1049,3 @@
  background: #0A3665;
  color: #fff;
 }
-
-/*********************************************************************/
-/***** END DESIGN TOOLS THEME CUSTOMIZATIONS *************************/
-/*********************************************************************/

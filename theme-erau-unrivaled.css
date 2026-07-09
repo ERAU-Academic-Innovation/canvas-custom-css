@@ -1,0 +1,82 @@
+/*********************************************************************/
+/***** UNRIVALED COLOR STYLES
+**********************************************************************/
+
+#main:has(.unrivaled-wrapper) #left-side a, /* course navigation links */
+.unrivaled-wrapper a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper header.unrivaled-header {
+    color: var(--erau-white);
+    background: var(--erau-unrivaled);
+}
+#dp-wrapper:has(.unrivaled-header) .dp-banner-image {
+    border-color: var(--erau-unrivaled);
+}
+#dp-wrapper:has(.unrivaled-header) .unrivaled-header .dp-header-pre {
+    color: var(--erau-unrivaled);
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper .unrivaled-link-grid a {
+    background: var(--erau-unrivaled);
+}
+#dp-wrapper .unrivaled-link-grid a:hover {
+    border-color: var(--erau-grey);
+}
+#dp-wrapper .unrivaled-link-grid .dp-icon,
+#dp-wrapper .unrivaled-link-grid .fas {
+    color: var(--erau-grey);
+}
+
+#dp-wrapper.unrivaled-wrapper h2 {
+    background-color: var(--erau-unrivaled);
+}
+#dp-wrapper.unrivaled-wrapper h3 {
+    color: var(--erau-unrivaled);
+    border-color: var(--erau-grey);
+}
+#dp-wrapper.unrivaled-wrapper h4,
+#dp-wrapper.unrivaled-wrapper h5,
+#dp-wrapper.unrivaled-wrapper h6 {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.unrivaled-wrapper .btn {
+    color: var(--erau-white);
+    background: var(--erau-unrivaled);
+}
+#dp-wrapper.unrivaled-wrapper .btn:hover {
+    color: var(--erau-unrivaled);
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper.unrivaled-wrapper .dp-card .nav-link {
+    color: var(--erau-white);
+    background-color: var(--erau-unrivaled);
+}
+#dp-wrapper.unrivaled-wrapper .dp-card .nav-link:hover {
+    color: var(--erau-unrivaled);
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper.unrivaled-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.unrivaled-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper.unrivaled-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.unrivaled-wrapper .context_module_item .type_icon i {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.unrivaled-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-unrivaled);
+}

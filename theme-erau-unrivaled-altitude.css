@@ -1,0 +1,82 @@
+/*********************************************************************/
+/***** UNRIVALED-ALTITUDE COLOR STYLES
+**********************************************************************/
+
+#main:has(.unrivaled-altitude-wrapper) #left-side a, /* course navigation links */
+.unrivaled-altitude-wrapper a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper header.unrivaled-altitude-header {
+    color: var(--erau-white);
+    background: var(--erau-unrivaled);
+}
+#dp-wrapper:has(.unrivaled-altitude-header) .dp-banner-image {
+    border-color: var(--erau-unrivaled);
+}
+#dp-wrapper:has(.unrivaled-altitude-header) .unrivaled-altitude-header .dp-header-pre {
+    color: var(--erau-unrivaled);
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper .unrivaled-altitude-link-grid a {
+    background: var(--erau-unrivaled);
+}
+#dp-wrapper .unrivaled-altitude-link-grid a:hover {
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper .unrivaled-altitude-link-grid .dp-icon,
+#dp-wrapper .unrivaled-altitude-link-grid .fas {
+    color: var(--erau-altitude);
+}
+
+#dp-wrapper.unrivaled-altitude-wrapper h2 {
+    background-color: var(--erau-unrivaled);
+}
+#dp-wrapper.unrivaled-altitude-wrapper h3 {
+    color: var(--erau-unrivaled);
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper.unrivaled-altitude-wrapper h4,
+#dp-wrapper.unrivaled-altitude-wrapper h5,
+#dp-wrapper.unrivaled-altitude-wrapper h6 {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.unrivaled-altitude-wrapper .btn {
+    color: var(--erau-white);
+    background: var(--erau-unrivaled);
+}
+#dp-wrapper.unrivaled-altitude-wrapper .btn:hover {
+    color: var(--erau-unrivaled);
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper.unrivaled-altitude-wrapper .dp-card .nav-link {
+    color: var(--erau-white);
+    background-color: var(--erau-unrivaled);
+}
+#dp-wrapper.unrivaled-altitude-wrapper .dp-card .nav-link:hover {
+    color: var(--erau-unrivaled);
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper.unrivaled-altitude-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.unrivaled-altitude-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper.unrivaled-altitude-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.unrivaled-altitude-wrapper .context_module_item .type_icon i {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.unrivaled-altitude-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-unrivaled);
+}

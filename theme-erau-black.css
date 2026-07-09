@@ -1,0 +1,77 @@
+/*********************************************************************/
+/***** BLACK COLOR STYLES
+**********************************************************************/
+
+#dp-wrapper header.black-header {
+    color: var(--erau-white);
+    background: var(--erau-black);
+}
+#dp-wrapper:has(.black-header) .dp-banner-image {
+    border-color: var(--erau-black);
+}
+#dp-wrapper:has(.black-header) .black-header .dp-header-pre {
+    color: var(--erau-black);
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper .black-link-grid a {
+    background: var(--erau-black);
+}
+#dp-wrapper .black-link-grid a:hover {
+    border-color: var(--erau-grey);
+}
+#dp-wrapper .black-link-grid .dp-icon,
+#dp-wrapper .black-link-grid .fas {
+    color: var(--erau-grey);
+}
+
+#dp-wrapper.black-wrapper h2 {
+    background-color: var(--erau-black);
+}
+#dp-wrapper.black-wrapper h3 {
+    color: var(--erau-black);
+    border-color: var(--erau-grey);
+}
+#dp-wrapper.black-wrapper h4,
+#dp-wrapper.black-wrapper h5,
+#dp-wrapper.black-wrapper h6 {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.black-wrapper .btn {
+    color: var(--erau-white);
+    background: var(--erau-black);
+}
+#dp-wrapper.black-wrapper .btn:hover {
+    color: var(--erau-black);
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper.black-wrapper .dp-card .nav-link {
+    color: var(--erau-white);
+    background-color: var(--erau-black);
+}
+#dp-wrapper.black-wrapper .dp-card .nav-link:hover {
+    color: var(--erau-black);
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper.black-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-black);
+}
+
+#dp-wrapper.black-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper.black-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.black-wrapper .context_module_item .type_icon i {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.black-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-black);
+}
