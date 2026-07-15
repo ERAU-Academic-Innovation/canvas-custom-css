@@ -6,8 +6,6 @@
 @import url(https://designtools.ciditools.com/css/themes.css);
 /* Mobile App */
 /*@import url(https://designtools.ciditools.com/css/app.css);*/
-/* ERAU Customizations */
-@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/designtools-customizations.css);
 
 
 /*********************************************************************/
@@ -19,6 +17,8 @@
 @import url(https://designplus.ciditools.com/css/editor.css);
 /* Mobile App */
 /*@import url(https://designplus.ciditools.com/css/mobile.css);*/
+/* ERAU Customizations */
+@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/designtools-customizations.css);
 
 
 /*********************************************************************/
