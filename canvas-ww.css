@@ -1,41 +1,5 @@
 /*********************************************************************/
-/***** DESIGN TOOLS **************************************************/
+/***** ERAU-WW CUSTOM THEMES *****************************************/
+/***** Add the following line into Canvas Theme CSS ******************/
 /*********************************************************************/
-
-/* Main */
-@import url(https://designtools.ciditools.com/css/themes.css);
-/* Mobile App */
-/*@import url(https://designtools.ciditools.com/css/app.css);*/
-
-
-/*********************************************************************/
-/***** DESIGN PLUS ***************************************************/
-/*********************************************************************/
-
-/* Main */
-@import url(https://designplus.ciditools.com/css/content.css);
-@import url(https://designplus.ciditools.com/css/editor.css);
-/* Mobile App */
-/*@import url(https://designplus.ciditools.com/css/mobile.css);*/
-/* ERAU Customizations */
-@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/designtools-customizations.css);
-
-
-/*********************************************************************/
-/***** DESIGN PLUS CUSTOM THEMES *************************************/
-/*********************************************************************/
-
-/* ERAU Base Theme */
-@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-base.css);
-/* ERAU Unrivaled Themes */
-@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-unrivaled.css);
-@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-unrivaled-sunrise.css);
-@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-unrivaled-altitude.css);
-/* ERAU Beyond Themes */
-@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-beyond.css);
-@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-beyond-sunrise.css);
-@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-beyond-altitude.css);
-/* ERAU Black Themes */
-@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-black.css);
-@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-black-sunrise.css);
-@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-black-altitude.css);
+@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/custom-themes.css);
