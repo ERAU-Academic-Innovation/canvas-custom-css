@@ -7,6 +7,7 @@ Custom CSS stylesheets used to theme Embry-Riddle Worldwide online courses. The 
 | File | Purpose |
 |---|---|
 | `canvas-ww.css` | Stylesheet uploaded to the Worldwide (WW) campus Canvas subaccount. |
+| `custom-themes.css` | @imports all themes and color varients |
 | `theme-erau-base.css` | Core/base stylesheet for ERAU branded themes. Required as a foundation for the other ERAU theme color variants. |
 | `theme-erau-beyond.css` | "Beyond" color theme. |
 | `theme-erau-beyond-altitude.css` | "Beyond" theme, Altitude accent variant. |
