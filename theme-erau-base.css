@@ -20,6 +20,27 @@
 }
 
 /*********************************************************************/
+/***** EXTERNAL URL MODULE ITEM CUSTOMIZATIONS
+**********************************************************************/
+
+.ui-listview.ui-listview-no-rounded-bottom {
+    margin: 0;
+}
+.ui-listview li:first-child {
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+    border: 0;
+    background: #CCC;
+}
+.ui-listview li.active a {
+    color: #1C2B57;
+    font-family: "Oswald", sans-serif
+}
+.ui-listview li iframe {
+    border: none;
+}
+
+/*********************************************************************/
 /***** ERAU BANNER HEADER STYLES
 **********************************************************************/
 
