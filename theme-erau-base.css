@@ -75,6 +75,7 @@
     flex-direction: column;
     align-items: flex-start;
     border: none;
+    background: none;
 }
 
 #dp-wrapper .erau-header .dp-header-title {
