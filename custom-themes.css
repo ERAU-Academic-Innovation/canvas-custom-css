@@ -1,5 +1,3 @@
-/* ERAU Base Theme */
-@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-base.css);
 /* ERAU Unrivaled Themes */
 @import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-unrivaled.css);
 @import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-unrivaled-sunrise.css);
@@ -13,3 +11,5 @@
 @import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-black-unrivaled.css);
 @import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-black-sunrise.css);
 @import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-black-altitude.css);
+/* ERAU Base Theme */
+@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-base.css);
