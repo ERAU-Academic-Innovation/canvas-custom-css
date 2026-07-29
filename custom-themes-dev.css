@@ -1,6 +1,33 @@
 /* DEV VERSION — uses GitHub Pages instead of jsDelivr CDN so changes show up
    without waiting for the CDN cache to purge. Not for production use. */
 
+/*********************************************************************/
+/***** DESIGN TOOLS **************************************************/
+/*********************************************************************/
+
+/* Main */
+@import url(https://designtools.ciditools.com/css/themes.css);
+/* Mobile App */
+/*@import url(https://designtools.ciditools.com/css/app.css);*/
+/* ERAU Customizations */
+@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/designtools-customizations.css);
+
+
+/*********************************************************************/
+/***** DESIGN PLUS ***************************************************/
+/*********************************************************************/
+
+/* Main */
+@import url(https://designplus.ciditools.com/css/content.css);
+@import url(https://designplus.ciditools.com/css/editor.css);
+/* Mobile App */
+/*@import url(https://designplus.ciditools.com/css/mobile.css);*/
+
+
+/*********************************************************************/
+/***** DESIGN PLUS CUSTOM THEMES *************************************/
+/*********************************************************************/
+
 /* ERAU Unrivaled Themes */
 @import url(https://ERAU-Academic-Innovation.github.io/canvas-custom-css/theme-erau-unrivaled.css);
 @import url(https://ERAU-Academic-Innovation.github.io/canvas-custom-css/theme-erau-unrivaled-sunrise.css);
