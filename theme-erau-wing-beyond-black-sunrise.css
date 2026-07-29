@@ -1,0 +1,85 @@
+/*********************************************************************/
+/***** WING: BEYOND → BLACK HARD-EDGE (SUNRISE ACCENT)
+**********************************************************************/
+
+#main:has(.wing-beyond-black-sunrise-wrapper) #left-side a, /* course navigation links */
+.wing-beyond-black-sunrise-wrapper a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper header.wing-beyond-black-sunrise-header {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-beyond) 80%, var(--erau-black) 20%);
+}
+#dp-wrapper:has(.wing-beyond-black-sunrise-header) .dp-banner-image {
+    border-color: var(--erau-beyond);
+}
+#dp-wrapper:has(.wing-beyond-black-sunrise-header) .wing-beyond-black-sunrise-header .dp-header-pre {
+    color: var(--erau-beyond);
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper .wing-beyond-black-sunrise-link-grid a {
+    background: linear-gradient(135deg, var(--erau-beyond) 80%, var(--erau-black) 20%);
+}
+#dp-wrapper .wing-beyond-black-sunrise-link-grid a:hover,
+#dp-wrapper .wing-beyond-black-sunrise-link-grid a:focus-visible {
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper .wing-beyond-black-sunrise-link-grid .dp-icon,
+#dp-wrapper .wing-beyond-black-sunrise-link-grid .fas {
+    color: var(--erau-sunrise);
+}
+
+#dp-wrapper.wing-beyond-black-sunrise-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-beyond) 80%, var(--erau-black) 20%);
+}
+#dp-wrapper.wing-beyond-black-sunrise-wrapper h3 {
+    color: var(--erau-beyond);
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper.wing-beyond-black-sunrise-wrapper h4,
+#dp-wrapper.wing-beyond-black-sunrise-wrapper h5,
+#dp-wrapper.wing-beyond-black-sunrise-wrapper h6 {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-beyond-black-sunrise-wrapper .btn {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-beyond) 80%, var(--erau-black) 20%);
+}
+#dp-wrapper.wing-beyond-black-sunrise-wrapper .btn:hover,
+#dp-wrapper.wing-beyond-black-sunrise-wrapper .btn:focus-visible {
+    color: var(--erau-beyond);
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.wing-beyond-black-sunrise-wrapper .dp-card .nav-link {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-beyond) 80%, var(--erau-black) 20%);
+}
+#dp-wrapper.wing-beyond-black-sunrise-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.wing-beyond-black-sunrise-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-beyond);
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.wing-beyond-black-sunrise-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-beyond-black-sunrise-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.wing-beyond-black-sunrise-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-beyond-black-sunrise-wrapper .context_module_item .type_icon i {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-beyond-black-sunrise-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-beyond);
+}
