@@ -4,7 +4,7 @@
 
 /* ERAU Unrivaled Themes */
 /*********************************************************************/
-/***** UNRIVALED COLOR STYLES
+/***** UNRIVALED (GREY ACCENT)
 **********************************************************************/
 
 #main:has(.unrivaled-wrapper) #left-side a, /* course navigation links */
@@ -260,7 +260,7 @@
 }
 /* ERAU Beyond Themes */
 /*********************************************************************/
-/***** BEYOND COLOR STYLES
+/***** BEYOND (GREY ACCENT)
 **********************************************************************/
 
 #main:has(.beyond-wrapper) #left-side a, /* course navigation links */
@@ -516,7 +516,7 @@
 }
 /* ERAU Black Themes */
 /*********************************************************************/
-/***** BLACK COLOR STYLES
+/***** BLACK (GREY ACCENT)
 **********************************************************************/
 
 #dp-wrapper header.black-header {
