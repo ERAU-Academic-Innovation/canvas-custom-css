@@ -5,15 +5,15 @@
    To add/remove/reorder a theme, edit this file, then run `python3 build.py`. */
 
 /* ERAU Unrivaled Themes */
-@import url(theme-erau-unrivaled.css);
+@import url(theme-erau-unrivaled-grey.css);
 @import url(theme-erau-unrivaled-sunrise.css);
 @import url(theme-erau-unrivaled-altitude.css);
 /* ERAU Beyond Themes */
-@import url(theme-erau-beyond.css);
+@import url(theme-erau-beyond-grey.css);
 @import url(theme-erau-beyond-sunrise.css);
 @import url(theme-erau-beyond-altitude.css);
 /* ERAU Black Themes */
-@import url(theme-erau-black.css);
+@import url(theme-erau-black-grey.css);
 @import url(theme-erau-black-unrivaled.css);
 @import url(theme-erau-black-sunrise.css);
 @import url(theme-erau-black-altitude.css);
