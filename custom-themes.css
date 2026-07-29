@@ -89,7 +89,7 @@
     color: var(--erau-unrivaled);
 }
 /*********************************************************************/
-/***** UNRIVALED-SUNRISE COLOR STYLES
+/***** UNRIVALED (SUNRISE ACCENT)
 **********************************************************************/
 
 #main:has(.unrivaled-sunrise-wrapper) #left-side a, /* course navigation links */
@@ -174,7 +174,7 @@
     color: var(--erau-unrivaled);
 }
 /*********************************************************************/
-/***** UNRIVALED-ALTITUDE COLOR STYLES
+/***** UNRIVALED (ALTITUDE ACCENT)
 **********************************************************************/
 
 #main:has(.unrivaled-altitude-wrapper) #left-side a, /* course navigation links */
@@ -345,7 +345,7 @@
     color: var(--erau-beyond);
 }
 /*********************************************************************/
-/***** BEYOND-SUNRISE COLOR STYLES
+/***** BEYOND (SUNRISE ACCENT)
 **********************************************************************/
 
 #main:has(.beyond-sunrise-wrapper) #left-side a, /* course navigation links */
@@ -430,7 +430,7 @@
     color: var(--erau-beyond);
 }
 /*********************************************************************/
-/***** BEYOND-ALTITUDE COLOR STYLES
+/***** BEYOND (ALTITUDE ACCENT)
 **********************************************************************/
 
 #main:has(.beyond-altitude-wrapper) #left-side a, /* course navigation links */
@@ -596,7 +596,7 @@
     color: var(--erau-black);
 }
 /*********************************************************************/
-/***** BLACK-UNRIVALED COLOR STYLES
+/***** BLACK (UNRIVALED ACCENT)
 **********************************************************************/
 
 #main:has(.black-unrivaled-wrapper) #left-side a, /* course navigation links */
@@ -681,7 +681,7 @@
     color: var(--erau-black);
 }
 /*********************************************************************/
-/***** BLACK-SUNRISE COLOR STYLES
+/***** BLACK (SUNRISE ACCENT)
 **********************************************************************/
 
 #main:has(.black-sunrise-wrapper) #left-side a, /* course navigation links */
@@ -766,7 +766,7 @@
     color: var(--erau-black);
 }
 /*********************************************************************/
-/***** BLACK-ALTITUDE COLOR STYLES
+/***** BLACK (ALTITUDE ACCENT)
 **********************************************************************/
 
 #main:has(.black-altitude-wrapper) #left-side a, /* course navigation links */
