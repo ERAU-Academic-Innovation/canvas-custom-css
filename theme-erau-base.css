@@ -140,7 +140,8 @@
         border-color 0.5s ease;
 }
 
-#dp-wrapper .erau-link-grid a:hover {
+#dp-wrapper .erau-link-grid a:hover,
+#dp-wrapper .erau-link-grid a:focus-visible {
     padding: 10px 10px 10px 10px;
     text-decoration: none;
     border-left: 15px solid;
@@ -211,7 +212,8 @@
         color 0.5s ease;
 }
 
-#dp-wrapper.erau-wrapper .btn:hover {
+#dp-wrapper.erau-wrapper .btn:hover,
+#dp-wrapper.erau-wrapper .btn:focus-visible {
     text-decoration: none;
 }
 
@@ -234,7 +236,8 @@
         background-color 0.5s ease;
 }
 
-#dp-wrapper.erau-wrapper .dp-card .nav-link:hover {
+#dp-wrapper.erau-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.erau-wrapper .dp-card .nav-link:focus-visible {
     padding-left: 24px;
 }
 

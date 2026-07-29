@@ -22,7 +22,8 @@
 #dp-wrapper .unrivaled-link-grid a {
     background: var(--erau-unrivaled);
 }
-#dp-wrapper .unrivaled-link-grid a:hover {
+#dp-wrapper .unrivaled-link-grid a:hover,
+#dp-wrapper .unrivaled-link-grid a:focus-visible {
     border-color: var(--erau-grey);
 }
 #dp-wrapper .unrivaled-link-grid .dp-icon,
@@ -47,7 +48,8 @@
     color: var(--erau-white);
     background: var(--erau-unrivaled);
 }
-#dp-wrapper.unrivaled-wrapper .btn:hover {
+#dp-wrapper.unrivaled-wrapper .btn:hover,
+#dp-wrapper.unrivaled-wrapper .btn:focus-visible {
     color: var(--erau-unrivaled);
     background-color: var(--erau-grey);
 }
@@ -56,7 +58,8 @@
     color: var(--erau-white);
     background-color: var(--erau-unrivaled);
 }
-#dp-wrapper.unrivaled-wrapper .dp-card .nav-link:hover {
+#dp-wrapper.unrivaled-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.unrivaled-wrapper .dp-card .nav-link:focus-visible {
     color: var(--erau-unrivaled);
     background-color: var(--erau-grey);
 }

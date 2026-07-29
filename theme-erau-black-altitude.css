@@ -22,7 +22,8 @@
 #dp-wrapper .black-altitude-link-grid a {
     background: var(--erau-black);
 }
-#dp-wrapper .black-altitude-link-grid a:hover {
+#dp-wrapper .black-altitude-link-grid a:hover,
+#dp-wrapper .black-altitude-link-grid a:focus-visible {
     border-color: var(--erau-altitude);
 }
 #dp-wrapper .black-altitude-link-grid .dp-icon,
@@ -47,7 +48,8 @@
     color: var(--erau-white);
     background: var(--erau-black);
 }
-#dp-wrapper.black-altitude-wrapper .btn:hover {
+#dp-wrapper.black-altitude-wrapper .btn:hover,
+#dp-wrapper.black-altitude-wrapper .btn:focus-visible {
     color: var(--erau-black);
     background-color: var(--erau-altitude);
 }
@@ -56,7 +58,8 @@
     color: var(--erau-white);
     background-color: var(--erau-black);
 }
-#dp-wrapper.black-altitude-wrapper .dp-card .nav-link:hover {
+#dp-wrapper.black-altitude-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.black-altitude-wrapper .dp-card .nav-link:focus-visible {
     color: var(--erau-black);
     background-color: var(--erau-altitude);
 }

@@ -22,7 +22,8 @@
 #dp-wrapper .beyond-sunrise-link-grid a {
     background: var(--erau-beyond);
 }
-#dp-wrapper .beyond-sunrise-link-grid a:hover {
+#dp-wrapper .beyond-sunrise-link-grid a:hover,
+#dp-wrapper .beyond-sunrise-link-grid a:focus-visible {
     border-color: var(--erau-sunrise);
 }
 #dp-wrapper .beyond-sunrise-link-grid .dp-icon,
@@ -47,7 +48,8 @@
     color: var(--erau-white);
     background: var(--erau-beyond);
 }
-#dp-wrapper.beyond-sunrise-wrapper .btn:hover {
+#dp-wrapper.beyond-sunrise-wrapper .btn:hover,
+#dp-wrapper.beyond-sunrise-wrapper .btn:focus-visible {
     color: var(--erau-beyond);
     background-color: var(--erau-sunrise);
 }
@@ -56,7 +58,8 @@
     color: var(--erau-white);
     background-color: var(--erau-beyond);
 }
-#dp-wrapper.beyond-sunrise-wrapper .dp-card .nav-link:hover {
+#dp-wrapper.beyond-sunrise-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.beyond-sunrise-wrapper .dp-card .nav-link:focus-visible {
     color: var(--erau-beyond);
     background-color: var(--erau-sunrise);
 }
