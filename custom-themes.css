@@ -11,5 +11,21 @@
 @import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-black-unrivaled.css);
 @import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-black-sunrise.css);
 @import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-black-altitude.css);
+/* ERAU Gradient Themes: Beyond -> Black */
+@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-gradient-beyond-black-sunrise.css);
+@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-gradient-beyond-black-altitude.css);
+@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-gradient-beyond-black-grey.css);
+/* ERAU Gradient Themes: Black -> Beyond */
+@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-gradient-black-beyond-sunrise.css);
+@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-gradient-black-beyond-altitude.css);
+@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-gradient-black-beyond-grey.css);
+/* ERAU Gradient Themes: Unrivaled -> Black */
+@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-gradient-unrivaled-black-sunrise.css);
+@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-gradient-unrivaled-black-altitude.css);
+@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-gradient-unrivaled-black-grey.css);
+/* ERAU Gradient Themes: Black -> Unrivaled */
+@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-gradient-black-unrivaled-sunrise.css);
+@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-gradient-black-unrivaled-altitude.css);
+@import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-gradient-black-unrivaled-grey.css);
 /* ERAU Base Theme */
 @import url(https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/theme-erau-base.css);
