@@ -39,7 +39,6 @@ def build():
         if not theme_file.exists():
             sys.exit(f"error: {theme_file.name} referenced in manifest but not found")
 
-        out.append(f"/* --- {theme_file.name} --- */")
         out.append(theme_file.read_text().rstrip("\n"))
 
     OUTPUT.write_text("\n".join(out) + "\n")

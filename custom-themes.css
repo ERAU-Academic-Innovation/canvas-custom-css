@@ -3,7 +3,6 @@
    theme-erau-*.css files. Edit those, then run `python3 build.py`. */
 
 /* ERAU Unrivaled Themes */
-/* --- theme-erau-unrivaled.css --- */
 /*********************************************************************/
 /***** UNRIVALED COLOR STYLES
 **********************************************************************/
@@ -89,7 +88,6 @@
 #dp-wrapper.unrivaled-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-unrivaled);
 }
-/* --- theme-erau-unrivaled-sunrise.css --- */
 /*********************************************************************/
 /***** UNRIVALED-SUNRISE COLOR STYLES
 **********************************************************************/
@@ -175,7 +173,6 @@
 #dp-wrapper.unrivaled-sunrise-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-unrivaled);
 }
-/* --- theme-erau-unrivaled-altitude.css --- */
 /*********************************************************************/
 /***** UNRIVALED-ALTITUDE COLOR STYLES
 **********************************************************************/
@@ -262,7 +259,6 @@
     color: var(--erau-unrivaled);
 }
 /* ERAU Beyond Themes */
-/* --- theme-erau-beyond.css --- */
 /*********************************************************************/
 /***** BEYOND COLOR STYLES
 **********************************************************************/
@@ -348,7 +344,6 @@
 #dp-wrapper.beyond-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-beyond);
 }
-/* --- theme-erau-beyond-sunrise.css --- */
 /*********************************************************************/
 /***** BEYOND-SUNRISE COLOR STYLES
 **********************************************************************/
@@ -434,7 +429,6 @@
 #dp-wrapper.beyond-sunrise-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-beyond);
 }
-/* --- theme-erau-beyond-altitude.css --- */
 /*********************************************************************/
 /***** ERAU BEYOND ALTITUDE THEME ************************************/
 /*********************************************************************/
@@ -521,7 +515,6 @@
     color: var(--erau-beyond);
 }
 /* ERAU Black Themes */
-/* --- theme-erau-black.css --- */
 /*********************************************************************/
 /***** BLACK COLOR STYLES
 **********************************************************************/
@@ -602,7 +595,6 @@
 #dp-wrapper.black-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-black);
 }
-/* --- theme-erau-black-unrivaled.css --- */
 /*********************************************************************/
 /***** BLACK-UNRIVALED COLOR STYLES
 **********************************************************************/
@@ -688,7 +680,6 @@
 #dp-wrapper.black-unrivaled-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-black);
 }
-/* --- theme-erau-black-sunrise.css --- */
 /*********************************************************************/
 /***** BLACK-SUNRISE COLOR STYLES
 **********************************************************************/
@@ -774,7 +765,6 @@
 #dp-wrapper.black-sunrise-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-black);
 }
-/* --- theme-erau-black-altitude.css --- */
 /*********************************************************************/
 /***** BLACK-ALTITUDE COLOR STYLES
 **********************************************************************/
@@ -861,7 +851,6 @@
     color: var(--erau-black);
 }
 /* ERAU Gradient Themes: Beyond -> Black */
-/* --- theme-erau-gradient-beyond-black-sunrise.css --- */
 /*********************************************************************/
 /***** GRADIENT: BEYOND → BLACK (SUNRISE ACCENT)
 **********************************************************************/
@@ -947,7 +936,6 @@
 #dp-wrapper.gradient-beyond-black-sunrise-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-beyond);
 }
-/* --- theme-erau-gradient-beyond-black-altitude.css --- */
 /*********************************************************************/
 /***** GRADIENT: BEYOND → BLACK (ALTITUDE ACCENT)
 **********************************************************************/
@@ -1033,7 +1021,6 @@
 #dp-wrapper.gradient-beyond-black-altitude-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-beyond);
 }
-/* --- theme-erau-gradient-beyond-black-grey.css --- */
 /*********************************************************************/
 /***** GRADIENT: BEYOND → BLACK (GREY ACCENT)
 **********************************************************************/
@@ -1120,7 +1107,6 @@
     color: var(--erau-beyond);
 }
 /* ERAU Gradient Themes: Black -> Beyond */
-/* --- theme-erau-gradient-black-beyond-sunrise.css --- */
 /*********************************************************************/
 /***** GRADIENT: BLACK → BEYOND (SUNRISE ACCENT)
 **********************************************************************/
@@ -1206,7 +1192,6 @@
 #dp-wrapper.gradient-black-beyond-sunrise-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-black);
 }
-/* --- theme-erau-gradient-black-beyond-altitude.css --- */
 /*********************************************************************/
 /***** GRADIENT: BLACK → BEYOND (ALTITUDE ACCENT)
 **********************************************************************/
@@ -1292,7 +1277,6 @@
 #dp-wrapper.gradient-black-beyond-altitude-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-black);
 }
-/* --- theme-erau-gradient-black-beyond-grey.css --- */
 /*********************************************************************/
 /***** GRADIENT: BLACK → BEYOND (GREY ACCENT)
 **********************************************************************/
@@ -1379,7 +1363,6 @@
     color: var(--erau-black);
 }
 /* ERAU Gradient Themes: Unrivaled -> Black */
-/* --- theme-erau-gradient-unrivaled-black-sunrise.css --- */
 /*********************************************************************/
 /***** GRADIENT: UNRIVALED → BLACK (SUNRISE ACCENT)
 **********************************************************************/
@@ -1465,7 +1448,6 @@
 #dp-wrapper.gradient-unrivaled-black-sunrise-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-unrivaled);
 }
-/* --- theme-erau-gradient-unrivaled-black-altitude.css --- */
 /*********************************************************************/
 /***** GRADIENT: UNRIVALED → BLACK (ALTITUDE ACCENT)
 **********************************************************************/
@@ -1551,7 +1533,6 @@
 #dp-wrapper.gradient-unrivaled-black-altitude-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-unrivaled);
 }
-/* --- theme-erau-gradient-unrivaled-black-grey.css --- */
 /*********************************************************************/
 /***** GRADIENT: UNRIVALED → BLACK (GREY ACCENT)
 **********************************************************************/
@@ -1638,7 +1619,6 @@
     color: var(--erau-unrivaled);
 }
 /* ERAU Gradient Themes: Black -> Unrivaled */
-/* --- theme-erau-gradient-black-unrivaled-sunrise.css --- */
 /*********************************************************************/
 /***** GRADIENT: BLACK → UNRIVALED (SUNRISE ACCENT)
 **********************************************************************/
@@ -1724,7 +1704,6 @@
 #dp-wrapper.gradient-black-unrivaled-sunrise-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-black);
 }
-/* --- theme-erau-gradient-black-unrivaled-altitude.css --- */
 /*********************************************************************/
 /***** GRADIENT: BLACK → UNRIVALED (ALTITUDE ACCENT)
 **********************************************************************/
@@ -1810,7 +1789,6 @@
 #dp-wrapper.gradient-black-unrivaled-altitude-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-black);
 }
-/* --- theme-erau-gradient-black-unrivaled-grey.css --- */
 /*********************************************************************/
 /***** GRADIENT: BLACK → UNRIVALED (GREY ACCENT)
 **********************************************************************/
@@ -1897,7 +1875,6 @@
     color: var(--erau-black);
 }
 /* ERAU Wing Themes: Beyond -> Black */
-/* --- theme-erau-wing-beyond-black-sunrise.css --- */
 /*********************************************************************/
 /***** WING: BEYOND → BLACK HARD-EDGE (SUNRISE ACCENT)
 **********************************************************************/
@@ -1983,7 +1960,6 @@
 #dp-wrapper.wing-beyond-black-sunrise-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-beyond);
 }
-/* --- theme-erau-wing-beyond-black-altitude.css --- */
 /*********************************************************************/
 /***** WING: BEYOND → BLACK HARD-EDGE (ALTITUDE ACCENT)
 **********************************************************************/
@@ -2069,7 +2045,6 @@
 #dp-wrapper.wing-beyond-black-altitude-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-beyond);
 }
-/* --- theme-erau-wing-beyond-black-grey.css --- */
 /*********************************************************************/
 /***** WING: BEYOND → BLACK HARD-EDGE (GREY ACCENT)
 **********************************************************************/
@@ -2156,7 +2131,6 @@
     color: var(--erau-beyond);
 }
 /* ERAU Wing Themes: Black -> Beyond */
-/* --- theme-erau-wing-black-beyond-sunrise.css --- */
 /*********************************************************************/
 /***** WING: BLACK → BEYOND HARD-EDGE (SUNRISE ACCENT)
 **********************************************************************/
@@ -2242,7 +2216,6 @@
 #dp-wrapper.wing-black-beyond-sunrise-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-black);
 }
-/* --- theme-erau-wing-black-beyond-altitude.css --- */
 /*********************************************************************/
 /***** WING: BLACK → BEYOND HARD-EDGE (ALTITUDE ACCENT)
 **********************************************************************/
@@ -2328,7 +2301,6 @@
 #dp-wrapper.wing-black-beyond-altitude-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-black);
 }
-/* --- theme-erau-wing-black-beyond-grey.css --- */
 /*********************************************************************/
 /***** WING: BLACK → BEYOND HARD-EDGE (GREY ACCENT)
 **********************************************************************/
@@ -2415,7 +2387,6 @@
     color: var(--erau-black);
 }
 /* ERAU Wing Themes: Unrivaled -> Black */
-/* --- theme-erau-wing-unrivaled-black-sunrise.css --- */
 /*********************************************************************/
 /***** WING: UNRIVALED → BLACK HARD-EDGE (SUNRISE ACCENT)
 **********************************************************************/
@@ -2501,7 +2472,6 @@
 #dp-wrapper.wing-unrivaled-black-sunrise-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-unrivaled);
 }
-/* --- theme-erau-wing-unrivaled-black-altitude.css --- */
 /*********************************************************************/
 /***** WING: UNRIVALED → BLACK HARD-EDGE (ALTITUDE ACCENT)
 **********************************************************************/
@@ -2587,7 +2557,6 @@
 #dp-wrapper.wing-unrivaled-black-altitude-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-unrivaled);
 }
-/* --- theme-erau-wing-unrivaled-black-grey.css --- */
 /*********************************************************************/
 /***** WING: UNRIVALED → BLACK HARD-EDGE (GREY ACCENT)
 **********************************************************************/
@@ -2674,7 +2643,6 @@
     color: var(--erau-unrivaled);
 }
 /* ERAU Wing Themes: Black -> Unrivaled */
-/* --- theme-erau-wing-black-unrivaled-sunrise.css --- */
 /*********************************************************************/
 /***** WING: BLACK → UNRIVALED HARD-EDGE (SUNRISE ACCENT)
 **********************************************************************/
@@ -2760,7 +2728,6 @@
 #dp-wrapper.wing-black-unrivaled-sunrise-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-black);
 }
-/* --- theme-erau-wing-black-unrivaled-altitude.css --- */
 /*********************************************************************/
 /***** WING: BLACK → UNRIVALED HARD-EDGE (ALTITUDE ACCENT)
 **********************************************************************/
@@ -2846,7 +2813,6 @@
 #dp-wrapper.wing-black-unrivaled-altitude-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-black);
 }
-/* --- theme-erau-wing-black-unrivaled-grey.css --- */
 /*********************************************************************/
 /***** WING: BLACK → UNRIVALED HARD-EDGE (GREY ACCENT)
 **********************************************************************/
@@ -2933,7 +2899,6 @@
     color: var(--erau-black);
 }
 /* ERAU Base Theme */
-/* --- theme-erau-base.css --- */
 /*********************************************************************/
 /***** ERAU BASE THEME ***********************************************/
 /*********************************************************************/
