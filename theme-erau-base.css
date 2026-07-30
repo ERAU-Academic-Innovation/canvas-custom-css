@@ -66,7 +66,8 @@
 #dp-wrapper:has(.erau-header) .dp-banner-image {
     order: -1; /* MOVES BANNER ABOVE HEADING */
     border-radius: 4px 4px 0 0;
-    border-top: 20px solid;
+    border-top-width: 20px;
+    border-top-style: solid;
 }
 
 #dp-wrapper .erau-header .dp-heading {
@@ -144,7 +145,8 @@
 #dp-wrapper .erau-link-grid a:focus-visible {
     padding: 10px 10px 10px 10px;
     text-decoration: none;
-    border-left: 15px solid;
+    border-left-width: 15px;
+    border-left-style: solid;
 }
 #dp-wrapper .erau-link-grid a.dp-has-icon {
     justify-content: start;
