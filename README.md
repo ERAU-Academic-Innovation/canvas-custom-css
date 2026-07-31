@@ -18,7 +18,12 @@ Custom CSS stylesheets used to theme Embry-Riddle Worldwide online courses. A si
 
 ## DesignPLUS Course Setup
 
-Instructional designers pick a theme in the DesignPLUS "ERAU Themes" content block by pasting a theme's classes into the course's settings course. [`docs/designplus-themes.md`](docs/designplus-themes.md) has a copy-pasteable table for every theme, grouped by primary color, so this can be done straight from GitHub's rendered markdown without touching HTML.
+Instructional designers pick a theme in the DesignPLUS "ERAU Themes" content blocks in the settings course, one block per primary color.
+
+- **[Copy-paste page](https://erau-academic-innovation.github.io/canvas-custom-css/docs/designplus-themes.html)** — hosted via GitHub Pages. Each color section has a **Copy Content Block** button that copies the fully-formed `div.dp-content-block` (heading + table, DesignPLUS-ready) straight to your clipboard — paste it directly into the course's HTML/source editor, no manual block or heading setup needed.
+- [`docs/designplus-themes.md`](docs/designplus-themes.md) — plain-text reference table for the same data (useful for looking up/verifying a theme's exact classes on GitHub without opening the page above).
+
+Both are generated from `custom-themes.manifest.css` and the theme CSS files' actual class names — ask Claude to regenerate them whenever new theme variants are added.
 
 ## Usage
 

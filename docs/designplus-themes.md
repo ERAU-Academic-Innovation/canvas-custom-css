@@ -1,6 +1,6 @@
 # DesignPLUS ERAU Theme Table
 
-Reference table for the "ERAU Themes" content block in the DesignPLUS settings course. Copy each section's table below and paste it into the corresponding content block in Canvas — pasting a rendered table preserves the class names as plain text, so no HTML editing is required.
+Reference table for the "ERAU Themes" content blocks in the DesignPLUS settings course. In Canvas, manually create the content block and its heading for each color section below, then copy that section's rendered table here and paste it into the block — copying a rendered table preserves the class names as plain text. (Copying the section's `div.dp-content-block` wrapper itself doesn't carry over through paste, which is why the wrapper and heading still need to be created by hand.)
 
 Themes are grouped by their primary/dominant color so instructional designers can find every theme that pairs with a given banner image color, regardless of whether it's a solid, gradient, or wing (hard-edge split) treatment. Two-color gradient/wing themes are filed under their first-listed (dominant) color only — e.g. "Black-Beyond" lives under Black, "Beyond-Black" lives under Beyond — so no theme is listed twice.
 
