@@ -4,7 +4,7 @@
 
 #main:has(.sunrise-black-wrapper) #left-side a, /* course navigation links */
 .sunrise-black-wrapper a {
-    color: var(--erau-beyond);
+    color: var(--erau-black);
 }
 
 #dp-wrapper header.sunrise-black-header {

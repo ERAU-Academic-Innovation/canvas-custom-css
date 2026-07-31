@@ -48,6 +48,13 @@
 @import url(theme-erau-gradient-grey-sunrise-beyond.css);
 @import url(theme-erau-gradient-sunrise-grey-black.css);
 @import url(theme-erau-gradient-grey-sunrise-black.css);
+/* ERAU Gradient Themes: Altitude <-> Grey */
+@import url(theme-erau-gradient-altitude-grey-unrivaled.css);
+@import url(theme-erau-gradient-grey-altitude-unrivaled.css);
+@import url(theme-erau-gradient-altitude-grey-beyond.css);
+@import url(theme-erau-gradient-grey-altitude-beyond.css);
+@import url(theme-erau-gradient-altitude-grey-black.css);
+@import url(theme-erau-gradient-grey-altitude-black.css);
 /* ERAU Wing Themes: Beyond -> Black */
 @import url(theme-erau-wing-beyond-black-sunrise.css);
 @import url(theme-erau-wing-beyond-black-altitude.css);
@@ -71,5 +78,12 @@
 @import url(theme-erau-wing-grey-sunrise-beyond.css);
 @import url(theme-erau-wing-sunrise-grey-black.css);
 @import url(theme-erau-wing-grey-sunrise-black.css);
+/* ERAU Wing Themes: Altitude <-> Grey */
+@import url(theme-erau-wing-altitude-grey-unrivaled.css);
+@import url(theme-erau-wing-grey-altitude-unrivaled.css);
+@import url(theme-erau-wing-altitude-grey-beyond.css);
+@import url(theme-erau-wing-grey-altitude-beyond.css);
+@import url(theme-erau-wing-altitude-grey-black.css);
+@import url(theme-erau-wing-grey-altitude-black.css);
 /* ERAU Base Theme */
 @import url(theme-erau-base.css);
