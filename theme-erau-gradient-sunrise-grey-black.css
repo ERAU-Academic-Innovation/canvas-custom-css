@@ -1,0 +1,95 @@
+/*********************************************************************/
+/***** GRADIENT: SUNRISE → GREY (BLACK ACCENT)
+**********************************************************************/
+
+#main:has(.gradient-sunrise-grey-black-wrapper) #left-side a, /* course navigation links */
+.gradient-sunrise-grey-black-wrapper a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper header.gradient-sunrise-grey-black-header {
+    color: var(--erau-black);
+    background: linear-gradient(135deg, var(--erau-sunrise), var(--erau-grey));
+}
+#dp-wrapper:has(.gradient-sunrise-grey-black-header) .dp-banner-image {
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper:has(.gradient-sunrise-grey-black-header) .gradient-sunrise-grey-black-header .dp-header-pre {
+    color: var(--erau-sunrise);
+    background-color: var(--erau-black);
+}
+#dp-wrapper:has(.gradient-sunrise-grey-black-header) .erau-header.gradient-sunrise-grey-black-header .dp-header-subtitle,
+#dp-wrapper:has(.gradient-sunrise-grey-black-header) .erau-header.gradient-sunrise-grey-black-header .dp-header-description p {
+    color: var(--erau-black);
+}
+
+#dp-wrapper .gradient-sunrise-grey-black-link-grid a {
+    background: linear-gradient(135deg, var(--erau-sunrise), var(--erau-grey));
+}
+#dp-wrapper .erau-link-grid.gradient-sunrise-grey-black-link-grid a {
+    color: var(--erau-black);
+}
+#dp-wrapper .gradient-sunrise-grey-black-link-grid a:hover,
+#dp-wrapper .gradient-sunrise-grey-black-link-grid a:focus-visible {
+    border-color: var(--erau-black);
+}
+#dp-wrapper .gradient-sunrise-grey-black-link-grid .dp-icon,
+#dp-wrapper .gradient-sunrise-grey-black-link-grid .fas {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.gradient-sunrise-grey-black-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-sunrise), var(--erau-grey));
+}
+#dp-wrapper.erau-wrapper.gradient-sunrise-grey-black-wrapper h2 {
+    color: var(--erau-black);
+}
+#dp-wrapper.gradient-sunrise-grey-black-wrapper h3 {
+    color: var(--erau-black);
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper.gradient-sunrise-grey-black-wrapper h4,
+#dp-wrapper.gradient-sunrise-grey-black-wrapper h5,
+#dp-wrapper.gradient-sunrise-grey-black-wrapper h6 {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.gradient-sunrise-grey-black-wrapper .btn {
+    color: var(--erau-black);
+    background: linear-gradient(135deg, var(--erau-sunrise), var(--erau-grey));
+}
+#dp-wrapper.gradient-sunrise-grey-black-wrapper .btn:hover,
+#dp-wrapper.gradient-sunrise-grey-black-wrapper .btn:focus-visible {
+    color: var(--erau-sunrise);
+    background-color: var(--erau-black);
+}
+
+#dp-wrapper.gradient-sunrise-grey-black-wrapper .dp-card .nav-link {
+    color: var(--erau-black);
+    background: linear-gradient(135deg, var(--erau-sunrise), var(--erau-grey));
+}
+#dp-wrapper.gradient-sunrise-grey-black-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.gradient-sunrise-grey-black-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-sunrise);
+    background-color: var(--erau-black);
+}
+
+#dp-wrapper.gradient-sunrise-grey-black-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.gradient-sunrise-grey-black-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-black);
+}
+
+#dp-wrapper.gradient-sunrise-grey-black-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-sunrise);
+}
+
+#dp-wrapper.gradient-sunrise-grey-black-wrapper .context_module_item .type_icon i {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.gradient-sunrise-grey-black-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-black);
+}
