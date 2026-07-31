@@ -9,7 +9,7 @@
 
 #dp-wrapper header.gradient-grey-sunrise-unrivaled-header {
     color: var(--erau-unrivaled);
-    background: linear-gradient(135deg, var(--erau-grey), var(--erau-sunrise));
+    background: linear-gradient(135deg, var(--erau-grey) 60%, var(--erau-sunrise));
 }
 #dp-wrapper:has(.gradient-grey-sunrise-unrivaled-header) .dp-banner-image {
     border-color: var(--erau-grey);
@@ -24,7 +24,7 @@
 }
 
 #dp-wrapper .gradient-grey-sunrise-unrivaled-link-grid a {
-    background: linear-gradient(135deg, var(--erau-grey), var(--erau-sunrise));
+    background: linear-gradient(135deg, var(--erau-grey) 60%, var(--erau-sunrise));
 }
 #dp-wrapper .erau-link-grid.gradient-grey-sunrise-unrivaled-link-grid a {
     color: var(--erau-unrivaled);
@@ -39,7 +39,7 @@
 }
 
 #dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper h2 {
-    background: linear-gradient(135deg, var(--erau-grey), var(--erau-sunrise));
+    background: linear-gradient(135deg, var(--erau-grey) 60%, var(--erau-sunrise));
 }
 #dp-wrapper.erau-wrapper.gradient-grey-sunrise-unrivaled-wrapper h2 {
     color: var(--erau-unrivaled);
@@ -56,7 +56,7 @@
 
 #dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper .btn {
     color: var(--erau-unrivaled);
-    background: linear-gradient(135deg, var(--erau-grey), var(--erau-sunrise));
+    background: linear-gradient(135deg, var(--erau-grey) 60%, var(--erau-sunrise));
 }
 #dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper .btn:hover,
 #dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper .btn:focus-visible {
@@ -66,7 +66,7 @@
 
 #dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper .dp-card .nav-link {
     color: var(--erau-unrivaled);
-    background: linear-gradient(135deg, var(--erau-grey), var(--erau-sunrise));
+    background: linear-gradient(135deg, var(--erau-grey) 60%, var(--erau-sunrise));
 }
 #dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper .dp-card .nav-link:hover,
 #dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper .dp-card .nav-link:focus-visible {
