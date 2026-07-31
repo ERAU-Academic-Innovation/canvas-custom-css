@@ -3017,6 +3017,577 @@
 #dp-wrapper.gradient-grey-sunrise-black-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-black);
 }
+/* ERAU Gradient Themes: Altitude <-> Grey */
+/*********************************************************************/
+/***** GRADIENT: ALTITUDE → GREY (UNRIVALED ACCENT)
+**********************************************************************/
+
+#main:has(.gradient-altitude-grey-unrivaled-wrapper) #left-side a, /* course navigation links */
+.gradient-altitude-grey-unrivaled-wrapper a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper header.gradient-altitude-grey-unrivaled-header {
+    color: var(--erau-unrivaled);
+    background: linear-gradient(135deg, var(--erau-altitude), var(--erau-grey));
+}
+#dp-wrapper:has(.gradient-altitude-grey-unrivaled-header) .dp-banner-image {
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper:has(.gradient-altitude-grey-unrivaled-header) .gradient-altitude-grey-unrivaled-header .dp-header-pre {
+    color: var(--erau-altitude);
+    background-color: var(--erau-unrivaled);
+}
+#dp-wrapper:has(.gradient-altitude-grey-unrivaled-header) .erau-header.gradient-altitude-grey-unrivaled-header .dp-header-subtitle,
+#dp-wrapper:has(.gradient-altitude-grey-unrivaled-header) .erau-header.gradient-altitude-grey-unrivaled-header .dp-header-description p {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper .gradient-altitude-grey-unrivaled-link-grid a {
+    background: linear-gradient(135deg, var(--erau-altitude), var(--erau-grey));
+}
+#dp-wrapper .erau-link-grid.gradient-altitude-grey-unrivaled-link-grid a {
+    color: var(--erau-unrivaled);
+}
+#dp-wrapper .gradient-altitude-grey-unrivaled-link-grid a:hover,
+#dp-wrapper .gradient-altitude-grey-unrivaled-link-grid a:focus-visible {
+    border-color: var(--erau-unrivaled);
+}
+#dp-wrapper .gradient-altitude-grey-unrivaled-link-grid .dp-icon,
+#dp-wrapper .gradient-altitude-grey-unrivaled-link-grid .fas {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-altitude-grey-unrivaled-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-altitude), var(--erau-grey));
+}
+#dp-wrapper.erau-wrapper.gradient-altitude-grey-unrivaled-wrapper h2 {
+    color: var(--erau-unrivaled);
+}
+#dp-wrapper.gradient-altitude-grey-unrivaled-wrapper h3 {
+    color: var(--erau-unrivaled);
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper.gradient-altitude-grey-unrivaled-wrapper h4,
+#dp-wrapper.gradient-altitude-grey-unrivaled-wrapper h5,
+#dp-wrapper.gradient-altitude-grey-unrivaled-wrapper h6 {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-altitude-grey-unrivaled-wrapper .btn {
+    color: var(--erau-unrivaled);
+    background: linear-gradient(135deg, var(--erau-altitude), var(--erau-grey));
+}
+#dp-wrapper.gradient-altitude-grey-unrivaled-wrapper .btn:hover,
+#dp-wrapper.gradient-altitude-grey-unrivaled-wrapper .btn:focus-visible {
+    color: var(--erau-altitude);
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-altitude-grey-unrivaled-wrapper .dp-card .nav-link {
+    color: var(--erau-unrivaled);
+    background: linear-gradient(135deg, var(--erau-altitude), var(--erau-grey));
+}
+#dp-wrapper.gradient-altitude-grey-unrivaled-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.gradient-altitude-grey-unrivaled-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-altitude);
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-altitude-grey-unrivaled-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-altitude);
+}
+
+#dp-wrapper.gradient-altitude-grey-unrivaled-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-altitude-grey-unrivaled-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-altitude);
+}
+
+#dp-wrapper.gradient-altitude-grey-unrivaled-wrapper .context_module_item .type_icon i {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-altitude-grey-unrivaled-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-unrivaled);
+}
+/*********************************************************************/
+/***** GRADIENT: GREY → ALTITUDE (UNRIVALED ACCENT)
+**********************************************************************/
+
+#main:has(.gradient-grey-altitude-unrivaled-wrapper) #left-side a, /* course navigation links */
+.gradient-grey-altitude-unrivaled-wrapper a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper header.gradient-grey-altitude-unrivaled-header {
+    color: var(--erau-unrivaled);
+    background: linear-gradient(135deg, var(--erau-grey) 60%, var(--erau-altitude));
+}
+#dp-wrapper:has(.gradient-grey-altitude-unrivaled-header) .dp-banner-image {
+    border-color: var(--erau-grey);
+}
+#dp-wrapper:has(.gradient-grey-altitude-unrivaled-header) .gradient-grey-altitude-unrivaled-header .dp-header-pre {
+    color: var(--erau-grey);
+    background-color: var(--erau-unrivaled);
+}
+#dp-wrapper:has(.gradient-grey-altitude-unrivaled-header) .erau-header.gradient-grey-altitude-unrivaled-header .dp-header-subtitle,
+#dp-wrapper:has(.gradient-grey-altitude-unrivaled-header) .erau-header.gradient-grey-altitude-unrivaled-header .dp-header-description p {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper .gradient-grey-altitude-unrivaled-link-grid a {
+    background: linear-gradient(135deg, var(--erau-grey) 60%, var(--erau-altitude));
+}
+#dp-wrapper .erau-link-grid.gradient-grey-altitude-unrivaled-link-grid a {
+    color: var(--erau-unrivaled);
+}
+#dp-wrapper .gradient-grey-altitude-unrivaled-link-grid a:hover,
+#dp-wrapper .gradient-grey-altitude-unrivaled-link-grid a:focus-visible {
+    border-color: var(--erau-unrivaled);
+}
+#dp-wrapper .gradient-grey-altitude-unrivaled-link-grid .dp-icon,
+#dp-wrapper .gradient-grey-altitude-unrivaled-link-grid .fas {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-grey-altitude-unrivaled-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-grey) 60%, var(--erau-altitude));
+}
+#dp-wrapper.erau-wrapper.gradient-grey-altitude-unrivaled-wrapper h2 {
+    color: var(--erau-unrivaled);
+}
+#dp-wrapper.gradient-grey-altitude-unrivaled-wrapper h3 {
+    color: var(--erau-unrivaled);
+    border-color: var(--erau-grey);
+}
+#dp-wrapper.gradient-grey-altitude-unrivaled-wrapper h4,
+#dp-wrapper.gradient-grey-altitude-unrivaled-wrapper h5,
+#dp-wrapper.gradient-grey-altitude-unrivaled-wrapper h6 {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-grey-altitude-unrivaled-wrapper .btn {
+    color: var(--erau-unrivaled);
+    background: linear-gradient(135deg, var(--erau-grey) 60%, var(--erau-altitude));
+}
+#dp-wrapper.gradient-grey-altitude-unrivaled-wrapper .btn:hover,
+#dp-wrapper.gradient-grey-altitude-unrivaled-wrapper .btn:focus-visible {
+    color: var(--erau-grey);
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-grey-altitude-unrivaled-wrapper .dp-card .nav-link {
+    color: var(--erau-unrivaled);
+    background: linear-gradient(135deg, var(--erau-grey) 60%, var(--erau-altitude));
+}
+#dp-wrapper.gradient-grey-altitude-unrivaled-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.gradient-grey-altitude-unrivaled-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-grey);
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-grey-altitude-unrivaled-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-grey);
+}
+
+#dp-wrapper.gradient-grey-altitude-unrivaled-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-grey-altitude-unrivaled-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-grey);
+}
+
+#dp-wrapper.gradient-grey-altitude-unrivaled-wrapper .context_module_item .type_icon i {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-grey-altitude-unrivaled-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-unrivaled);
+}
+/*********************************************************************/
+/***** GRADIENT: ALTITUDE → GREY (BEYOND ACCENT)
+**********************************************************************/
+
+#main:has(.gradient-altitude-grey-beyond-wrapper) #left-side a, /* course navigation links */
+.gradient-altitude-grey-beyond-wrapper a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper header.gradient-altitude-grey-beyond-header {
+    color: var(--erau-beyond);
+    background: linear-gradient(135deg, var(--erau-altitude), var(--erau-grey));
+}
+#dp-wrapper:has(.gradient-altitude-grey-beyond-header) .dp-banner-image {
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper:has(.gradient-altitude-grey-beyond-header) .gradient-altitude-grey-beyond-header .dp-header-pre {
+    color: var(--erau-altitude);
+    background-color: var(--erau-beyond);
+}
+#dp-wrapper:has(.gradient-altitude-grey-beyond-header) .erau-header.gradient-altitude-grey-beyond-header .dp-header-subtitle,
+#dp-wrapper:has(.gradient-altitude-grey-beyond-header) .erau-header.gradient-altitude-grey-beyond-header .dp-header-description p {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper .gradient-altitude-grey-beyond-link-grid a {
+    background: linear-gradient(135deg, var(--erau-altitude), var(--erau-grey));
+}
+#dp-wrapper .erau-link-grid.gradient-altitude-grey-beyond-link-grid a {
+    color: var(--erau-beyond);
+}
+#dp-wrapper .gradient-altitude-grey-beyond-link-grid a:hover,
+#dp-wrapper .gradient-altitude-grey-beyond-link-grid a:focus-visible {
+    border-color: var(--erau-beyond);
+}
+#dp-wrapper .gradient-altitude-grey-beyond-link-grid .dp-icon,
+#dp-wrapper .gradient-altitude-grey-beyond-link-grid .fas {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-altitude-grey-beyond-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-altitude), var(--erau-grey));
+}
+#dp-wrapper.erau-wrapper.gradient-altitude-grey-beyond-wrapper h2 {
+    color: var(--erau-beyond);
+}
+#dp-wrapper.gradient-altitude-grey-beyond-wrapper h3 {
+    color: var(--erau-beyond);
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper.gradient-altitude-grey-beyond-wrapper h4,
+#dp-wrapper.gradient-altitude-grey-beyond-wrapper h5,
+#dp-wrapper.gradient-altitude-grey-beyond-wrapper h6 {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-altitude-grey-beyond-wrapper .btn {
+    color: var(--erau-beyond);
+    background: linear-gradient(135deg, var(--erau-altitude), var(--erau-grey));
+}
+#dp-wrapper.gradient-altitude-grey-beyond-wrapper .btn:hover,
+#dp-wrapper.gradient-altitude-grey-beyond-wrapper .btn:focus-visible {
+    color: var(--erau-altitude);
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-altitude-grey-beyond-wrapper .dp-card .nav-link {
+    color: var(--erau-beyond);
+    background: linear-gradient(135deg, var(--erau-altitude), var(--erau-grey));
+}
+#dp-wrapper.gradient-altitude-grey-beyond-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.gradient-altitude-grey-beyond-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-altitude);
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-altitude-grey-beyond-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-altitude);
+}
+
+#dp-wrapper.gradient-altitude-grey-beyond-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-altitude-grey-beyond-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-altitude);
+}
+
+#dp-wrapper.gradient-altitude-grey-beyond-wrapper .context_module_item .type_icon i {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-altitude-grey-beyond-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-beyond);
+}
+/*********************************************************************/
+/***** GRADIENT: GREY → ALTITUDE (BEYOND ACCENT)
+**********************************************************************/
+
+#main:has(.gradient-grey-altitude-beyond-wrapper) #left-side a, /* course navigation links */
+.gradient-grey-altitude-beyond-wrapper a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper header.gradient-grey-altitude-beyond-header {
+    color: var(--erau-beyond);
+    background: linear-gradient(135deg, var(--erau-grey) 60%, var(--erau-altitude));
+}
+#dp-wrapper:has(.gradient-grey-altitude-beyond-header) .dp-banner-image {
+    border-color: var(--erau-grey);
+}
+#dp-wrapper:has(.gradient-grey-altitude-beyond-header) .gradient-grey-altitude-beyond-header .dp-header-pre {
+    color: var(--erau-grey);
+    background-color: var(--erau-beyond);
+}
+#dp-wrapper:has(.gradient-grey-altitude-beyond-header) .erau-header.gradient-grey-altitude-beyond-header .dp-header-subtitle,
+#dp-wrapper:has(.gradient-grey-altitude-beyond-header) .erau-header.gradient-grey-altitude-beyond-header .dp-header-description p {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper .gradient-grey-altitude-beyond-link-grid a {
+    background: linear-gradient(135deg, var(--erau-grey) 60%, var(--erau-altitude));
+}
+#dp-wrapper .erau-link-grid.gradient-grey-altitude-beyond-link-grid a {
+    color: var(--erau-beyond);
+}
+#dp-wrapper .gradient-grey-altitude-beyond-link-grid a:hover,
+#dp-wrapper .gradient-grey-altitude-beyond-link-grid a:focus-visible {
+    border-color: var(--erau-beyond);
+}
+#dp-wrapper .gradient-grey-altitude-beyond-link-grid .dp-icon,
+#dp-wrapper .gradient-grey-altitude-beyond-link-grid .fas {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-grey-altitude-beyond-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-grey) 60%, var(--erau-altitude));
+}
+#dp-wrapper.erau-wrapper.gradient-grey-altitude-beyond-wrapper h2 {
+    color: var(--erau-beyond);
+}
+#dp-wrapper.gradient-grey-altitude-beyond-wrapper h3 {
+    color: var(--erau-beyond);
+    border-color: var(--erau-grey);
+}
+#dp-wrapper.gradient-grey-altitude-beyond-wrapper h4,
+#dp-wrapper.gradient-grey-altitude-beyond-wrapper h5,
+#dp-wrapper.gradient-grey-altitude-beyond-wrapper h6 {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-grey-altitude-beyond-wrapper .btn {
+    color: var(--erau-beyond);
+    background: linear-gradient(135deg, var(--erau-grey) 60%, var(--erau-altitude));
+}
+#dp-wrapper.gradient-grey-altitude-beyond-wrapper .btn:hover,
+#dp-wrapper.gradient-grey-altitude-beyond-wrapper .btn:focus-visible {
+    color: var(--erau-grey);
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-grey-altitude-beyond-wrapper .dp-card .nav-link {
+    color: var(--erau-beyond);
+    background: linear-gradient(135deg, var(--erau-grey) 60%, var(--erau-altitude));
+}
+#dp-wrapper.gradient-grey-altitude-beyond-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.gradient-grey-altitude-beyond-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-grey);
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-grey-altitude-beyond-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-grey);
+}
+
+#dp-wrapper.gradient-grey-altitude-beyond-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-grey-altitude-beyond-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-grey);
+}
+
+#dp-wrapper.gradient-grey-altitude-beyond-wrapper .context_module_item .type_icon i {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-grey-altitude-beyond-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-beyond);
+}
+/*********************************************************************/
+/***** GRADIENT: ALTITUDE → GREY (BLACK ACCENT)
+**********************************************************************/
+
+#main:has(.gradient-altitude-grey-black-wrapper) #left-side a, /* course navigation links */
+.gradient-altitude-grey-black-wrapper a {
+    color: var(--erau-black);
+}
+
+#dp-wrapper header.gradient-altitude-grey-black-header {
+    color: var(--erau-black);
+    background: linear-gradient(135deg, var(--erau-altitude), var(--erau-grey));
+}
+#dp-wrapper:has(.gradient-altitude-grey-black-header) .dp-banner-image {
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper:has(.gradient-altitude-grey-black-header) .gradient-altitude-grey-black-header .dp-header-pre {
+    color: var(--erau-altitude);
+    background-color: var(--erau-black);
+}
+#dp-wrapper:has(.gradient-altitude-grey-black-header) .erau-header.gradient-altitude-grey-black-header .dp-header-subtitle,
+#dp-wrapper:has(.gradient-altitude-grey-black-header) .erau-header.gradient-altitude-grey-black-header .dp-header-description p {
+    color: var(--erau-black);
+}
+
+#dp-wrapper .gradient-altitude-grey-black-link-grid a {
+    background: linear-gradient(135deg, var(--erau-altitude), var(--erau-grey));
+}
+#dp-wrapper .erau-link-grid.gradient-altitude-grey-black-link-grid a {
+    color: var(--erau-black);
+}
+#dp-wrapper .gradient-altitude-grey-black-link-grid a:hover,
+#dp-wrapper .gradient-altitude-grey-black-link-grid a:focus-visible {
+    border-color: var(--erau-black);
+}
+#dp-wrapper .gradient-altitude-grey-black-link-grid .dp-icon,
+#dp-wrapper .gradient-altitude-grey-black-link-grid .fas {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.gradient-altitude-grey-black-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-altitude), var(--erau-grey));
+}
+#dp-wrapper.erau-wrapper.gradient-altitude-grey-black-wrapper h2 {
+    color: var(--erau-black);
+}
+#dp-wrapper.gradient-altitude-grey-black-wrapper h3 {
+    color: var(--erau-black);
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper.gradient-altitude-grey-black-wrapper h4,
+#dp-wrapper.gradient-altitude-grey-black-wrapper h5,
+#dp-wrapper.gradient-altitude-grey-black-wrapper h6 {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.gradient-altitude-grey-black-wrapper .btn {
+    color: var(--erau-black);
+    background: linear-gradient(135deg, var(--erau-altitude), var(--erau-grey));
+}
+#dp-wrapper.gradient-altitude-grey-black-wrapper .btn:hover,
+#dp-wrapper.gradient-altitude-grey-black-wrapper .btn:focus-visible {
+    color: var(--erau-altitude);
+    background-color: var(--erau-black);
+}
+
+#dp-wrapper.gradient-altitude-grey-black-wrapper .dp-card .nav-link {
+    color: var(--erau-black);
+    background: linear-gradient(135deg, var(--erau-altitude), var(--erau-grey));
+}
+#dp-wrapper.gradient-altitude-grey-black-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.gradient-altitude-grey-black-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-altitude);
+    background-color: var(--erau-black);
+}
+
+#dp-wrapper.gradient-altitude-grey-black-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-altitude);
+}
+
+#dp-wrapper.gradient-altitude-grey-black-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-black);
+}
+
+#dp-wrapper.gradient-altitude-grey-black-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-altitude);
+}
+
+#dp-wrapper.gradient-altitude-grey-black-wrapper .context_module_item .type_icon i {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.gradient-altitude-grey-black-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-black);
+}
+/*********************************************************************/
+/***** GRADIENT: GREY → ALTITUDE (BLACK ACCENT)
+**********************************************************************/
+
+#main:has(.gradient-grey-altitude-black-wrapper) #left-side a, /* course navigation links */
+.gradient-grey-altitude-black-wrapper a {
+    color: var(--erau-black);
+}
+
+#dp-wrapper header.gradient-grey-altitude-black-header {
+    color: var(--erau-black);
+    background: linear-gradient(135deg, var(--erau-grey) 60%, var(--erau-altitude));
+}
+#dp-wrapper:has(.gradient-grey-altitude-black-header) .dp-banner-image {
+    border-color: var(--erau-grey);
+}
+#dp-wrapper:has(.gradient-grey-altitude-black-header) .gradient-grey-altitude-black-header .dp-header-pre {
+    color: var(--erau-grey);
+    background-color: var(--erau-black);
+}
+#dp-wrapper:has(.gradient-grey-altitude-black-header) .erau-header.gradient-grey-altitude-black-header .dp-header-subtitle,
+#dp-wrapper:has(.gradient-grey-altitude-black-header) .erau-header.gradient-grey-altitude-black-header .dp-header-description p {
+    color: var(--erau-black);
+}
+
+#dp-wrapper .gradient-grey-altitude-black-link-grid a {
+    background: linear-gradient(135deg, var(--erau-grey) 60%, var(--erau-altitude));
+}
+#dp-wrapper .erau-link-grid.gradient-grey-altitude-black-link-grid a {
+    color: var(--erau-black);
+}
+#dp-wrapper .gradient-grey-altitude-black-link-grid a:hover,
+#dp-wrapper .gradient-grey-altitude-black-link-grid a:focus-visible {
+    border-color: var(--erau-black);
+}
+#dp-wrapper .gradient-grey-altitude-black-link-grid .dp-icon,
+#dp-wrapper .gradient-grey-altitude-black-link-grid .fas {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.gradient-grey-altitude-black-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-grey) 60%, var(--erau-altitude));
+}
+#dp-wrapper.erau-wrapper.gradient-grey-altitude-black-wrapper h2 {
+    color: var(--erau-black);
+}
+#dp-wrapper.gradient-grey-altitude-black-wrapper h3 {
+    color: var(--erau-black);
+    border-color: var(--erau-grey);
+}
+#dp-wrapper.gradient-grey-altitude-black-wrapper h4,
+#dp-wrapper.gradient-grey-altitude-black-wrapper h5,
+#dp-wrapper.gradient-grey-altitude-black-wrapper h6 {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.gradient-grey-altitude-black-wrapper .btn {
+    color: var(--erau-black);
+    background: linear-gradient(135deg, var(--erau-grey) 60%, var(--erau-altitude));
+}
+#dp-wrapper.gradient-grey-altitude-black-wrapper .btn:hover,
+#dp-wrapper.gradient-grey-altitude-black-wrapper .btn:focus-visible {
+    color: var(--erau-grey);
+    background-color: var(--erau-black);
+}
+
+#dp-wrapper.gradient-grey-altitude-black-wrapper .dp-card .nav-link {
+    color: var(--erau-black);
+    background: linear-gradient(135deg, var(--erau-grey) 60%, var(--erau-altitude));
+}
+#dp-wrapper.gradient-grey-altitude-black-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.gradient-grey-altitude-black-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-grey);
+    background-color: var(--erau-black);
+}
+
+#dp-wrapper.gradient-grey-altitude-black-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-grey);
+}
+
+#dp-wrapper.gradient-grey-altitude-black-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-black);
+}
+
+#dp-wrapper.gradient-grey-altitude-black-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-grey);
+}
+
+#dp-wrapper.gradient-grey-altitude-black-wrapper .context_module_item .type_icon i {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.gradient-grey-altitude-black-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-black);
+}
 /* ERAU Wing Themes: Beyond -> Black */
 /*********************************************************************/
 /***** WING: BEYOND → BLACK HARD-EDGE (SUNRISE ACCENT)
@@ -4610,6 +5181,577 @@
 }
 
 #dp-wrapper.wing-grey-sunrise-black-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-black);
+}
+/* ERAU Wing Themes: Altitude <-> Grey */
+/*********************************************************************/
+/***** WING: ALTITUDE → GREY HARD-EDGE (UNRIVALED ACCENT)
+**********************************************************************/
+
+#main:has(.wing-altitude-grey-unrivaled-wrapper) #left-side a, /* course navigation links */
+.wing-altitude-grey-unrivaled-wrapper a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper header.wing-altitude-grey-unrivaled-header {
+    color: var(--erau-unrivaled);
+    background: linear-gradient(135deg, var(--erau-altitude) 80%, var(--erau-grey) 20%);
+}
+#dp-wrapper:has(.wing-altitude-grey-unrivaled-header) .dp-banner-image {
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper:has(.wing-altitude-grey-unrivaled-header) .wing-altitude-grey-unrivaled-header .dp-header-pre {
+    color: var(--erau-altitude);
+    background-color: var(--erau-unrivaled);
+}
+#dp-wrapper:has(.wing-altitude-grey-unrivaled-header) .erau-header.wing-altitude-grey-unrivaled-header .dp-header-subtitle,
+#dp-wrapper:has(.wing-altitude-grey-unrivaled-header) .erau-header.wing-altitude-grey-unrivaled-header .dp-header-description p {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper .wing-altitude-grey-unrivaled-link-grid a {
+    background: linear-gradient(135deg, var(--erau-altitude) 80%, var(--erau-grey) 20%);
+}
+#dp-wrapper .erau-link-grid.wing-altitude-grey-unrivaled-link-grid a {
+    color: var(--erau-unrivaled);
+}
+#dp-wrapper .wing-altitude-grey-unrivaled-link-grid a:hover,
+#dp-wrapper .wing-altitude-grey-unrivaled-link-grid a:focus-visible {
+    border-color: var(--erau-unrivaled);
+}
+#dp-wrapper .wing-altitude-grey-unrivaled-link-grid .dp-icon,
+#dp-wrapper .wing-altitude-grey-unrivaled-link-grid .fas {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-altitude-grey-unrivaled-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-altitude) 80%, var(--erau-grey) 20%);
+}
+#dp-wrapper.erau-wrapper.wing-altitude-grey-unrivaled-wrapper h2 {
+    color: var(--erau-unrivaled);
+}
+#dp-wrapper.wing-altitude-grey-unrivaled-wrapper h3 {
+    color: var(--erau-unrivaled);
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper.wing-altitude-grey-unrivaled-wrapper h4,
+#dp-wrapper.wing-altitude-grey-unrivaled-wrapper h5,
+#dp-wrapper.wing-altitude-grey-unrivaled-wrapper h6 {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-altitude-grey-unrivaled-wrapper .btn {
+    color: var(--erau-unrivaled);
+    background: linear-gradient(135deg, var(--erau-altitude) 80%, var(--erau-grey) 20%);
+}
+#dp-wrapper.wing-altitude-grey-unrivaled-wrapper .btn:hover,
+#dp-wrapper.wing-altitude-grey-unrivaled-wrapper .btn:focus-visible {
+    color: var(--erau-altitude);
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-altitude-grey-unrivaled-wrapper .dp-card .nav-link {
+    color: var(--erau-unrivaled);
+    background: linear-gradient(135deg, var(--erau-altitude) 80%, var(--erau-grey) 20%);
+}
+#dp-wrapper.wing-altitude-grey-unrivaled-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.wing-altitude-grey-unrivaled-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-altitude);
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-altitude-grey-unrivaled-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-altitude);
+}
+
+#dp-wrapper.wing-altitude-grey-unrivaled-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-altitude-grey-unrivaled-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-altitude);
+}
+
+#dp-wrapper.wing-altitude-grey-unrivaled-wrapper .context_module_item .type_icon i {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-altitude-grey-unrivaled-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-unrivaled);
+}
+/*********************************************************************/
+/***** WING: GREY → ALTITUDE HARD-EDGE (UNRIVALED ACCENT)
+**********************************************************************/
+
+#main:has(.wing-grey-altitude-unrivaled-wrapper) #left-side a, /* course navigation links */
+.wing-grey-altitude-unrivaled-wrapper a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper header.wing-grey-altitude-unrivaled-header {
+    color: var(--erau-unrivaled);
+    background: linear-gradient(135deg, var(--erau-grey) 80%, var(--erau-altitude) 20%);
+}
+#dp-wrapper:has(.wing-grey-altitude-unrivaled-header) .dp-banner-image {
+    border-color: var(--erau-grey);
+}
+#dp-wrapper:has(.wing-grey-altitude-unrivaled-header) .wing-grey-altitude-unrivaled-header .dp-header-pre {
+    color: var(--erau-grey);
+    background-color: var(--erau-unrivaled);
+}
+#dp-wrapper:has(.wing-grey-altitude-unrivaled-header) .erau-header.wing-grey-altitude-unrivaled-header .dp-header-subtitle,
+#dp-wrapper:has(.wing-grey-altitude-unrivaled-header) .erau-header.wing-grey-altitude-unrivaled-header .dp-header-description p {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper .wing-grey-altitude-unrivaled-link-grid a {
+    background: linear-gradient(135deg, var(--erau-grey) 80%, var(--erau-altitude) 20%);
+}
+#dp-wrapper .erau-link-grid.wing-grey-altitude-unrivaled-link-grid a {
+    color: var(--erau-unrivaled);
+}
+#dp-wrapper .wing-grey-altitude-unrivaled-link-grid a:hover,
+#dp-wrapper .wing-grey-altitude-unrivaled-link-grid a:focus-visible {
+    border-color: var(--erau-unrivaled);
+}
+#dp-wrapper .wing-grey-altitude-unrivaled-link-grid .dp-icon,
+#dp-wrapper .wing-grey-altitude-unrivaled-link-grid .fas {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-grey-altitude-unrivaled-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-grey) 80%, var(--erau-altitude) 20%);
+}
+#dp-wrapper.erau-wrapper.wing-grey-altitude-unrivaled-wrapper h2 {
+    color: var(--erau-unrivaled);
+}
+#dp-wrapper.wing-grey-altitude-unrivaled-wrapper h3 {
+    color: var(--erau-unrivaled);
+    border-color: var(--erau-grey);
+}
+#dp-wrapper.wing-grey-altitude-unrivaled-wrapper h4,
+#dp-wrapper.wing-grey-altitude-unrivaled-wrapper h5,
+#dp-wrapper.wing-grey-altitude-unrivaled-wrapper h6 {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-grey-altitude-unrivaled-wrapper .btn {
+    color: var(--erau-unrivaled);
+    background: linear-gradient(135deg, var(--erau-grey) 80%, var(--erau-altitude) 20%);
+}
+#dp-wrapper.wing-grey-altitude-unrivaled-wrapper .btn:hover,
+#dp-wrapper.wing-grey-altitude-unrivaled-wrapper .btn:focus-visible {
+    color: var(--erau-grey);
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-grey-altitude-unrivaled-wrapper .dp-card .nav-link {
+    color: var(--erau-unrivaled);
+    background: linear-gradient(135deg, var(--erau-grey) 80%, var(--erau-altitude) 20%);
+}
+#dp-wrapper.wing-grey-altitude-unrivaled-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.wing-grey-altitude-unrivaled-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-grey);
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-grey-altitude-unrivaled-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-grey);
+}
+
+#dp-wrapper.wing-grey-altitude-unrivaled-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-grey-altitude-unrivaled-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-grey);
+}
+
+#dp-wrapper.wing-grey-altitude-unrivaled-wrapper .context_module_item .type_icon i {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-grey-altitude-unrivaled-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-unrivaled);
+}
+/*********************************************************************/
+/***** WING: ALTITUDE → GREY HARD-EDGE (BEYOND ACCENT)
+**********************************************************************/
+
+#main:has(.wing-altitude-grey-beyond-wrapper) #left-side a, /* course navigation links */
+.wing-altitude-grey-beyond-wrapper a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper header.wing-altitude-grey-beyond-header {
+    color: var(--erau-beyond);
+    background: linear-gradient(135deg, var(--erau-altitude) 80%, var(--erau-grey) 20%);
+}
+#dp-wrapper:has(.wing-altitude-grey-beyond-header) .dp-banner-image {
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper:has(.wing-altitude-grey-beyond-header) .wing-altitude-grey-beyond-header .dp-header-pre {
+    color: var(--erau-altitude);
+    background-color: var(--erau-beyond);
+}
+#dp-wrapper:has(.wing-altitude-grey-beyond-header) .erau-header.wing-altitude-grey-beyond-header .dp-header-subtitle,
+#dp-wrapper:has(.wing-altitude-grey-beyond-header) .erau-header.wing-altitude-grey-beyond-header .dp-header-description p {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper .wing-altitude-grey-beyond-link-grid a {
+    background: linear-gradient(135deg, var(--erau-altitude) 80%, var(--erau-grey) 20%);
+}
+#dp-wrapper .erau-link-grid.wing-altitude-grey-beyond-link-grid a {
+    color: var(--erau-beyond);
+}
+#dp-wrapper .wing-altitude-grey-beyond-link-grid a:hover,
+#dp-wrapper .wing-altitude-grey-beyond-link-grid a:focus-visible {
+    border-color: var(--erau-beyond);
+}
+#dp-wrapper .wing-altitude-grey-beyond-link-grid .dp-icon,
+#dp-wrapper .wing-altitude-grey-beyond-link-grid .fas {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-altitude-grey-beyond-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-altitude) 80%, var(--erau-grey) 20%);
+}
+#dp-wrapper.erau-wrapper.wing-altitude-grey-beyond-wrapper h2 {
+    color: var(--erau-beyond);
+}
+#dp-wrapper.wing-altitude-grey-beyond-wrapper h3 {
+    color: var(--erau-beyond);
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper.wing-altitude-grey-beyond-wrapper h4,
+#dp-wrapper.wing-altitude-grey-beyond-wrapper h5,
+#dp-wrapper.wing-altitude-grey-beyond-wrapper h6 {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-altitude-grey-beyond-wrapper .btn {
+    color: var(--erau-beyond);
+    background: linear-gradient(135deg, var(--erau-altitude) 80%, var(--erau-grey) 20%);
+}
+#dp-wrapper.wing-altitude-grey-beyond-wrapper .btn:hover,
+#dp-wrapper.wing-altitude-grey-beyond-wrapper .btn:focus-visible {
+    color: var(--erau-altitude);
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-altitude-grey-beyond-wrapper .dp-card .nav-link {
+    color: var(--erau-beyond);
+    background: linear-gradient(135deg, var(--erau-altitude) 80%, var(--erau-grey) 20%);
+}
+#dp-wrapper.wing-altitude-grey-beyond-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.wing-altitude-grey-beyond-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-altitude);
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-altitude-grey-beyond-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-altitude);
+}
+
+#dp-wrapper.wing-altitude-grey-beyond-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-altitude-grey-beyond-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-altitude);
+}
+
+#dp-wrapper.wing-altitude-grey-beyond-wrapper .context_module_item .type_icon i {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-altitude-grey-beyond-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-beyond);
+}
+/*********************************************************************/
+/***** WING: GREY → ALTITUDE HARD-EDGE (BEYOND ACCENT)
+**********************************************************************/
+
+#main:has(.wing-grey-altitude-beyond-wrapper) #left-side a, /* course navigation links */
+.wing-grey-altitude-beyond-wrapper a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper header.wing-grey-altitude-beyond-header {
+    color: var(--erau-beyond);
+    background: linear-gradient(135deg, var(--erau-grey) 80%, var(--erau-altitude) 20%);
+}
+#dp-wrapper:has(.wing-grey-altitude-beyond-header) .dp-banner-image {
+    border-color: var(--erau-grey);
+}
+#dp-wrapper:has(.wing-grey-altitude-beyond-header) .wing-grey-altitude-beyond-header .dp-header-pre {
+    color: var(--erau-grey);
+    background-color: var(--erau-beyond);
+}
+#dp-wrapper:has(.wing-grey-altitude-beyond-header) .erau-header.wing-grey-altitude-beyond-header .dp-header-subtitle,
+#dp-wrapper:has(.wing-grey-altitude-beyond-header) .erau-header.wing-grey-altitude-beyond-header .dp-header-description p {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper .wing-grey-altitude-beyond-link-grid a {
+    background: linear-gradient(135deg, var(--erau-grey) 80%, var(--erau-altitude) 20%);
+}
+#dp-wrapper .erau-link-grid.wing-grey-altitude-beyond-link-grid a {
+    color: var(--erau-beyond);
+}
+#dp-wrapper .wing-grey-altitude-beyond-link-grid a:hover,
+#dp-wrapper .wing-grey-altitude-beyond-link-grid a:focus-visible {
+    border-color: var(--erau-beyond);
+}
+#dp-wrapper .wing-grey-altitude-beyond-link-grid .dp-icon,
+#dp-wrapper .wing-grey-altitude-beyond-link-grid .fas {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-grey-altitude-beyond-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-grey) 80%, var(--erau-altitude) 20%);
+}
+#dp-wrapper.erau-wrapper.wing-grey-altitude-beyond-wrapper h2 {
+    color: var(--erau-beyond);
+}
+#dp-wrapper.wing-grey-altitude-beyond-wrapper h3 {
+    color: var(--erau-beyond);
+    border-color: var(--erau-grey);
+}
+#dp-wrapper.wing-grey-altitude-beyond-wrapper h4,
+#dp-wrapper.wing-grey-altitude-beyond-wrapper h5,
+#dp-wrapper.wing-grey-altitude-beyond-wrapper h6 {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-grey-altitude-beyond-wrapper .btn {
+    color: var(--erau-beyond);
+    background: linear-gradient(135deg, var(--erau-grey) 80%, var(--erau-altitude) 20%);
+}
+#dp-wrapper.wing-grey-altitude-beyond-wrapper .btn:hover,
+#dp-wrapper.wing-grey-altitude-beyond-wrapper .btn:focus-visible {
+    color: var(--erau-grey);
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-grey-altitude-beyond-wrapper .dp-card .nav-link {
+    color: var(--erau-beyond);
+    background: linear-gradient(135deg, var(--erau-grey) 80%, var(--erau-altitude) 20%);
+}
+#dp-wrapper.wing-grey-altitude-beyond-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.wing-grey-altitude-beyond-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-grey);
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-grey-altitude-beyond-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-grey);
+}
+
+#dp-wrapper.wing-grey-altitude-beyond-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-grey-altitude-beyond-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-grey);
+}
+
+#dp-wrapper.wing-grey-altitude-beyond-wrapper .context_module_item .type_icon i {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-grey-altitude-beyond-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-beyond);
+}
+/*********************************************************************/
+/***** WING: ALTITUDE → GREY HARD-EDGE (BLACK ACCENT)
+**********************************************************************/
+
+#main:has(.wing-altitude-grey-black-wrapper) #left-side a, /* course navigation links */
+.wing-altitude-grey-black-wrapper a {
+    color: var(--erau-black);
+}
+
+#dp-wrapper header.wing-altitude-grey-black-header {
+    color: var(--erau-black);
+    background: linear-gradient(135deg, var(--erau-altitude) 80%, var(--erau-grey) 20%);
+}
+#dp-wrapper:has(.wing-altitude-grey-black-header) .dp-banner-image {
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper:has(.wing-altitude-grey-black-header) .wing-altitude-grey-black-header .dp-header-pre {
+    color: var(--erau-altitude);
+    background-color: var(--erau-black);
+}
+#dp-wrapper:has(.wing-altitude-grey-black-header) .erau-header.wing-altitude-grey-black-header .dp-header-subtitle,
+#dp-wrapper:has(.wing-altitude-grey-black-header) .erau-header.wing-altitude-grey-black-header .dp-header-description p {
+    color: var(--erau-black);
+}
+
+#dp-wrapper .wing-altitude-grey-black-link-grid a {
+    background: linear-gradient(135deg, var(--erau-altitude) 80%, var(--erau-grey) 20%);
+}
+#dp-wrapper .erau-link-grid.wing-altitude-grey-black-link-grid a {
+    color: var(--erau-black);
+}
+#dp-wrapper .wing-altitude-grey-black-link-grid a:hover,
+#dp-wrapper .wing-altitude-grey-black-link-grid a:focus-visible {
+    border-color: var(--erau-black);
+}
+#dp-wrapper .wing-altitude-grey-black-link-grid .dp-icon,
+#dp-wrapper .wing-altitude-grey-black-link-grid .fas {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.wing-altitude-grey-black-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-altitude) 80%, var(--erau-grey) 20%);
+}
+#dp-wrapper.erau-wrapper.wing-altitude-grey-black-wrapper h2 {
+    color: var(--erau-black);
+}
+#dp-wrapper.wing-altitude-grey-black-wrapper h3 {
+    color: var(--erau-black);
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper.wing-altitude-grey-black-wrapper h4,
+#dp-wrapper.wing-altitude-grey-black-wrapper h5,
+#dp-wrapper.wing-altitude-grey-black-wrapper h6 {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.wing-altitude-grey-black-wrapper .btn {
+    color: var(--erau-black);
+    background: linear-gradient(135deg, var(--erau-altitude) 80%, var(--erau-grey) 20%);
+}
+#dp-wrapper.wing-altitude-grey-black-wrapper .btn:hover,
+#dp-wrapper.wing-altitude-grey-black-wrapper .btn:focus-visible {
+    color: var(--erau-altitude);
+    background-color: var(--erau-black);
+}
+
+#dp-wrapper.wing-altitude-grey-black-wrapper .dp-card .nav-link {
+    color: var(--erau-black);
+    background: linear-gradient(135deg, var(--erau-altitude) 80%, var(--erau-grey) 20%);
+}
+#dp-wrapper.wing-altitude-grey-black-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.wing-altitude-grey-black-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-altitude);
+    background-color: var(--erau-black);
+}
+
+#dp-wrapper.wing-altitude-grey-black-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-altitude);
+}
+
+#dp-wrapper.wing-altitude-grey-black-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-black);
+}
+
+#dp-wrapper.wing-altitude-grey-black-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-altitude);
+}
+
+#dp-wrapper.wing-altitude-grey-black-wrapper .context_module_item .type_icon i {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.wing-altitude-grey-black-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-black);
+}
+/*********************************************************************/
+/***** WING: GREY → ALTITUDE HARD-EDGE (BLACK ACCENT)
+**********************************************************************/
+
+#main:has(.wing-grey-altitude-black-wrapper) #left-side a, /* course navigation links */
+.wing-grey-altitude-black-wrapper a {
+    color: var(--erau-black);
+}
+
+#dp-wrapper header.wing-grey-altitude-black-header {
+    color: var(--erau-black);
+    background: linear-gradient(135deg, var(--erau-grey) 80%, var(--erau-altitude) 20%);
+}
+#dp-wrapper:has(.wing-grey-altitude-black-header) .dp-banner-image {
+    border-color: var(--erau-grey);
+}
+#dp-wrapper:has(.wing-grey-altitude-black-header) .wing-grey-altitude-black-header .dp-header-pre {
+    color: var(--erau-grey);
+    background-color: var(--erau-black);
+}
+#dp-wrapper:has(.wing-grey-altitude-black-header) .erau-header.wing-grey-altitude-black-header .dp-header-subtitle,
+#dp-wrapper:has(.wing-grey-altitude-black-header) .erau-header.wing-grey-altitude-black-header .dp-header-description p {
+    color: var(--erau-black);
+}
+
+#dp-wrapper .wing-grey-altitude-black-link-grid a {
+    background: linear-gradient(135deg, var(--erau-grey) 80%, var(--erau-altitude) 20%);
+}
+#dp-wrapper .erau-link-grid.wing-grey-altitude-black-link-grid a {
+    color: var(--erau-black);
+}
+#dp-wrapper .wing-grey-altitude-black-link-grid a:hover,
+#dp-wrapper .wing-grey-altitude-black-link-grid a:focus-visible {
+    border-color: var(--erau-black);
+}
+#dp-wrapper .wing-grey-altitude-black-link-grid .dp-icon,
+#dp-wrapper .wing-grey-altitude-black-link-grid .fas {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.wing-grey-altitude-black-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-grey) 80%, var(--erau-altitude) 20%);
+}
+#dp-wrapper.erau-wrapper.wing-grey-altitude-black-wrapper h2 {
+    color: var(--erau-black);
+}
+#dp-wrapper.wing-grey-altitude-black-wrapper h3 {
+    color: var(--erau-black);
+    border-color: var(--erau-grey);
+}
+#dp-wrapper.wing-grey-altitude-black-wrapper h4,
+#dp-wrapper.wing-grey-altitude-black-wrapper h5,
+#dp-wrapper.wing-grey-altitude-black-wrapper h6 {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.wing-grey-altitude-black-wrapper .btn {
+    color: var(--erau-black);
+    background: linear-gradient(135deg, var(--erau-grey) 80%, var(--erau-altitude) 20%);
+}
+#dp-wrapper.wing-grey-altitude-black-wrapper .btn:hover,
+#dp-wrapper.wing-grey-altitude-black-wrapper .btn:focus-visible {
+    color: var(--erau-grey);
+    background-color: var(--erau-black);
+}
+
+#dp-wrapper.wing-grey-altitude-black-wrapper .dp-card .nav-link {
+    color: var(--erau-black);
+    background: linear-gradient(135deg, var(--erau-grey) 80%, var(--erau-altitude) 20%);
+}
+#dp-wrapper.wing-grey-altitude-black-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.wing-grey-altitude-black-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-grey);
+    background-color: var(--erau-black);
+}
+
+#dp-wrapper.wing-grey-altitude-black-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-grey);
+}
+
+#dp-wrapper.wing-grey-altitude-black-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-black);
+}
+
+#dp-wrapper.wing-grey-altitude-black-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-grey);
+}
+
+#dp-wrapper.wing-grey-altitude-black-wrapper .context_module_item .type_icon i {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.wing-grey-altitude-black-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-black);
 }
 /* ERAU Base Theme */
