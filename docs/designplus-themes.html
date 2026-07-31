@@ -88,13 +88,13 @@ const GROUPS = JSON.parse(document.getElementById('theme-data').textContent);
 
 function rowHtml(r) {
   return `                    <tr>
-                        <td style="width: 15.2485%;">${r.name}</td>
-                        <td style="width: 15.9746%;">dp-wrapper erau-wrapper ${r.slug}-wrapper</td>
-                        <td style="width: 15.9746%;">dp-header erau-header ${r.slug}-header</td>
-                        <td style="width: 16.1561%;">container-fluid dp-link-grid erau-link-grid ${r.slug}-link-grid</td>
-                        <td style="width: 12.5255%;"></td>
-                        <td style="width: 12.7071%;"></td>
-                        <td style="width: 11.4364%;">Y</td>
+                        <td>${r.name}</td>
+                        <td>dp-wrapper erau-wrapper ${r.slug}-wrapper</td>
+                        <td>dp-header erau-header ${r.slug}-header</td>
+                        <td>container-fluid dp-link-grid erau-link-grid ${r.slug}-link-grid</td>
+                        <td></td>
+                        <td></td>
+                        <td>Y</td>
                     </tr>`;
 }
 
@@ -104,16 +104,16 @@ function blockHtml(group) {
         <h3>${group.header}</h3>
         <p>Add your own custom themes by adding classes to the table.<strong><mark class="badge rounded-pill cp-bg-success"></mark></strong></p>
         <div class="dp-table-scroll">
-            <table class="table table-striped" style="width: 100%; height: 664px;" data-active-table="true">
+            <table class="table table-striped" data-active-table="true">
                 <thead>
-                    <tr style="height: 83px;">
-                        <th style="width: 15.2485%; height: 83px;" scope="col">Theme Name</th>
-                        <th style="width: 15.9746%; height: 83px;" scope="col">Heading Styles Classes</th>
-                        <th style="width: 15.9746%; height: 83px;" scope="col">Banner Title Classes</th>
-                        <th style="width: 16.1561%; height: 83px;" scope="col">Link Grid/Nav Classes</th>
-                        <th style="width: 12.5255%; height: 83px;" scope="col">Image Classes</th>
-                        <th style="width: 12.7071%; height: 83px;" scope="col">Default Banner Image</th>
-                        <th style="width: 11.4364%; height: 83px;" scope="col">Active</th>
+                    <tr>
+                        <th scope="col">Theme Name</th>
+                        <th scope="col">Heading Styles Classes</th>
+                        <th scope="col">Banner Title Classes</th>
+                        <th scope="col">Link Grid/Nav Classes</th>
+                        <th scope="col">Image Classes</th>
+                        <th scope="col">Default Banner Image</th>
+                        <th scope="col">Active</th>
                     </tr>
                 </thead>
                 <tbody class="">
