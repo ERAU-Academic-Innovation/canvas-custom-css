@@ -16,6 +16,10 @@ Custom CSS stylesheets used to theme Embry-Riddle Worldwide online courses. A si
 | `theme-erau-gradient-<color1>-<color2>-<accent>.css` | **Gradient themes.** Soft blend between two brand colors, in the direction `<color1>` → `<color2>` (e.g. `beyond-black`, `black-unrivaled`, `sunrise-grey`, `altitude-grey`), with an accent variant (`sunrise`, `altitude`, `grey`; `sunrise-grey`/`grey-sunrise` and `altitude-grey`/`grey-altitude` use `unrivaled`, `beyond`, or `black`). |
 | `theme-erau-wing-<color1>-<color2>-<accent>.css` | **Wing themes.** Hard-edge split (no gradient) between two brand colors, same direction/accent naming as the gradient themes above. |
 
+## DesignPLUS Course Setup
+
+Instructional designers pick a theme in the DesignPLUS "ERAU Themes" content block by pasting a theme's classes into the course's settings course. [`docs/designplus-themes.md`](docs/designplus-themes.md) has a copy-pasteable table for every theme, grouped by primary color, so this can be done straight from GitHub's rendered markdown without touching HTML.
+
 ## Usage
 
 These stylesheets are loaded through Canvas's Theme Editor, not linked directly from GitHub.
