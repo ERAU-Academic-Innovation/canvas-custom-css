@@ -1047,7 +1047,7 @@
 
 #main:has(.sunrise-black-wrapper) #left-side a, /* course navigation links */
 .sunrise-black-wrapper a {
-    color: var(--erau-beyond);
+    color: var(--erau-black);
 }
 
 #dp-wrapper header.sunrise-black-header {
@@ -1333,7 +1333,7 @@
 
 #main:has(.grey-black-wrapper) #left-side a, /* course navigation links */
 .grey-black-wrapper a {
-    color: var(--erau-beyond);
+    color: var(--erau-black);
 }
 
 #dp-wrapper header.grey-black-header {
@@ -2833,7 +2833,7 @@
 
 #main:has(.gradient-sunrise-grey-black-wrapper) #left-side a, /* course navigation links */
 .gradient-sunrise-grey-black-wrapper a {
-    color: var(--erau-beyond);
+    color: var(--erau-black);
 }
 
 #dp-wrapper header.gradient-sunrise-grey-black-header {
@@ -2928,7 +2928,7 @@
 
 #main:has(.gradient-grey-sunrise-black-wrapper) #left-side a, /* course navigation links */
 .gradient-grey-sunrise-black-wrapper a {
-    color: var(--erau-beyond);
+    color: var(--erau-black);
 }
 
 #dp-wrapper header.gradient-grey-sunrise-black-header {
@@ -4999,7 +4999,7 @@
 
 #main:has(.wing-sunrise-grey-black-wrapper) #left-side a, /* course navigation links */
 .wing-sunrise-grey-black-wrapper a {
-    color: var(--erau-beyond);
+    color: var(--erau-black);
 }
 
 #dp-wrapper header.wing-sunrise-grey-black-header {
@@ -5094,7 +5094,7 @@
 
 #main:has(.wing-grey-sunrise-black-wrapper) #left-side a, /* course navigation links */
 .wing-grey-sunrise-black-wrapper a {
-    color: var(--erau-beyond);
+    color: var(--erau-black);
 }
 
 #dp-wrapper header.wing-grey-sunrise-black-header {
