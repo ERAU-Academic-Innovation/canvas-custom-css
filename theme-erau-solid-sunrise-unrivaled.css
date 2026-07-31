@@ -1,0 +1,95 @@
+/*********************************************************************/
+/***** SUNRISE (UNRIVALED ACCENT)
+**********************************************************************/
+
+#main:has(.sunrise-unrivaled-wrapper) #left-side a, /* course navigation links */
+.sunrise-unrivaled-wrapper a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper header.sunrise-unrivaled-header {
+    color: var(--erau-unrivaled);
+    background: var(--erau-sunrise);
+}
+#dp-wrapper:has(.sunrise-unrivaled-header) .dp-banner-image {
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper:has(.sunrise-unrivaled-header) .sunrise-unrivaled-header .dp-header-pre {
+    color: var(--erau-sunrise);
+    background-color: var(--erau-unrivaled);
+}
+#dp-wrapper:has(.sunrise-unrivaled-header) .erau-header.sunrise-unrivaled-header .dp-header-subtitle,
+#dp-wrapper:has(.sunrise-unrivaled-header) .erau-header.sunrise-unrivaled-header .dp-header-description p {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper .sunrise-unrivaled-link-grid a {
+    background: var(--erau-sunrise);
+}
+#dp-wrapper .erau-link-grid.sunrise-unrivaled-link-grid a {
+    color: var(--erau-unrivaled);
+}
+#dp-wrapper .sunrise-unrivaled-link-grid a:hover,
+#dp-wrapper .sunrise-unrivaled-link-grid a:focus-visible {
+    border-color: var(--erau-unrivaled);
+}
+#dp-wrapper .sunrise-unrivaled-link-grid .dp-icon,
+#dp-wrapper .sunrise-unrivaled-link-grid .fas {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.sunrise-unrivaled-wrapper h2 {
+    background-color: var(--erau-sunrise);
+}
+#dp-wrapper.erau-wrapper.sunrise-unrivaled-wrapper h2 {
+    color: var(--erau-unrivaled);
+}
+#dp-wrapper.sunrise-unrivaled-wrapper h3 {
+    color: var(--erau-unrivaled);
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper.sunrise-unrivaled-wrapper h4,
+#dp-wrapper.sunrise-unrivaled-wrapper h5,
+#dp-wrapper.sunrise-unrivaled-wrapper h6 {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.sunrise-unrivaled-wrapper .btn {
+    color: var(--erau-unrivaled);
+    background: var(--erau-sunrise);
+}
+#dp-wrapper.sunrise-unrivaled-wrapper .btn:hover,
+#dp-wrapper.sunrise-unrivaled-wrapper .btn:focus-visible {
+    color: var(--erau-sunrise);
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.sunrise-unrivaled-wrapper .dp-card .nav-link {
+    color: var(--erau-unrivaled);
+    background-color: var(--erau-sunrise);
+}
+#dp-wrapper.sunrise-unrivaled-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.sunrise-unrivaled-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-sunrise);
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.sunrise-unrivaled-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.sunrise-unrivaled-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.sunrise-unrivaled-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-sunrise);
+}
+
+#dp-wrapper.sunrise-unrivaled-wrapper .context_module_item .type_icon i {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.sunrise-unrivaled-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-unrivaled);
+}

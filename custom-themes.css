@@ -850,6 +850,388 @@
 #dp-wrapper.black-altitude-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-black);
 }
+/* ERAU Sunrise Themes */
+/*********************************************************************/
+/***** SUNRISE (UNRIVALED ACCENT)
+**********************************************************************/
+
+#main:has(.sunrise-unrivaled-wrapper) #left-side a, /* course navigation links */
+.sunrise-unrivaled-wrapper a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper header.sunrise-unrivaled-header {
+    color: var(--erau-unrivaled);
+    background: var(--erau-sunrise);
+}
+#dp-wrapper:has(.sunrise-unrivaled-header) .dp-banner-image {
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper:has(.sunrise-unrivaled-header) .sunrise-unrivaled-header .dp-header-pre {
+    color: var(--erau-sunrise);
+    background-color: var(--erau-unrivaled);
+}
+#dp-wrapper:has(.sunrise-unrivaled-header) .erau-header.sunrise-unrivaled-header .dp-header-subtitle,
+#dp-wrapper:has(.sunrise-unrivaled-header) .erau-header.sunrise-unrivaled-header .dp-header-description p {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper .sunrise-unrivaled-link-grid a {
+    background: var(--erau-sunrise);
+}
+#dp-wrapper .erau-link-grid.sunrise-unrivaled-link-grid a {
+    color: var(--erau-unrivaled);
+}
+#dp-wrapper .sunrise-unrivaled-link-grid a:hover,
+#dp-wrapper .sunrise-unrivaled-link-grid a:focus-visible {
+    border-color: var(--erau-unrivaled);
+}
+#dp-wrapper .sunrise-unrivaled-link-grid .dp-icon,
+#dp-wrapper .sunrise-unrivaled-link-grid .fas {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.sunrise-unrivaled-wrapper h2 {
+    background-color: var(--erau-sunrise);
+}
+#dp-wrapper.erau-wrapper.sunrise-unrivaled-wrapper h2 {
+    color: var(--erau-unrivaled);
+}
+#dp-wrapper.sunrise-unrivaled-wrapper h3 {
+    color: var(--erau-unrivaled);
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper.sunrise-unrivaled-wrapper h4,
+#dp-wrapper.sunrise-unrivaled-wrapper h5,
+#dp-wrapper.sunrise-unrivaled-wrapper h6 {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.sunrise-unrivaled-wrapper .btn {
+    color: var(--erau-unrivaled);
+    background: var(--erau-sunrise);
+}
+#dp-wrapper.sunrise-unrivaled-wrapper .btn:hover,
+#dp-wrapper.sunrise-unrivaled-wrapper .btn:focus-visible {
+    color: var(--erau-sunrise);
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.sunrise-unrivaled-wrapper .dp-card .nav-link {
+    color: var(--erau-unrivaled);
+    background-color: var(--erau-sunrise);
+}
+#dp-wrapper.sunrise-unrivaled-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.sunrise-unrivaled-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-sunrise);
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.sunrise-unrivaled-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.sunrise-unrivaled-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.sunrise-unrivaled-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-sunrise);
+}
+
+#dp-wrapper.sunrise-unrivaled-wrapper .context_module_item .type_icon i {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.sunrise-unrivaled-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-unrivaled);
+}
+/*********************************************************************/
+/***** SUNRISE (BEYOND ACCENT)
+**********************************************************************/
+
+#main:has(.sunrise-beyond-wrapper) #left-side a, /* course navigation links */
+.sunrise-beyond-wrapper a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper header.sunrise-beyond-header {
+    color: var(--erau-beyond);
+    background: var(--erau-sunrise);
+}
+#dp-wrapper:has(.sunrise-beyond-header) .dp-banner-image {
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper:has(.sunrise-beyond-header) .sunrise-beyond-header .dp-header-pre {
+    color: var(--erau-sunrise);
+    background-color: var(--erau-beyond);
+}
+#dp-wrapper:has(.sunrise-beyond-header) .erau-header.sunrise-beyond-header .dp-header-subtitle,
+#dp-wrapper:has(.sunrise-beyond-header) .erau-header.sunrise-beyond-header .dp-header-description p {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper .sunrise-beyond-link-grid a {
+    background: var(--erau-sunrise);
+}
+#dp-wrapper .erau-link-grid.sunrise-beyond-link-grid a {
+    color: var(--erau-beyond);
+}
+#dp-wrapper .sunrise-beyond-link-grid a:hover,
+#dp-wrapper .sunrise-beyond-link-grid a:focus-visible {
+    border-color: var(--erau-beyond);
+}
+#dp-wrapper .sunrise-beyond-link-grid .dp-icon,
+#dp-wrapper .sunrise-beyond-link-grid .fas {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.sunrise-beyond-wrapper h2 {
+    background-color: var(--erau-sunrise);
+}
+#dp-wrapper.erau-wrapper.sunrise-beyond-wrapper h2 {
+    color: var(--erau-beyond);
+}
+#dp-wrapper.sunrise-beyond-wrapper h3 {
+    color: var(--erau-beyond);
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper.sunrise-beyond-wrapper h4,
+#dp-wrapper.sunrise-beyond-wrapper h5,
+#dp-wrapper.sunrise-beyond-wrapper h6 {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.sunrise-beyond-wrapper .btn {
+    color: var(--erau-beyond);
+    background: var(--erau-sunrise);
+}
+#dp-wrapper.sunrise-beyond-wrapper .btn:hover,
+#dp-wrapper.sunrise-beyond-wrapper .btn:focus-visible {
+    color: var(--erau-sunrise);
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.sunrise-beyond-wrapper .dp-card .nav-link {
+    color: var(--erau-beyond);
+    background-color: var(--erau-sunrise);
+}
+#dp-wrapper.sunrise-beyond-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.sunrise-beyond-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-sunrise);
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.sunrise-beyond-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.sunrise-beyond-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.sunrise-beyond-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-sunrise);
+}
+
+#dp-wrapper.sunrise-beyond-wrapper .context_module_item .type_icon i {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.sunrise-beyond-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-beyond);
+}
+/* ERAU Grey Themes */
+/*********************************************************************/
+/***** GREY (UNRIVALED ACCENT)
+**********************************************************************/
+
+#main:has(.grey-unrivaled-wrapper) #left-side a, /* course navigation links */
+.grey-unrivaled-wrapper a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper header.grey-unrivaled-header {
+    color: var(--erau-unrivaled);
+    background: var(--erau-grey);
+}
+#dp-wrapper:has(.grey-unrivaled-header) .dp-banner-image {
+    border-color: var(--erau-grey);
+}
+#dp-wrapper:has(.grey-unrivaled-header) .grey-unrivaled-header .dp-header-pre {
+    color: var(--erau-grey);
+    background-color: var(--erau-unrivaled);
+}
+#dp-wrapper:has(.grey-unrivaled-header) .erau-header.grey-unrivaled-header .dp-header-subtitle,
+#dp-wrapper:has(.grey-unrivaled-header) .erau-header.grey-unrivaled-header .dp-header-description p {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper .grey-unrivaled-link-grid a {
+    background: var(--erau-grey);
+}
+#dp-wrapper .erau-link-grid.grey-unrivaled-link-grid a {
+    color: var(--erau-unrivaled);
+}
+#dp-wrapper .grey-unrivaled-link-grid a:hover,
+#dp-wrapper .grey-unrivaled-link-grid a:focus-visible {
+    border-color: var(--erau-unrivaled);
+}
+#dp-wrapper .grey-unrivaled-link-grid .dp-icon,
+#dp-wrapper .grey-unrivaled-link-grid .fas {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.grey-unrivaled-wrapper h2 {
+    background-color: var(--erau-grey);
+}
+#dp-wrapper.erau-wrapper.grey-unrivaled-wrapper h2 {
+    color: var(--erau-unrivaled);
+}
+#dp-wrapper.grey-unrivaled-wrapper h3 {
+    color: var(--erau-unrivaled);
+    border-color: var(--erau-grey);
+}
+#dp-wrapper.grey-unrivaled-wrapper h4,
+#dp-wrapper.grey-unrivaled-wrapper h5,
+#dp-wrapper.grey-unrivaled-wrapper h6 {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.grey-unrivaled-wrapper .btn {
+    color: var(--erau-unrivaled);
+    background: var(--erau-grey);
+}
+#dp-wrapper.grey-unrivaled-wrapper .btn:hover,
+#dp-wrapper.grey-unrivaled-wrapper .btn:focus-visible {
+    color: var(--erau-grey);
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.grey-unrivaled-wrapper .dp-card .nav-link {
+    color: var(--erau-unrivaled);
+    background-color: var(--erau-grey);
+}
+#dp-wrapper.grey-unrivaled-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.grey-unrivaled-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-grey);
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.grey-unrivaled-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-grey);
+}
+
+#dp-wrapper.grey-unrivaled-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.grey-unrivaled-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-grey);
+}
+
+#dp-wrapper.grey-unrivaled-wrapper .context_module_item .type_icon i {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.grey-unrivaled-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-unrivaled);
+}
+/*********************************************************************/
+/***** GREY (BEYOND ACCENT)
+**********************************************************************/
+
+#main:has(.grey-beyond-wrapper) #left-side a, /* course navigation links */
+.grey-beyond-wrapper a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper header.grey-beyond-header {
+    color: var(--erau-beyond);
+    background: var(--erau-grey);
+}
+#dp-wrapper:has(.grey-beyond-header) .dp-banner-image {
+    border-color: var(--erau-grey);
+}
+#dp-wrapper:has(.grey-beyond-header) .grey-beyond-header .dp-header-pre {
+    color: var(--erau-grey);
+    background-color: var(--erau-beyond);
+}
+#dp-wrapper:has(.grey-beyond-header) .erau-header.grey-beyond-header .dp-header-subtitle,
+#dp-wrapper:has(.grey-beyond-header) .erau-header.grey-beyond-header .dp-header-description p {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper .grey-beyond-link-grid a {
+    background: var(--erau-grey);
+}
+#dp-wrapper .erau-link-grid.grey-beyond-link-grid a {
+    color: var(--erau-beyond);
+}
+#dp-wrapper .grey-beyond-link-grid a:hover,
+#dp-wrapper .grey-beyond-link-grid a:focus-visible {
+    border-color: var(--erau-beyond);
+}
+#dp-wrapper .grey-beyond-link-grid .dp-icon,
+#dp-wrapper .grey-beyond-link-grid .fas {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.grey-beyond-wrapper h2 {
+    background-color: var(--erau-grey);
+}
+#dp-wrapper.erau-wrapper.grey-beyond-wrapper h2 {
+    color: var(--erau-beyond);
+}
+#dp-wrapper.grey-beyond-wrapper h3 {
+    color: var(--erau-beyond);
+    border-color: var(--erau-grey);
+}
+#dp-wrapper.grey-beyond-wrapper h4,
+#dp-wrapper.grey-beyond-wrapper h5,
+#dp-wrapper.grey-beyond-wrapper h6 {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.grey-beyond-wrapper .btn {
+    color: var(--erau-beyond);
+    background: var(--erau-grey);
+}
+#dp-wrapper.grey-beyond-wrapper .btn:hover,
+#dp-wrapper.grey-beyond-wrapper .btn:focus-visible {
+    color: var(--erau-grey);
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.grey-beyond-wrapper .dp-card .nav-link {
+    color: var(--erau-beyond);
+    background-color: var(--erau-grey);
+}
+#dp-wrapper.grey-beyond-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.grey-beyond-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-grey);
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.grey-beyond-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-grey);
+}
+
+#dp-wrapper.grey-beyond-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.grey-beyond-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-grey);
+}
+
+#dp-wrapper.grey-beyond-wrapper .context_module_item .type_icon i {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.grey-beyond-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-beyond);
+}
 /* ERAU Gradient Themes: Beyond -> Black */
 /*********************************************************************/
 /***** GRADIENT: BEYOND → BLACK (SUNRISE ACCENT)
@@ -1874,6 +2256,387 @@
 #dp-wrapper.gradient-black-unrivaled-grey-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-black);
 }
+/* ERAU Gradient Themes: Sunrise <-> Grey */
+/*********************************************************************/
+/***** GRADIENT: SUNRISE → GREY (UNRIVALED ACCENT)
+**********************************************************************/
+
+#main:has(.gradient-sunrise-grey-unrivaled-wrapper) #left-side a, /* course navigation links */
+.gradient-sunrise-grey-unrivaled-wrapper a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper header.gradient-sunrise-grey-unrivaled-header {
+    color: var(--erau-unrivaled);
+    background: linear-gradient(135deg, var(--erau-sunrise), var(--erau-grey));
+}
+#dp-wrapper:has(.gradient-sunrise-grey-unrivaled-header) .dp-banner-image {
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper:has(.gradient-sunrise-grey-unrivaled-header) .gradient-sunrise-grey-unrivaled-header .dp-header-pre {
+    color: var(--erau-sunrise);
+    background-color: var(--erau-unrivaled);
+}
+#dp-wrapper:has(.gradient-sunrise-grey-unrivaled-header) .erau-header.gradient-sunrise-grey-unrivaled-header .dp-header-subtitle,
+#dp-wrapper:has(.gradient-sunrise-grey-unrivaled-header) .erau-header.gradient-sunrise-grey-unrivaled-header .dp-header-description p {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper .gradient-sunrise-grey-unrivaled-link-grid a {
+    background: linear-gradient(135deg, var(--erau-sunrise), var(--erau-grey));
+}
+#dp-wrapper .erau-link-grid.gradient-sunrise-grey-unrivaled-link-grid a {
+    color: var(--erau-unrivaled);
+}
+#dp-wrapper .gradient-sunrise-grey-unrivaled-link-grid a:hover,
+#dp-wrapper .gradient-sunrise-grey-unrivaled-link-grid a:focus-visible {
+    border-color: var(--erau-unrivaled);
+}
+#dp-wrapper .gradient-sunrise-grey-unrivaled-link-grid .dp-icon,
+#dp-wrapper .gradient-sunrise-grey-unrivaled-link-grid .fas {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-sunrise-grey-unrivaled-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-sunrise), var(--erau-grey));
+}
+#dp-wrapper.erau-wrapper.gradient-sunrise-grey-unrivaled-wrapper h2 {
+    color: var(--erau-unrivaled);
+}
+#dp-wrapper.gradient-sunrise-grey-unrivaled-wrapper h3 {
+    color: var(--erau-unrivaled);
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper.gradient-sunrise-grey-unrivaled-wrapper h4,
+#dp-wrapper.gradient-sunrise-grey-unrivaled-wrapper h5,
+#dp-wrapper.gradient-sunrise-grey-unrivaled-wrapper h6 {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-sunrise-grey-unrivaled-wrapper .btn {
+    color: var(--erau-unrivaled);
+    background: linear-gradient(135deg, var(--erau-sunrise), var(--erau-grey));
+}
+#dp-wrapper.gradient-sunrise-grey-unrivaled-wrapper .btn:hover,
+#dp-wrapper.gradient-sunrise-grey-unrivaled-wrapper .btn:focus-visible {
+    color: var(--erau-sunrise);
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-sunrise-grey-unrivaled-wrapper .dp-card .nav-link {
+    color: var(--erau-unrivaled);
+    background: linear-gradient(135deg, var(--erau-sunrise), var(--erau-grey));
+}
+#dp-wrapper.gradient-sunrise-grey-unrivaled-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.gradient-sunrise-grey-unrivaled-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-sunrise);
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-sunrise-grey-unrivaled-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.gradient-sunrise-grey-unrivaled-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-sunrise-grey-unrivaled-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-sunrise);
+}
+
+#dp-wrapper.gradient-sunrise-grey-unrivaled-wrapper .context_module_item .type_icon i {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-sunrise-grey-unrivaled-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-unrivaled);
+}
+/*********************************************************************/
+/***** GRADIENT: GREY → SUNRISE (UNRIVALED ACCENT)
+**********************************************************************/
+
+#main:has(.gradient-grey-sunrise-unrivaled-wrapper) #left-side a, /* course navigation links */
+.gradient-grey-sunrise-unrivaled-wrapper a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper header.gradient-grey-sunrise-unrivaled-header {
+    color: var(--erau-unrivaled);
+    background: linear-gradient(135deg, var(--erau-grey), var(--erau-sunrise));
+}
+#dp-wrapper:has(.gradient-grey-sunrise-unrivaled-header) .dp-banner-image {
+    border-color: var(--erau-grey);
+}
+#dp-wrapper:has(.gradient-grey-sunrise-unrivaled-header) .gradient-grey-sunrise-unrivaled-header .dp-header-pre {
+    color: var(--erau-grey);
+    background-color: var(--erau-unrivaled);
+}
+#dp-wrapper:has(.gradient-grey-sunrise-unrivaled-header) .erau-header.gradient-grey-sunrise-unrivaled-header .dp-header-subtitle,
+#dp-wrapper:has(.gradient-grey-sunrise-unrivaled-header) .erau-header.gradient-grey-sunrise-unrivaled-header .dp-header-description p {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper .gradient-grey-sunrise-unrivaled-link-grid a {
+    background: linear-gradient(135deg, var(--erau-grey), var(--erau-sunrise));
+}
+#dp-wrapper .erau-link-grid.gradient-grey-sunrise-unrivaled-link-grid a {
+    color: var(--erau-unrivaled);
+}
+#dp-wrapper .gradient-grey-sunrise-unrivaled-link-grid a:hover,
+#dp-wrapper .gradient-grey-sunrise-unrivaled-link-grid a:focus-visible {
+    border-color: var(--erau-unrivaled);
+}
+#dp-wrapper .gradient-grey-sunrise-unrivaled-link-grid .dp-icon,
+#dp-wrapper .gradient-grey-sunrise-unrivaled-link-grid .fas {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-grey), var(--erau-sunrise));
+}
+#dp-wrapper.erau-wrapper.gradient-grey-sunrise-unrivaled-wrapper h2 {
+    color: var(--erau-unrivaled);
+}
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper h3 {
+    color: var(--erau-unrivaled);
+    border-color: var(--erau-grey);
+}
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper h4,
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper h5,
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper h6 {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper .btn {
+    color: var(--erau-unrivaled);
+    background: linear-gradient(135deg, var(--erau-grey), var(--erau-sunrise));
+}
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper .btn:hover,
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper .btn:focus-visible {
+    color: var(--erau-grey);
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper .dp-card .nav-link {
+    color: var(--erau-unrivaled);
+    background: linear-gradient(135deg, var(--erau-grey), var(--erau-sunrise));
+}
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-grey);
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-grey);
+}
+
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-grey);
+}
+
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper .context_module_item .type_icon i {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-unrivaled);
+}
+/*********************************************************************/
+/***** GRADIENT: SUNRISE → GREY (BEYOND ACCENT)
+**********************************************************************/
+
+#main:has(.gradient-sunrise-grey-beyond-wrapper) #left-side a, /* course navigation links */
+.gradient-sunrise-grey-beyond-wrapper a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper header.gradient-sunrise-grey-beyond-header {
+    color: var(--erau-beyond);
+    background: linear-gradient(135deg, var(--erau-sunrise), var(--erau-grey));
+}
+#dp-wrapper:has(.gradient-sunrise-grey-beyond-header) .dp-banner-image {
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper:has(.gradient-sunrise-grey-beyond-header) .gradient-sunrise-grey-beyond-header .dp-header-pre {
+    color: var(--erau-sunrise);
+    background-color: var(--erau-beyond);
+}
+#dp-wrapper:has(.gradient-sunrise-grey-beyond-header) .erau-header.gradient-sunrise-grey-beyond-header .dp-header-subtitle,
+#dp-wrapper:has(.gradient-sunrise-grey-beyond-header) .erau-header.gradient-sunrise-grey-beyond-header .dp-header-description p {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper .gradient-sunrise-grey-beyond-link-grid a {
+    background: linear-gradient(135deg, var(--erau-sunrise), var(--erau-grey));
+}
+#dp-wrapper .erau-link-grid.gradient-sunrise-grey-beyond-link-grid a {
+    color: var(--erau-beyond);
+}
+#dp-wrapper .gradient-sunrise-grey-beyond-link-grid a:hover,
+#dp-wrapper .gradient-sunrise-grey-beyond-link-grid a:focus-visible {
+    border-color: var(--erau-beyond);
+}
+#dp-wrapper .gradient-sunrise-grey-beyond-link-grid .dp-icon,
+#dp-wrapper .gradient-sunrise-grey-beyond-link-grid .fas {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-sunrise-grey-beyond-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-sunrise), var(--erau-grey));
+}
+#dp-wrapper.erau-wrapper.gradient-sunrise-grey-beyond-wrapper h2 {
+    color: var(--erau-beyond);
+}
+#dp-wrapper.gradient-sunrise-grey-beyond-wrapper h3 {
+    color: var(--erau-beyond);
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper.gradient-sunrise-grey-beyond-wrapper h4,
+#dp-wrapper.gradient-sunrise-grey-beyond-wrapper h5,
+#dp-wrapper.gradient-sunrise-grey-beyond-wrapper h6 {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-sunrise-grey-beyond-wrapper .btn {
+    color: var(--erau-beyond);
+    background: linear-gradient(135deg, var(--erau-sunrise), var(--erau-grey));
+}
+#dp-wrapper.gradient-sunrise-grey-beyond-wrapper .btn:hover,
+#dp-wrapper.gradient-sunrise-grey-beyond-wrapper .btn:focus-visible {
+    color: var(--erau-sunrise);
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-sunrise-grey-beyond-wrapper .dp-card .nav-link {
+    color: var(--erau-beyond);
+    background: linear-gradient(135deg, var(--erau-sunrise), var(--erau-grey));
+}
+#dp-wrapper.gradient-sunrise-grey-beyond-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.gradient-sunrise-grey-beyond-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-sunrise);
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-sunrise-grey-beyond-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.gradient-sunrise-grey-beyond-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-sunrise-grey-beyond-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-sunrise);
+}
+
+#dp-wrapper.gradient-sunrise-grey-beyond-wrapper .context_module_item .type_icon i {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-sunrise-grey-beyond-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-beyond);
+}
+/*********************************************************************/
+/***** GRADIENT: GREY → SUNRISE (BEYOND ACCENT)
+**********************************************************************/
+
+#main:has(.gradient-grey-sunrise-beyond-wrapper) #left-side a, /* course navigation links */
+.gradient-grey-sunrise-beyond-wrapper a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper header.gradient-grey-sunrise-beyond-header {
+    color: var(--erau-beyond);
+    background: linear-gradient(135deg, var(--erau-grey), var(--erau-sunrise));
+}
+#dp-wrapper:has(.gradient-grey-sunrise-beyond-header) .dp-banner-image {
+    border-color: var(--erau-grey);
+}
+#dp-wrapper:has(.gradient-grey-sunrise-beyond-header) .gradient-grey-sunrise-beyond-header .dp-header-pre {
+    color: var(--erau-grey);
+    background-color: var(--erau-beyond);
+}
+#dp-wrapper:has(.gradient-grey-sunrise-beyond-header) .erau-header.gradient-grey-sunrise-beyond-header .dp-header-subtitle,
+#dp-wrapper:has(.gradient-grey-sunrise-beyond-header) .erau-header.gradient-grey-sunrise-beyond-header .dp-header-description p {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper .gradient-grey-sunrise-beyond-link-grid a {
+    background: linear-gradient(135deg, var(--erau-grey), var(--erau-sunrise));
+}
+#dp-wrapper .erau-link-grid.gradient-grey-sunrise-beyond-link-grid a {
+    color: var(--erau-beyond);
+}
+#dp-wrapper .gradient-grey-sunrise-beyond-link-grid a:hover,
+#dp-wrapper .gradient-grey-sunrise-beyond-link-grid a:focus-visible {
+    border-color: var(--erau-beyond);
+}
+#dp-wrapper .gradient-grey-sunrise-beyond-link-grid .dp-icon,
+#dp-wrapper .gradient-grey-sunrise-beyond-link-grid .fas {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-grey-sunrise-beyond-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-grey), var(--erau-sunrise));
+}
+#dp-wrapper.erau-wrapper.gradient-grey-sunrise-beyond-wrapper h2 {
+    color: var(--erau-beyond);
+}
+#dp-wrapper.gradient-grey-sunrise-beyond-wrapper h3 {
+    color: var(--erau-beyond);
+    border-color: var(--erau-grey);
+}
+#dp-wrapper.gradient-grey-sunrise-beyond-wrapper h4,
+#dp-wrapper.gradient-grey-sunrise-beyond-wrapper h5,
+#dp-wrapper.gradient-grey-sunrise-beyond-wrapper h6 {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-grey-sunrise-beyond-wrapper .btn {
+    color: var(--erau-beyond);
+    background: linear-gradient(135deg, var(--erau-grey), var(--erau-sunrise));
+}
+#dp-wrapper.gradient-grey-sunrise-beyond-wrapper .btn:hover,
+#dp-wrapper.gradient-grey-sunrise-beyond-wrapper .btn:focus-visible {
+    color: var(--erau-grey);
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-grey-sunrise-beyond-wrapper .dp-card .nav-link {
+    color: var(--erau-beyond);
+    background: linear-gradient(135deg, var(--erau-grey), var(--erau-sunrise));
+}
+#dp-wrapper.gradient-grey-sunrise-beyond-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.gradient-grey-sunrise-beyond-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-grey);
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-grey-sunrise-beyond-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-grey);
+}
+
+#dp-wrapper.gradient-grey-sunrise-beyond-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-grey-sunrise-beyond-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-grey);
+}
+
+#dp-wrapper.gradient-grey-sunrise-beyond-wrapper .context_module_item .type_icon i {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-grey-sunrise-beyond-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-beyond);
+}
 /* ERAU Wing Themes: Beyond -> Black */
 /*********************************************************************/
 /***** WING: BEYOND → BLACK HARD-EDGE (SUNRISE ACCENT)
@@ -2897,6 +3660,387 @@
 
 #dp-wrapper.wing-black-unrivaled-grey-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-black);
+}
+/* ERAU Wing Themes: Sunrise <-> Grey */
+/*********************************************************************/
+/***** WING: SUNRISE → GREY HARD-EDGE (UNRIVALED ACCENT)
+**********************************************************************/
+
+#main:has(.wing-sunrise-grey-unrivaled-wrapper) #left-side a, /* course navigation links */
+.wing-sunrise-grey-unrivaled-wrapper a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper header.wing-sunrise-grey-unrivaled-header {
+    color: var(--erau-unrivaled);
+    background: linear-gradient(135deg, var(--erau-sunrise) 80%, var(--erau-grey) 20%);
+}
+#dp-wrapper:has(.wing-sunrise-grey-unrivaled-header) .dp-banner-image {
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper:has(.wing-sunrise-grey-unrivaled-header) .wing-sunrise-grey-unrivaled-header .dp-header-pre {
+    color: var(--erau-sunrise);
+    background-color: var(--erau-unrivaled);
+}
+#dp-wrapper:has(.wing-sunrise-grey-unrivaled-header) .erau-header.wing-sunrise-grey-unrivaled-header .dp-header-subtitle,
+#dp-wrapper:has(.wing-sunrise-grey-unrivaled-header) .erau-header.wing-sunrise-grey-unrivaled-header .dp-header-description p {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper .wing-sunrise-grey-unrivaled-link-grid a {
+    background: linear-gradient(135deg, var(--erau-sunrise) 80%, var(--erau-grey) 20%);
+}
+#dp-wrapper .erau-link-grid.wing-sunrise-grey-unrivaled-link-grid a {
+    color: var(--erau-unrivaled);
+}
+#dp-wrapper .wing-sunrise-grey-unrivaled-link-grid a:hover,
+#dp-wrapper .wing-sunrise-grey-unrivaled-link-grid a:focus-visible {
+    border-color: var(--erau-unrivaled);
+}
+#dp-wrapper .wing-sunrise-grey-unrivaled-link-grid .dp-icon,
+#dp-wrapper .wing-sunrise-grey-unrivaled-link-grid .fas {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-sunrise-grey-unrivaled-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-sunrise) 80%, var(--erau-grey) 20%);
+}
+#dp-wrapper.erau-wrapper.wing-sunrise-grey-unrivaled-wrapper h2 {
+    color: var(--erau-unrivaled);
+}
+#dp-wrapper.wing-sunrise-grey-unrivaled-wrapper h3 {
+    color: var(--erau-unrivaled);
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper.wing-sunrise-grey-unrivaled-wrapper h4,
+#dp-wrapper.wing-sunrise-grey-unrivaled-wrapper h5,
+#dp-wrapper.wing-sunrise-grey-unrivaled-wrapper h6 {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-sunrise-grey-unrivaled-wrapper .btn {
+    color: var(--erau-unrivaled);
+    background: linear-gradient(135deg, var(--erau-sunrise) 80%, var(--erau-grey) 20%);
+}
+#dp-wrapper.wing-sunrise-grey-unrivaled-wrapper .btn:hover,
+#dp-wrapper.wing-sunrise-grey-unrivaled-wrapper .btn:focus-visible {
+    color: var(--erau-sunrise);
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-sunrise-grey-unrivaled-wrapper .dp-card .nav-link {
+    color: var(--erau-unrivaled);
+    background: linear-gradient(135deg, var(--erau-sunrise) 80%, var(--erau-grey) 20%);
+}
+#dp-wrapper.wing-sunrise-grey-unrivaled-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.wing-sunrise-grey-unrivaled-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-sunrise);
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-sunrise-grey-unrivaled-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.wing-sunrise-grey-unrivaled-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-sunrise-grey-unrivaled-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-sunrise);
+}
+
+#dp-wrapper.wing-sunrise-grey-unrivaled-wrapper .context_module_item .type_icon i {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-sunrise-grey-unrivaled-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-unrivaled);
+}
+/*********************************************************************/
+/***** WING: GREY → SUNRISE HARD-EDGE (UNRIVALED ACCENT)
+**********************************************************************/
+
+#main:has(.wing-grey-sunrise-unrivaled-wrapper) #left-side a, /* course navigation links */
+.wing-grey-sunrise-unrivaled-wrapper a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper header.wing-grey-sunrise-unrivaled-header {
+    color: var(--erau-unrivaled);
+    background: linear-gradient(135deg, var(--erau-grey) 80%, var(--erau-sunrise) 20%);
+}
+#dp-wrapper:has(.wing-grey-sunrise-unrivaled-header) .dp-banner-image {
+    border-color: var(--erau-grey);
+}
+#dp-wrapper:has(.wing-grey-sunrise-unrivaled-header) .wing-grey-sunrise-unrivaled-header .dp-header-pre {
+    color: var(--erau-grey);
+    background-color: var(--erau-unrivaled);
+}
+#dp-wrapper:has(.wing-grey-sunrise-unrivaled-header) .erau-header.wing-grey-sunrise-unrivaled-header .dp-header-subtitle,
+#dp-wrapper:has(.wing-grey-sunrise-unrivaled-header) .erau-header.wing-grey-sunrise-unrivaled-header .dp-header-description p {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper .wing-grey-sunrise-unrivaled-link-grid a {
+    background: linear-gradient(135deg, var(--erau-grey) 80%, var(--erau-sunrise) 20%);
+}
+#dp-wrapper .erau-link-grid.wing-grey-sunrise-unrivaled-link-grid a {
+    color: var(--erau-unrivaled);
+}
+#dp-wrapper .wing-grey-sunrise-unrivaled-link-grid a:hover,
+#dp-wrapper .wing-grey-sunrise-unrivaled-link-grid a:focus-visible {
+    border-color: var(--erau-unrivaled);
+}
+#dp-wrapper .wing-grey-sunrise-unrivaled-link-grid .dp-icon,
+#dp-wrapper .wing-grey-sunrise-unrivaled-link-grid .fas {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-grey-sunrise-unrivaled-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-grey) 80%, var(--erau-sunrise) 20%);
+}
+#dp-wrapper.erau-wrapper.wing-grey-sunrise-unrivaled-wrapper h2 {
+    color: var(--erau-unrivaled);
+}
+#dp-wrapper.wing-grey-sunrise-unrivaled-wrapper h3 {
+    color: var(--erau-unrivaled);
+    border-color: var(--erau-grey);
+}
+#dp-wrapper.wing-grey-sunrise-unrivaled-wrapper h4,
+#dp-wrapper.wing-grey-sunrise-unrivaled-wrapper h5,
+#dp-wrapper.wing-grey-sunrise-unrivaled-wrapper h6 {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-grey-sunrise-unrivaled-wrapper .btn {
+    color: var(--erau-unrivaled);
+    background: linear-gradient(135deg, var(--erau-grey) 80%, var(--erau-sunrise) 20%);
+}
+#dp-wrapper.wing-grey-sunrise-unrivaled-wrapper .btn:hover,
+#dp-wrapper.wing-grey-sunrise-unrivaled-wrapper .btn:focus-visible {
+    color: var(--erau-grey);
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-grey-sunrise-unrivaled-wrapper .dp-card .nav-link {
+    color: var(--erau-unrivaled);
+    background: linear-gradient(135deg, var(--erau-grey) 80%, var(--erau-sunrise) 20%);
+}
+#dp-wrapper.wing-grey-sunrise-unrivaled-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.wing-grey-sunrise-unrivaled-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-grey);
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-grey-sunrise-unrivaled-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-grey);
+}
+
+#dp-wrapper.wing-grey-sunrise-unrivaled-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-grey-sunrise-unrivaled-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-grey);
+}
+
+#dp-wrapper.wing-grey-sunrise-unrivaled-wrapper .context_module_item .type_icon i {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-grey-sunrise-unrivaled-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-unrivaled);
+}
+/*********************************************************************/
+/***** WING: SUNRISE → GREY HARD-EDGE (BEYOND ACCENT)
+**********************************************************************/
+
+#main:has(.wing-sunrise-grey-beyond-wrapper) #left-side a, /* course navigation links */
+.wing-sunrise-grey-beyond-wrapper a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper header.wing-sunrise-grey-beyond-header {
+    color: var(--erau-beyond);
+    background: linear-gradient(135deg, var(--erau-sunrise) 80%, var(--erau-grey) 20%);
+}
+#dp-wrapper:has(.wing-sunrise-grey-beyond-header) .dp-banner-image {
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper:has(.wing-sunrise-grey-beyond-header) .wing-sunrise-grey-beyond-header .dp-header-pre {
+    color: var(--erau-sunrise);
+    background-color: var(--erau-beyond);
+}
+#dp-wrapper:has(.wing-sunrise-grey-beyond-header) .erau-header.wing-sunrise-grey-beyond-header .dp-header-subtitle,
+#dp-wrapper:has(.wing-sunrise-grey-beyond-header) .erau-header.wing-sunrise-grey-beyond-header .dp-header-description p {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper .wing-sunrise-grey-beyond-link-grid a {
+    background: linear-gradient(135deg, var(--erau-sunrise) 80%, var(--erau-grey) 20%);
+}
+#dp-wrapper .erau-link-grid.wing-sunrise-grey-beyond-link-grid a {
+    color: var(--erau-beyond);
+}
+#dp-wrapper .wing-sunrise-grey-beyond-link-grid a:hover,
+#dp-wrapper .wing-sunrise-grey-beyond-link-grid a:focus-visible {
+    border-color: var(--erau-beyond);
+}
+#dp-wrapper .wing-sunrise-grey-beyond-link-grid .dp-icon,
+#dp-wrapper .wing-sunrise-grey-beyond-link-grid .fas {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-sunrise-grey-beyond-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-sunrise) 80%, var(--erau-grey) 20%);
+}
+#dp-wrapper.erau-wrapper.wing-sunrise-grey-beyond-wrapper h2 {
+    color: var(--erau-beyond);
+}
+#dp-wrapper.wing-sunrise-grey-beyond-wrapper h3 {
+    color: var(--erau-beyond);
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper.wing-sunrise-grey-beyond-wrapper h4,
+#dp-wrapper.wing-sunrise-grey-beyond-wrapper h5,
+#dp-wrapper.wing-sunrise-grey-beyond-wrapper h6 {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-sunrise-grey-beyond-wrapper .btn {
+    color: var(--erau-beyond);
+    background: linear-gradient(135deg, var(--erau-sunrise) 80%, var(--erau-grey) 20%);
+}
+#dp-wrapper.wing-sunrise-grey-beyond-wrapper .btn:hover,
+#dp-wrapper.wing-sunrise-grey-beyond-wrapper .btn:focus-visible {
+    color: var(--erau-sunrise);
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-sunrise-grey-beyond-wrapper .dp-card .nav-link {
+    color: var(--erau-beyond);
+    background: linear-gradient(135deg, var(--erau-sunrise) 80%, var(--erau-grey) 20%);
+}
+#dp-wrapper.wing-sunrise-grey-beyond-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.wing-sunrise-grey-beyond-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-sunrise);
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-sunrise-grey-beyond-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.wing-sunrise-grey-beyond-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-sunrise-grey-beyond-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-sunrise);
+}
+
+#dp-wrapper.wing-sunrise-grey-beyond-wrapper .context_module_item .type_icon i {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-sunrise-grey-beyond-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-beyond);
+}
+/*********************************************************************/
+/***** WING: GREY → SUNRISE HARD-EDGE (BEYOND ACCENT)
+**********************************************************************/
+
+#main:has(.wing-grey-sunrise-beyond-wrapper) #left-side a, /* course navigation links */
+.wing-grey-sunrise-beyond-wrapper a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper header.wing-grey-sunrise-beyond-header {
+    color: var(--erau-beyond);
+    background: linear-gradient(135deg, var(--erau-grey) 80%, var(--erau-sunrise) 20%);
+}
+#dp-wrapper:has(.wing-grey-sunrise-beyond-header) .dp-banner-image {
+    border-color: var(--erau-grey);
+}
+#dp-wrapper:has(.wing-grey-sunrise-beyond-header) .wing-grey-sunrise-beyond-header .dp-header-pre {
+    color: var(--erau-grey);
+    background-color: var(--erau-beyond);
+}
+#dp-wrapper:has(.wing-grey-sunrise-beyond-header) .erau-header.wing-grey-sunrise-beyond-header .dp-header-subtitle,
+#dp-wrapper:has(.wing-grey-sunrise-beyond-header) .erau-header.wing-grey-sunrise-beyond-header .dp-header-description p {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper .wing-grey-sunrise-beyond-link-grid a {
+    background: linear-gradient(135deg, var(--erau-grey) 80%, var(--erau-sunrise) 20%);
+}
+#dp-wrapper .erau-link-grid.wing-grey-sunrise-beyond-link-grid a {
+    color: var(--erau-beyond);
+}
+#dp-wrapper .wing-grey-sunrise-beyond-link-grid a:hover,
+#dp-wrapper .wing-grey-sunrise-beyond-link-grid a:focus-visible {
+    border-color: var(--erau-beyond);
+}
+#dp-wrapper .wing-grey-sunrise-beyond-link-grid .dp-icon,
+#dp-wrapper .wing-grey-sunrise-beyond-link-grid .fas {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-grey-sunrise-beyond-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-grey) 80%, var(--erau-sunrise) 20%);
+}
+#dp-wrapper.erau-wrapper.wing-grey-sunrise-beyond-wrapper h2 {
+    color: var(--erau-beyond);
+}
+#dp-wrapper.wing-grey-sunrise-beyond-wrapper h3 {
+    color: var(--erau-beyond);
+    border-color: var(--erau-grey);
+}
+#dp-wrapper.wing-grey-sunrise-beyond-wrapper h4,
+#dp-wrapper.wing-grey-sunrise-beyond-wrapper h5,
+#dp-wrapper.wing-grey-sunrise-beyond-wrapper h6 {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-grey-sunrise-beyond-wrapper .btn {
+    color: var(--erau-beyond);
+    background: linear-gradient(135deg, var(--erau-grey) 80%, var(--erau-sunrise) 20%);
+}
+#dp-wrapper.wing-grey-sunrise-beyond-wrapper .btn:hover,
+#dp-wrapper.wing-grey-sunrise-beyond-wrapper .btn:focus-visible {
+    color: var(--erau-grey);
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-grey-sunrise-beyond-wrapper .dp-card .nav-link {
+    color: var(--erau-beyond);
+    background: linear-gradient(135deg, var(--erau-grey) 80%, var(--erau-sunrise) 20%);
+}
+#dp-wrapper.wing-grey-sunrise-beyond-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.wing-grey-sunrise-beyond-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-grey);
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-grey-sunrise-beyond-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-grey);
+}
+
+#dp-wrapper.wing-grey-sunrise-beyond-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-grey-sunrise-beyond-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-grey);
+}
+
+#dp-wrapper.wing-grey-sunrise-beyond-wrapper .context_module_item .type_icon i {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-grey-sunrise-beyond-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-beyond);
 }
 /* ERAU Base Theme */
 /*********************************************************************/

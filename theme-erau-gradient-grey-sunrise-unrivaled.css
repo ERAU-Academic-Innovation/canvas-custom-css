@@ -1,0 +1,95 @@
+/*********************************************************************/
+/***** GRADIENT: GREY → SUNRISE (UNRIVALED ACCENT)
+**********************************************************************/
+
+#main:has(.gradient-grey-sunrise-unrivaled-wrapper) #left-side a, /* course navigation links */
+.gradient-grey-sunrise-unrivaled-wrapper a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper header.gradient-grey-sunrise-unrivaled-header {
+    color: var(--erau-unrivaled);
+    background: linear-gradient(135deg, var(--erau-grey), var(--erau-sunrise));
+}
+#dp-wrapper:has(.gradient-grey-sunrise-unrivaled-header) .dp-banner-image {
+    border-color: var(--erau-grey);
+}
+#dp-wrapper:has(.gradient-grey-sunrise-unrivaled-header) .gradient-grey-sunrise-unrivaled-header .dp-header-pre {
+    color: var(--erau-grey);
+    background-color: var(--erau-unrivaled);
+}
+#dp-wrapper:has(.gradient-grey-sunrise-unrivaled-header) .erau-header.gradient-grey-sunrise-unrivaled-header .dp-header-subtitle,
+#dp-wrapper:has(.gradient-grey-sunrise-unrivaled-header) .erau-header.gradient-grey-sunrise-unrivaled-header .dp-header-description p {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper .gradient-grey-sunrise-unrivaled-link-grid a {
+    background: linear-gradient(135deg, var(--erau-grey), var(--erau-sunrise));
+}
+#dp-wrapper .erau-link-grid.gradient-grey-sunrise-unrivaled-link-grid a {
+    color: var(--erau-unrivaled);
+}
+#dp-wrapper .gradient-grey-sunrise-unrivaled-link-grid a:hover,
+#dp-wrapper .gradient-grey-sunrise-unrivaled-link-grid a:focus-visible {
+    border-color: var(--erau-unrivaled);
+}
+#dp-wrapper .gradient-grey-sunrise-unrivaled-link-grid .dp-icon,
+#dp-wrapper .gradient-grey-sunrise-unrivaled-link-grid .fas {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-grey), var(--erau-sunrise));
+}
+#dp-wrapper.erau-wrapper.gradient-grey-sunrise-unrivaled-wrapper h2 {
+    color: var(--erau-unrivaled);
+}
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper h3 {
+    color: var(--erau-unrivaled);
+    border-color: var(--erau-grey);
+}
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper h4,
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper h5,
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper h6 {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper .btn {
+    color: var(--erau-unrivaled);
+    background: linear-gradient(135deg, var(--erau-grey), var(--erau-sunrise));
+}
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper .btn:hover,
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper .btn:focus-visible {
+    color: var(--erau-grey);
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper .dp-card .nav-link {
+    color: var(--erau-unrivaled);
+    background: linear-gradient(135deg, var(--erau-grey), var(--erau-sunrise));
+}
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-grey);
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-grey);
+}
+
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-grey);
+}
+
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper .context_module_item .type_icon i {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-grey-sunrise-unrivaled-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-unrivaled);
+}

@@ -5,18 +5,24 @@
    To add/remove/reorder a theme, edit this file, then run `python3 build.py`. */
 
 /* ERAU Unrivaled Themes */
-@import url(theme-erau-unrivaled-grey.css);
-@import url(theme-erau-unrivaled-sunrise.css);
-@import url(theme-erau-unrivaled-altitude.css);
+@import url(theme-erau-solid-unrivaled-grey.css);
+@import url(theme-erau-solid-unrivaled-sunrise.css);
+@import url(theme-erau-solid-unrivaled-altitude.css);
 /* ERAU Beyond Themes */
-@import url(theme-erau-beyond-grey.css);
-@import url(theme-erau-beyond-sunrise.css);
-@import url(theme-erau-beyond-altitude.css);
+@import url(theme-erau-solid-beyond-grey.css);
+@import url(theme-erau-solid-beyond-sunrise.css);
+@import url(theme-erau-solid-beyond-altitude.css);
 /* ERAU Black Themes */
-@import url(theme-erau-black-grey.css);
-@import url(theme-erau-black-unrivaled.css);
-@import url(theme-erau-black-sunrise.css);
-@import url(theme-erau-black-altitude.css);
+@import url(theme-erau-solid-black-grey.css);
+@import url(theme-erau-solid-black-unrivaled.css);
+@import url(theme-erau-solid-black-sunrise.css);
+@import url(theme-erau-solid-black-altitude.css);
+/* ERAU Sunrise Themes */
+@import url(theme-erau-solid-sunrise-unrivaled.css);
+@import url(theme-erau-solid-sunrise-beyond.css);
+/* ERAU Grey Themes */
+@import url(theme-erau-solid-grey-unrivaled.css);
+@import url(theme-erau-solid-grey-beyond.css);
 /* ERAU Gradient Themes: Beyond -> Black */
 @import url(theme-erau-gradient-beyond-black-sunrise.css);
 @import url(theme-erau-gradient-beyond-black-altitude.css);
@@ -33,6 +39,11 @@
 @import url(theme-erau-gradient-black-unrivaled-sunrise.css);
 @import url(theme-erau-gradient-black-unrivaled-altitude.css);
 @import url(theme-erau-gradient-black-unrivaled-grey.css);
+/* ERAU Gradient Themes: Sunrise <-> Grey */
+@import url(theme-erau-gradient-sunrise-grey-unrivaled.css);
+@import url(theme-erau-gradient-grey-sunrise-unrivaled.css);
+@import url(theme-erau-gradient-sunrise-grey-beyond.css);
+@import url(theme-erau-gradient-grey-sunrise-beyond.css);
 /* ERAU Wing Themes: Beyond -> Black */
 @import url(theme-erau-wing-beyond-black-sunrise.css);
 @import url(theme-erau-wing-beyond-black-altitude.css);
@@ -49,5 +60,10 @@
 @import url(theme-erau-wing-black-unrivaled-sunrise.css);
 @import url(theme-erau-wing-black-unrivaled-altitude.css);
 @import url(theme-erau-wing-black-unrivaled-grey.css);
+/* ERAU Wing Themes: Sunrise <-> Grey */
+@import url(theme-erau-wing-sunrise-grey-unrivaled.css);
+@import url(theme-erau-wing-grey-sunrise-unrivaled.css);
+@import url(theme-erau-wing-sunrise-grey-beyond.css);
+@import url(theme-erau-wing-grey-sunrise-beyond.css);
 /* ERAU Base Theme */
 @import url(theme-erau-base.css);
