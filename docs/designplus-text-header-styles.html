@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DesignPLUS ERAU Text Header (H3–H5) Style Content Blocks</title>
+<style>
+  :root {
+    color-scheme: light dark;
+  }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    max-width: 960px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    line-height: 1.5;
+  }
+  h1 { font-size: 1.5rem; }
+  .instructions {
+    background: rgba(127,127,127,0.1);
+    border: 1px solid rgba(127,127,127,0.3);
+    border-radius: 8px;
+    padding: 1rem 1.25rem;
+    margin-bottom: 2rem;
+  }
+  .instructions ol { margin: 0.5rem 0 0; padding-left: 1.25rem; }
+  section.group {
+    border: 1px solid rgba(127,127,127,0.3);
+    border-radius: 8px;
+    padding: 1rem 1.25rem 1.25rem;
+    margin-bottom: 1.5rem;
+  }
+  .group-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  .group-header h2 { margin: 0; font-size: 1.2rem; }
+  button.copy-btn {
+    font-size: 0.9rem;
+    padding: 0.4rem 0.9rem;
+    border-radius: 6px;
+    border: 1px solid rgba(127,127,127,0.4);
+    background: rgba(127,127,127,0.08);
+    cursor: pointer;
+  }
+  button.copy-btn:hover { background: rgba(127,127,127,0.18); }
+  button.copy-btn.copied { background: #2e7d32; color: white; border-color: #2e7d32; }
+  table.preview {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 0.75rem;
+    font-size: 0.85rem;
+  }
+  table.preview th, table.preview td {
+    border: 1px solid rgba(127,127,127,0.3);
+    padding: 0.35rem 0.5rem;
+    text-align: left;
+    vertical-align: top;
+  }
+  table.preview th { background: rgba(127,127,127,0.1); }
+  table.preview tr:nth-child(even) td { background: rgba(127,127,127,0.05); }
+  code { font-size: 0.85em; }
+  #copy-all-wrap { margin-bottom: 1.5rem; }
+</style>
+</head>
+<body>
+<h1>DesignPLUS ERAU Text Header (H3–H5) Style Content Blocks</h1>
+<div class="instructions">
+  For each section below, click <strong>Copy Content Block</strong>, then in Canvas's DesignPLUS course:
+  <ol>
+    <li>Open the settings course page and switch to the HTML/source editor for the "ERAU Styles" area.</li>
+    <li>Paste the copied block where you want that color group to appear (it already includes its own heading and table &mdash; no need to create a block or heading manually).</li>
+    <li>Save.</li>
+  </ol>
+  This page is generated from <code>custom-themes.manifest.css</code> and the theme CSS files' actual class names, so it always reflects what's really shipped. It regenerates automatically when those files change (see <code>scripts/generate_docs.py</code>).
+</div>
+<div id="copy-all-wrap">
+  <button class="copy-btn" id="copy-all-btn">Copy All Content Blocks</button>
+</div>
+<div id="groups"></div>
+
+<script id="page-data" type="application/json">{"columns": ["Style Name", "CSS Classes to apply to wrapper", "Active"], "blockIntro": "The following table includes classes for new DesignPLUS styles.", "groups": [{"header": "Unrivaled Blue", "rows": [{"cells": ["Unrivaled Grey", "erau-wrapper unrivaled-grey-wrapper", "Y"]}, {"cells": ["Unrivaled Sunrise", "erau-wrapper unrivaled-sunrise-wrapper", "Y"]}, {"cells": ["Unrivaled Altitude", "erau-wrapper unrivaled-altitude-wrapper", "Y"]}, {"cells": ["Gradient Unrivaled-Black Sunrise", "erau-wrapper gradient-unrivaled-black-sunrise-wrapper", "Y"]}, {"cells": ["Gradient Unrivaled-Black Altitude", "erau-wrapper gradient-unrivaled-black-altitude-wrapper", "Y"]}, {"cells": ["Gradient Unrivaled-Black Grey", "erau-wrapper gradient-unrivaled-black-grey-wrapper", "Y"]}, {"cells": ["Wing Unrivaled-Black Sunrise", "erau-wrapper wing-unrivaled-black-sunrise-wrapper", "Y"]}, {"cells": ["Wing Unrivaled-Black Altitude", "erau-wrapper wing-unrivaled-black-altitude-wrapper", "Y"]}, {"cells": ["Wing Unrivaled-Black Grey", "erau-wrapper wing-unrivaled-black-grey-wrapper", "Y"]}]}, {"header": "Beyond Blue", "rows": [{"cells": ["Beyond Grey", "erau-wrapper beyond-grey-wrapper", "Y"]}, {"cells": ["Beyond Sunrise", "erau-wrapper beyond-sunrise-wrapper", "Y"]}, {"cells": ["Beyond Altitude", "erau-wrapper beyond-altitude-wrapper", "Y"]}, {"cells": ["Gradient Beyond-Black Sunrise", "erau-wrapper gradient-beyond-black-sunrise-wrapper", "Y"]}, {"cells": ["Gradient Beyond-Black Altitude", "erau-wrapper gradient-beyond-black-altitude-wrapper", "Y"]}, {"cells": ["Gradient Beyond-Black Grey", "erau-wrapper gradient-beyond-black-grey-wrapper", "Y"]}, {"cells": ["Wing Beyond-Black Sunrise", "erau-wrapper wing-beyond-black-sunrise-wrapper", "Y"]}, {"cells": ["Wing Beyond-Black Altitude", "erau-wrapper wing-beyond-black-altitude-wrapper", "Y"]}, {"cells": ["Wing Beyond-Black Grey", "erau-wrapper wing-beyond-black-grey-wrapper", "Y"]}]}, {"header": "Black", "rows": [{"cells": ["Black Grey", "erau-wrapper black-grey-wrapper", "Y"]}, {"cells": ["Black Unrivaled", "erau-wrapper black-unrivaled-wrapper", "Y"]}, {"cells": ["Black Sunrise", "erau-wrapper black-sunrise-wrapper", "Y"]}, {"cells": ["Black Altitude", "erau-wrapper black-altitude-wrapper", "Y"]}, {"cells": ["Gradient Black-Beyond Sunrise", "erau-wrapper gradient-black-beyond-sunrise-wrapper", "Y"]}, {"cells": ["Gradient Black-Beyond Altitude", "erau-wrapper gradient-black-beyond-altitude-wrapper", "Y"]}, {"cells": ["Gradient Black-Beyond Grey", "erau-wrapper gradient-black-beyond-grey-wrapper", "Y"]}, {"cells": ["Gradient Black-Unrivaled Sunrise", "erau-wrapper gradient-black-unrivaled-sunrise-wrapper", "Y"]}, {"cells": ["Gradient Black-Unrivaled Altitude", "erau-wrapper gradient-black-unrivaled-altitude-wrapper", "Y"]}, {"cells": ["Gradient Black-Unrivaled Grey", "erau-wrapper gradient-black-unrivaled-grey-wrapper", "Y"]}, {"cells": ["Wing Black-Beyond Sunrise", "erau-wrapper wing-black-beyond-sunrise-wrapper", "Y"]}, {"cells": ["Wing Black-Beyond Altitude", "erau-wrapper wing-black-beyond-altitude-wrapper", "Y"]}, {"cells": ["Wing Black-Beyond Grey", "erau-wrapper wing-black-beyond-grey-wrapper", "Y"]}, {"cells": ["Wing Black-Unrivaled Sunrise", "erau-wrapper wing-black-unrivaled-sunrise-wrapper", "Y"]}, {"cells": ["Wing Black-Unrivaled Altitude", "erau-wrapper wing-black-unrivaled-altitude-wrapper", "Y"]}, {"cells": ["Wing Black-Unrivaled Grey", "erau-wrapper wing-black-unrivaled-grey-wrapper", "Y"]}]}, {"header": "Sunrise Yellow", "rows": [{"cells": ["Sunrise Unrivaled", "erau-wrapper sunrise-unrivaled-wrapper", "Y"]}, {"cells": ["Sunrise Beyond", "erau-wrapper sunrise-beyond-wrapper", "Y"]}, {"cells": ["Sunrise Black", "erau-wrapper sunrise-black-wrapper", "Y"]}, {"cells": ["Gradient Sunrise-Grey Unrivaled", "erau-wrapper gradient-sunrise-grey-unrivaled-wrapper", "Y"]}, {"cells": ["Gradient Sunrise-Grey Beyond", "erau-wrapper gradient-sunrise-grey-beyond-wrapper", "Y"]}, {"cells": ["Gradient Sunrise-Grey Black", "erau-wrapper gradient-sunrise-grey-black-wrapper", "Y"]}, {"cells": ["Wing Sunrise-Grey Unrivaled", "erau-wrapper wing-sunrise-grey-unrivaled-wrapper", "Y"]}, {"cells": ["Wing Sunrise-Grey Beyond", "erau-wrapper wing-sunrise-grey-beyond-wrapper", "Y"]}, {"cells": ["Wing Sunrise-Grey Black", "erau-wrapper wing-sunrise-grey-black-wrapper", "Y"]}]}, {"header": "Grey", "rows": [{"cells": ["Grey Unrivaled", "erau-wrapper grey-unrivaled-wrapper", "Y"]}, {"cells": ["Grey Beyond", "erau-wrapper grey-beyond-wrapper", "Y"]}, {"cells": ["Grey Black", "erau-wrapper grey-black-wrapper", "Y"]}, {"cells": ["Gradient Grey-Sunrise Unrivaled", "erau-wrapper gradient-grey-sunrise-unrivaled-wrapper", "Y"]}, {"cells": ["Gradient Grey-Sunrise Beyond", "erau-wrapper gradient-grey-sunrise-beyond-wrapper", "Y"]}, {"cells": ["Gradient Grey-Sunrise Black", "erau-wrapper gradient-grey-sunrise-black-wrapper", "Y"]}, {"cells": ["Gradient Grey-Altitude Unrivaled", "erau-wrapper gradient-grey-altitude-unrivaled-wrapper", "Y"]}, {"cells": ["Gradient Grey-Altitude Beyond", "erau-wrapper gradient-grey-altitude-beyond-wrapper", "Y"]}, {"cells": ["Gradient Grey-Altitude Black", "erau-wrapper gradient-grey-altitude-black-wrapper", "Y"]}, {"cells": ["Wing Grey-Sunrise Unrivaled", "erau-wrapper wing-grey-sunrise-unrivaled-wrapper", "Y"]}, {"cells": ["Wing Grey-Sunrise Beyond", "erau-wrapper wing-grey-sunrise-beyond-wrapper", "Y"]}, {"cells": ["Wing Grey-Sunrise Black", "erau-wrapper wing-grey-sunrise-black-wrapper", "Y"]}, {"cells": ["Wing Grey-Altitude Unrivaled", "erau-wrapper wing-grey-altitude-unrivaled-wrapper", "Y"]}, {"cells": ["Wing Grey-Altitude Beyond", "erau-wrapper wing-grey-altitude-beyond-wrapper", "Y"]}, {"cells": ["Wing Grey-Altitude Black", "erau-wrapper wing-grey-altitude-black-wrapper", "Y"]}]}, {"header": "Altitude Blue", "rows": [{"cells": ["Gradient Altitude-Grey Unrivaled", "erau-wrapper gradient-altitude-grey-unrivaled-wrapper", "Y"]}, {"cells": ["Gradient Altitude-Grey Beyond", "erau-wrapper gradient-altitude-grey-beyond-wrapper", "Y"]}, {"cells": ["Gradient Altitude-Grey Black", "erau-wrapper gradient-altitude-grey-black-wrapper", "Y"]}, {"cells": ["Wing Altitude-Grey Unrivaled", "erau-wrapper wing-altitude-grey-unrivaled-wrapper", "Y"]}, {"cells": ["Wing Altitude-Grey Beyond", "erau-wrapper wing-altitude-grey-beyond-wrapper", "Y"]}, {"cells": ["Wing Altitude-Grey Black", "erau-wrapper wing-altitude-grey-black-wrapper", "Y"]}]}]}</script>
+<script>
+const PAGE = JSON.parse(document.getElementById('page-data').textContent);
+const COLUMNS = PAGE.columns;
+const GROUPS = PAGE.groups;
+const BLOCK_INTRO = PAGE.blockIntro;
+
+function rowHtml(cells) {
+  const tds = cells.map(c => `                        <td>${c}</td>`).join('\n');
+  return `                    <tr>\n${tds}\n                    </tr>`;
+}
+
+function blockHtml(group) {
+  const rows = group.rows.map(r => rowHtml(r.cells)).join('\n');
+  const ths = COLUMNS.map(c => `                        <th scope="col">${c}</th>`).join('\n');
+  const introHtml = BLOCK_INTRO ? `\n        <p>${BLOCK_INTRO}</p>` : '';
+  return `<div class="dp-content-block">
+        <h3>${group.header}</h3>${introHtml}
+        <div class="dp-table-scroll">
+            <table class="table table-striped" data-active-table="true">
+                <thead>
+                    <tr>
+${ths}
+                    </tr>
+                </thead>
+                <tbody class="">
+${rows}
+                </tbody>
+            </table>
+        </div>
+    </div>`;
+}
+
+function copyText(text, btn) {
+  const onSuccess = () => {
+    const original = btn.textContent;
+    btn.textContent = 'Copied!';
+    btn.classList.add('copied');
+    setTimeout(() => { btn.textContent = original; btn.classList.remove('copied'); }, 1500);
+  };
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(text).then(onSuccess).catch(() => fallbackCopy(text, onSuccess));
+  } else {
+    fallbackCopy(text, onSuccess);
+  }
+}
+
+function fallbackCopy(text, onSuccess) {
+  const ta = document.createElement('textarea');
+  ta.value = text;
+  ta.style.position = 'fixed';
+  ta.style.opacity = '0';
+  document.body.appendChild(ta);
+  ta.focus();
+  ta.select();
+  try { document.execCommand('copy'); onSuccess(); } catch (e) { alert('Copy failed — please copy manually.'); }
+  document.body.removeChild(ta);
+}
+
+const container = document.getElementById('groups');
+GROUPS.forEach(group => {
+  const section = document.createElement('section');
+  section.className = 'group';
+
+  const header = document.createElement('div');
+  header.className = 'group-header';
+  header.innerHTML = `<h2>${group.header}</h2>`;
+
+  const btn = document.createElement('button');
+  btn.className = 'copy-btn';
+  btn.textContent = 'Copy Content Block';
+  btn.addEventListener('click', () => copyText(blockHtml(group), btn));
+  header.appendChild(btn);
+
+  section.appendChild(header);
+
+  const table = document.createElement('table');
+  table.className = 'preview';
+  const theadHtml = '<thead><tr>' + COLUMNS.map(c => `<th>${c}</th>`).join('') + '</tr></thead>';
+  table.innerHTML = theadHtml;
+  const tbody = document.createElement('tbody');
+  group.rows.forEach(r => {
+    const tr = document.createElement('tr');
+    tr.innerHTML = r.cells.map(c => `<td>${c}</td>`).join('');
+    tbody.appendChild(tr);
+  });
+  table.appendChild(tbody);
+  section.appendChild(table);
+
+  container.appendChild(section);
+});
+
+document.getElementById('copy-all-btn').addEventListener('click', (e) => {
+  const all = GROUPS.map(blockHtml).join('\n\n');
+  copyText(all, e.target);
+});
+</script>
+</body>
+</html>
