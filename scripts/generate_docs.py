@@ -133,8 +133,10 @@ PAGES = [
         },
     },
     {
-        "filename": "designplus-heading-styles.html",
-        "page_title": "DesignPLUS ERAU Heading (Banner Title) Style Content Blocks",
+        # Banner header: the main-page header where an image sits alongside
+        # the heading text and other content.
+        "filename": "designplus-banner-header-styles.html",
+        "page_title": "DesignPLUS ERAU Banner Header Style Content Blocks",
         "canvas_area": "ERAU Styles",
         "block_intro": None,
         "columns": [
@@ -161,6 +163,24 @@ PAGES = [
         "row_cells": lambda r: [
             r["name"],
             f'erau-link-grid {r["slug"]}-link-grid',
+            "Y",
+        ],
+    },
+    {
+        # Text heading styles: generic H3/H4/H5 text styling used
+        # throughout the page body, distinct from the banner header above.
+        "filename": "designplus-text-header-styles.html",
+        "page_title": "DesignPLUS ERAU Text Header (H3–H5) Style Content Blocks",
+        "canvas_area": "ERAU Styles",
+        "block_intro": "The following table includes classes for new DesignPLUS styles.",
+        "columns": [
+            "Style Name",
+            "CSS Classes to apply to wrapper",
+            "Active",
+        ],
+        "row_cells": lambda r: [
+            r["name"],
+            f'erau-wrapper {r["slug"]}-wrapper',
             "Y",
         ],
     },

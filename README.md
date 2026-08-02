@@ -24,8 +24,9 @@ Custom CSS stylesheets used to theme Embry-Riddle Worldwide online courses. A si
 Instructional designers configure DesignPLUS content-block tables in the settings course — one set of blocks per primary color, one page per feature:
 
 - **[Themes](https://erau-academic-innovation.github.io/canvas-custom-css/docs/designplus-themes.html)** — the "ERAU Themes" area (whole-page wrapper: heading styles, banner title, link grid/nav).
-- **[Heading / banner title styles](https://erau-academic-innovation.github.io/canvas-custom-css/docs/designplus-heading-styles.html)** — the "ERAU Styles" area (banner title text styling only).
+- **[Banner header styles](https://erau-academic-innovation.github.io/canvas-custom-css/docs/designplus-banner-header-styles.html)** — the "ERAU Styles" area, main-page banner header (image + title + other content) only.
 - **[Link grid styles](https://erau-academic-innovation.github.io/canvas-custom-css/docs/designplus-link-grid-styles.html)** — the "ERAU Styles" area (link grid/nav styling only).
+- **[Text header styles](https://erau-academic-innovation.github.io/canvas-custom-css/docs/designplus-text-header-styles.html)** — the "ERAU Styles" area, generic H3–H5 text styling used throughout the page body (distinct from the banner header above).
 
 Both are hosted via GitHub Pages. Each color section has a **Copy Content Block** button that copies the fully-formed `div.dp-content-block` (heading + table, DesignPLUS-ready) straight to your clipboard — paste it directly into the course's HTML/source editor, no manual block or heading setup needed.
 
