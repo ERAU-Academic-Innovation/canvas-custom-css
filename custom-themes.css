@@ -1422,6 +1422,197 @@
 #dp-wrapper.grey-black-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-black);
 }
+/* ERAU Altitude Themes */
+/*********************************************************************/
+/***** ALTITUDE (BEYOND ACCENT)
+**********************************************************************/
+
+#main:has(.altitude-beyond-wrapper) #left-side a, /* course navigation links */
+.altitude-beyond-wrapper a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper header.altitude-beyond-header {
+    color: var(--erau-beyond);
+    background: var(--erau-altitude);
+}
+#dp-wrapper:has(.altitude-beyond-header) .dp-banner-image {
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper:has(.altitude-beyond-header) .altitude-beyond-header .dp-header-pre {
+    color: var(--erau-altitude);
+    background-color: var(--erau-beyond);
+}
+#dp-wrapper:has(.altitude-beyond-header) .erau-header.altitude-beyond-header .dp-header-subtitle,
+#dp-wrapper:has(.altitude-beyond-header) .erau-header.altitude-beyond-header .dp-header-description p {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper .altitude-beyond-link-grid a {
+    background: var(--erau-altitude);
+}
+#dp-wrapper .erau-link-grid.altitude-beyond-link-grid a {
+    color: var(--erau-beyond);
+}
+#dp-wrapper .altitude-beyond-link-grid a:hover,
+#dp-wrapper .altitude-beyond-link-grid a:focus-visible {
+    border-color: var(--erau-beyond);
+}
+#dp-wrapper .altitude-beyond-link-grid .dp-icon,
+#dp-wrapper .altitude-beyond-link-grid .fas {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.altitude-beyond-wrapper h2 {
+    background-color: var(--erau-altitude);
+}
+#dp-wrapper.erau-wrapper.altitude-beyond-wrapper h2 {
+    color: var(--erau-beyond);
+}
+#dp-wrapper.altitude-beyond-wrapper h3 {
+    color: var(--erau-beyond);
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper.altitude-beyond-wrapper h4,
+#dp-wrapper.altitude-beyond-wrapper h5,
+#dp-wrapper.altitude-beyond-wrapper h6 {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.altitude-beyond-wrapper .btn {
+    color: var(--erau-beyond);
+    background: var(--erau-altitude);
+}
+#dp-wrapper.altitude-beyond-wrapper .btn:hover,
+#dp-wrapper.altitude-beyond-wrapper .btn:focus-visible {
+    color: var(--erau-altitude);
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.altitude-beyond-wrapper .dp-card .nav-link {
+    color: var(--erau-beyond);
+    background-color: var(--erau-altitude);
+}
+#dp-wrapper.altitude-beyond-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.altitude-beyond-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-altitude);
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.altitude-beyond-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-altitude);
+}
+
+#dp-wrapper.altitude-beyond-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-beyond);
+}
+
+#dp-wrapper.altitude-beyond-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-altitude);
+}
+
+#dp-wrapper.altitude-beyond-wrapper .context_module_item .type_icon i {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.altitude-beyond-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-beyond);
+}
+/*********************************************************************/
+/***** ALTITUDE (BLACK ACCENT)
+**********************************************************************/
+
+#main:has(.altitude-black-wrapper) #left-side a, /* course navigation links */
+.altitude-black-wrapper a {
+    color: var(--erau-black);
+}
+
+#dp-wrapper header.altitude-black-header {
+    color: var(--erau-black);
+    background: var(--erau-altitude);
+}
+#dp-wrapper:has(.altitude-black-header) .dp-banner-image {
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper:has(.altitude-black-header) .altitude-black-header .dp-header-pre {
+    color: var(--erau-altitude);
+    background-color: var(--erau-black);
+}
+#dp-wrapper:has(.altitude-black-header) .erau-header.altitude-black-header .dp-header-subtitle,
+#dp-wrapper:has(.altitude-black-header) .erau-header.altitude-black-header .dp-header-description p {
+    color: var(--erau-black);
+}
+
+#dp-wrapper .altitude-black-link-grid a {
+    background: var(--erau-altitude);
+}
+#dp-wrapper .erau-link-grid.altitude-black-link-grid a {
+    color: var(--erau-black);
+}
+#dp-wrapper .altitude-black-link-grid a:hover,
+#dp-wrapper .altitude-black-link-grid a:focus-visible {
+    border-color: var(--erau-black);
+}
+#dp-wrapper .altitude-black-link-grid .dp-icon,
+#dp-wrapper .altitude-black-link-grid .fas {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.altitude-black-wrapper h2 {
+    background-color: var(--erau-altitude);
+}
+#dp-wrapper.erau-wrapper.altitude-black-wrapper h2 {
+    color: var(--erau-black);
+}
+#dp-wrapper.altitude-black-wrapper h3 {
+    color: var(--erau-black);
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper.altitude-black-wrapper h4,
+#dp-wrapper.altitude-black-wrapper h5,
+#dp-wrapper.altitude-black-wrapper h6 {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.altitude-black-wrapper .btn {
+    color: var(--erau-black);
+    background: var(--erau-altitude);
+}
+#dp-wrapper.altitude-black-wrapper .btn:hover,
+#dp-wrapper.altitude-black-wrapper .btn:focus-visible {
+    color: var(--erau-altitude);
+    background-color: var(--erau-black);
+}
+
+#dp-wrapper.altitude-black-wrapper .dp-card .nav-link {
+    color: var(--erau-black);
+    background-color: var(--erau-altitude);
+}
+#dp-wrapper.altitude-black-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.altitude-black-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-altitude);
+    background-color: var(--erau-black);
+}
+
+#dp-wrapper.altitude-black-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-altitude);
+}
+
+#dp-wrapper.altitude-black-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-black);
+}
+
+#dp-wrapper.altitude-black-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-altitude);
+}
+
+#dp-wrapper.altitude-black-wrapper .context_module_item .type_icon i {
+    color: var(--erau-black);
+}
+
+#dp-wrapper.altitude-black-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-black);
+}
 /* ERAU Gradient Themes: Beyond -> Black */
 /*********************************************************************/
 /***** GRADIENT: BEYOND → BLACK (SUNRISE ACCENT)
@@ -2445,6 +2636,518 @@
 
 #dp-wrapper.gradient-black-unrivaled-grey-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-black);
+}
+/* ERAU Gradient Themes: Beyond -> Unrivaled */
+/*********************************************************************/
+/***** GRADIENT: BEYOND → UNRIVALED (SUNRISE ACCENT)
+**********************************************************************/
+
+#main:has(.gradient-beyond-unrivaled-sunrise-wrapper) #left-side a, /* course navigation links */
+.gradient-beyond-unrivaled-sunrise-wrapper a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper header.gradient-beyond-unrivaled-sunrise-header {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-beyond), var(--erau-unrivaled));
+}
+#dp-wrapper:has(.gradient-beyond-unrivaled-sunrise-header) .dp-banner-image {
+    border-color: var(--erau-beyond);
+}
+#dp-wrapper:has(.gradient-beyond-unrivaled-sunrise-header) .gradient-beyond-unrivaled-sunrise-header .dp-header-pre {
+    color: var(--erau-beyond);
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper .gradient-beyond-unrivaled-sunrise-link-grid a {
+    background: linear-gradient(135deg, var(--erau-beyond), var(--erau-unrivaled));
+}
+#dp-wrapper .gradient-beyond-unrivaled-sunrise-link-grid a:hover,
+#dp-wrapper .gradient-beyond-unrivaled-sunrise-link-grid a:focus-visible {
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper .gradient-beyond-unrivaled-sunrise-link-grid .dp-icon,
+#dp-wrapper .gradient-beyond-unrivaled-sunrise-link-grid .fas {
+    color: var(--erau-sunrise);
+}
+
+#dp-wrapper.gradient-beyond-unrivaled-sunrise-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-beyond), var(--erau-unrivaled));
+}
+#dp-wrapper.gradient-beyond-unrivaled-sunrise-wrapper h3 {
+    color: var(--erau-beyond);
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper.gradient-beyond-unrivaled-sunrise-wrapper h4,
+#dp-wrapper.gradient-beyond-unrivaled-sunrise-wrapper h5,
+#dp-wrapper.gradient-beyond-unrivaled-sunrise-wrapper h6 {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-beyond-unrivaled-sunrise-wrapper .btn {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-beyond), var(--erau-unrivaled));
+}
+#dp-wrapper.gradient-beyond-unrivaled-sunrise-wrapper .btn:hover,
+#dp-wrapper.gradient-beyond-unrivaled-sunrise-wrapper .btn:focus-visible {
+    color: var(--erau-beyond);
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.gradient-beyond-unrivaled-sunrise-wrapper .dp-card .nav-link {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-beyond), var(--erau-unrivaled));
+}
+#dp-wrapper.gradient-beyond-unrivaled-sunrise-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.gradient-beyond-unrivaled-sunrise-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-beyond);
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.gradient-beyond-unrivaled-sunrise-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-beyond-unrivaled-sunrise-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.gradient-beyond-unrivaled-sunrise-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-beyond-unrivaled-sunrise-wrapper .context_module_item .type_icon i {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-beyond-unrivaled-sunrise-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-beyond);
+}
+/*********************************************************************/
+/***** GRADIENT: BEYOND → UNRIVALED (ALTITUDE ACCENT)
+**********************************************************************/
+
+#main:has(.gradient-beyond-unrivaled-altitude-wrapper) #left-side a, /* course navigation links */
+.gradient-beyond-unrivaled-altitude-wrapper a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper header.gradient-beyond-unrivaled-altitude-header {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-beyond), var(--erau-unrivaled));
+}
+#dp-wrapper:has(.gradient-beyond-unrivaled-altitude-header) .dp-banner-image {
+    border-color: var(--erau-beyond);
+}
+#dp-wrapper:has(.gradient-beyond-unrivaled-altitude-header) .gradient-beyond-unrivaled-altitude-header .dp-header-pre {
+    color: var(--erau-beyond);
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper .gradient-beyond-unrivaled-altitude-link-grid a {
+    background: linear-gradient(135deg, var(--erau-beyond), var(--erau-unrivaled));
+}
+#dp-wrapper .gradient-beyond-unrivaled-altitude-link-grid a:hover,
+#dp-wrapper .gradient-beyond-unrivaled-altitude-link-grid a:focus-visible {
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper .gradient-beyond-unrivaled-altitude-link-grid .dp-icon,
+#dp-wrapper .gradient-beyond-unrivaled-altitude-link-grid .fas {
+    color: var(--erau-altitude);
+}
+
+#dp-wrapper.gradient-beyond-unrivaled-altitude-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-beyond), var(--erau-unrivaled));
+}
+#dp-wrapper.gradient-beyond-unrivaled-altitude-wrapper h3 {
+    color: var(--erau-beyond);
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper.gradient-beyond-unrivaled-altitude-wrapper h4,
+#dp-wrapper.gradient-beyond-unrivaled-altitude-wrapper h5,
+#dp-wrapper.gradient-beyond-unrivaled-altitude-wrapper h6 {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-beyond-unrivaled-altitude-wrapper .btn {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-beyond), var(--erau-unrivaled));
+}
+#dp-wrapper.gradient-beyond-unrivaled-altitude-wrapper .btn:hover,
+#dp-wrapper.gradient-beyond-unrivaled-altitude-wrapper .btn:focus-visible {
+    color: var(--erau-beyond);
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper.gradient-beyond-unrivaled-altitude-wrapper .dp-card .nav-link {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-beyond), var(--erau-unrivaled));
+}
+#dp-wrapper.gradient-beyond-unrivaled-altitude-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.gradient-beyond-unrivaled-altitude-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-beyond);
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper.gradient-beyond-unrivaled-altitude-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-beyond-unrivaled-altitude-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper.gradient-beyond-unrivaled-altitude-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-beyond-unrivaled-altitude-wrapper .context_module_item .type_icon i {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-beyond-unrivaled-altitude-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-beyond);
+}
+/*********************************************************************/
+/***** GRADIENT: BEYOND → UNRIVALED (GREY ACCENT)
+**********************************************************************/
+
+#main:has(.gradient-beyond-unrivaled-grey-wrapper) #left-side a, /* course navigation links */
+.gradient-beyond-unrivaled-grey-wrapper a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper header.gradient-beyond-unrivaled-grey-header {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-beyond), var(--erau-unrivaled));
+}
+#dp-wrapper:has(.gradient-beyond-unrivaled-grey-header) .dp-banner-image {
+    border-color: var(--erau-beyond);
+}
+#dp-wrapper:has(.gradient-beyond-unrivaled-grey-header) .gradient-beyond-unrivaled-grey-header .dp-header-pre {
+    color: var(--erau-beyond);
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper .gradient-beyond-unrivaled-grey-link-grid a {
+    background: linear-gradient(135deg, var(--erau-beyond), var(--erau-unrivaled));
+}
+#dp-wrapper .gradient-beyond-unrivaled-grey-link-grid a:hover,
+#dp-wrapper .gradient-beyond-unrivaled-grey-link-grid a:focus-visible {
+    border-color: var(--erau-grey);
+}
+#dp-wrapper .gradient-beyond-unrivaled-grey-link-grid .dp-icon,
+#dp-wrapper .gradient-beyond-unrivaled-grey-link-grid .fas {
+    color: var(--erau-grey);
+}
+
+#dp-wrapper.gradient-beyond-unrivaled-grey-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-beyond), var(--erau-unrivaled));
+}
+#dp-wrapper.gradient-beyond-unrivaled-grey-wrapper h3 {
+    color: var(--erau-beyond);
+    border-color: var(--erau-grey);
+}
+#dp-wrapper.gradient-beyond-unrivaled-grey-wrapper h4,
+#dp-wrapper.gradient-beyond-unrivaled-grey-wrapper h5,
+#dp-wrapper.gradient-beyond-unrivaled-grey-wrapper h6 {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-beyond-unrivaled-grey-wrapper .btn {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-beyond), var(--erau-unrivaled));
+}
+#dp-wrapper.gradient-beyond-unrivaled-grey-wrapper .btn:hover,
+#dp-wrapper.gradient-beyond-unrivaled-grey-wrapper .btn:focus-visible {
+    color: var(--erau-beyond);
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper.gradient-beyond-unrivaled-grey-wrapper .dp-card .nav-link {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-beyond), var(--erau-unrivaled));
+}
+#dp-wrapper.gradient-beyond-unrivaled-grey-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.gradient-beyond-unrivaled-grey-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-beyond);
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper.gradient-beyond-unrivaled-grey-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-beyond-unrivaled-grey-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper.gradient-beyond-unrivaled-grey-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-beyond-unrivaled-grey-wrapper .context_module_item .type_icon i {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-beyond-unrivaled-grey-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-beyond);
+}
+/* ERAU Gradient Themes: Unrivaled -> Beyond */
+/*********************************************************************/
+/***** GRADIENT: UNRIVALED → BEYOND (SUNRISE ACCENT)
+**********************************************************************/
+
+#main:has(.gradient-unrivaled-beyond-sunrise-wrapper) #left-side a, /* course navigation links */
+.gradient-unrivaled-beyond-sunrise-wrapper a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper header.gradient-unrivaled-beyond-sunrise-header {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-unrivaled), var(--erau-beyond));
+}
+#dp-wrapper:has(.gradient-unrivaled-beyond-sunrise-header) .dp-banner-image {
+    border-color: var(--erau-unrivaled);
+}
+#dp-wrapper:has(.gradient-unrivaled-beyond-sunrise-header) .gradient-unrivaled-beyond-sunrise-header .dp-header-pre {
+    color: var(--erau-unrivaled);
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper .gradient-unrivaled-beyond-sunrise-link-grid a {
+    background: linear-gradient(135deg, var(--erau-unrivaled), var(--erau-beyond));
+}
+#dp-wrapper .gradient-unrivaled-beyond-sunrise-link-grid a:hover,
+#dp-wrapper .gradient-unrivaled-beyond-sunrise-link-grid a:focus-visible {
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper .gradient-unrivaled-beyond-sunrise-link-grid .dp-icon,
+#dp-wrapper .gradient-unrivaled-beyond-sunrise-link-grid .fas {
+    color: var(--erau-sunrise);
+}
+
+#dp-wrapper.gradient-unrivaled-beyond-sunrise-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-unrivaled), var(--erau-beyond));
+}
+#dp-wrapper.gradient-unrivaled-beyond-sunrise-wrapper h3 {
+    color: var(--erau-unrivaled);
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper.gradient-unrivaled-beyond-sunrise-wrapper h4,
+#dp-wrapper.gradient-unrivaled-beyond-sunrise-wrapper h5,
+#dp-wrapper.gradient-unrivaled-beyond-sunrise-wrapper h6 {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-unrivaled-beyond-sunrise-wrapper .btn {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-unrivaled), var(--erau-beyond));
+}
+#dp-wrapper.gradient-unrivaled-beyond-sunrise-wrapper .btn:hover,
+#dp-wrapper.gradient-unrivaled-beyond-sunrise-wrapper .btn:focus-visible {
+    color: var(--erau-unrivaled);
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.gradient-unrivaled-beyond-sunrise-wrapper .dp-card .nav-link {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-unrivaled), var(--erau-beyond));
+}
+#dp-wrapper.gradient-unrivaled-beyond-sunrise-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.gradient-unrivaled-beyond-sunrise-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-unrivaled);
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.gradient-unrivaled-beyond-sunrise-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-unrivaled-beyond-sunrise-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.gradient-unrivaled-beyond-sunrise-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-unrivaled-beyond-sunrise-wrapper .context_module_item .type_icon i {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-unrivaled-beyond-sunrise-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-unrivaled);
+}
+/*********************************************************************/
+/***** GRADIENT: UNRIVALED → BEYOND (ALTITUDE ACCENT)
+**********************************************************************/
+
+#main:has(.gradient-unrivaled-beyond-altitude-wrapper) #left-side a, /* course navigation links */
+.gradient-unrivaled-beyond-altitude-wrapper a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper header.gradient-unrivaled-beyond-altitude-header {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-unrivaled), var(--erau-beyond));
+}
+#dp-wrapper:has(.gradient-unrivaled-beyond-altitude-header) .dp-banner-image {
+    border-color: var(--erau-unrivaled);
+}
+#dp-wrapper:has(.gradient-unrivaled-beyond-altitude-header) .gradient-unrivaled-beyond-altitude-header .dp-header-pre {
+    color: var(--erau-beyond);
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper .gradient-unrivaled-beyond-altitude-link-grid a {
+    background: linear-gradient(135deg, var(--erau-unrivaled), var(--erau-beyond));
+}
+#dp-wrapper .gradient-unrivaled-beyond-altitude-link-grid a:hover,
+#dp-wrapper .gradient-unrivaled-beyond-altitude-link-grid a:focus-visible {
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper .gradient-unrivaled-beyond-altitude-link-grid .dp-icon,
+#dp-wrapper .gradient-unrivaled-beyond-altitude-link-grid .fas {
+    color: var(--erau-altitude);
+}
+
+#dp-wrapper.gradient-unrivaled-beyond-altitude-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-unrivaled), var(--erau-beyond));
+}
+#dp-wrapper.gradient-unrivaled-beyond-altitude-wrapper h3 {
+    color: var(--erau-unrivaled);
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper.gradient-unrivaled-beyond-altitude-wrapper h4,
+#dp-wrapper.gradient-unrivaled-beyond-altitude-wrapper h5,
+#dp-wrapper.gradient-unrivaled-beyond-altitude-wrapper h6 {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-unrivaled-beyond-altitude-wrapper .btn {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-unrivaled), var(--erau-beyond));
+}
+#dp-wrapper.gradient-unrivaled-beyond-altitude-wrapper .btn:hover,
+#dp-wrapper.gradient-unrivaled-beyond-altitude-wrapper .btn:focus-visible {
+    color: var(--erau-beyond);
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper.gradient-unrivaled-beyond-altitude-wrapper .dp-card .nav-link {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-unrivaled), var(--erau-beyond));
+}
+#dp-wrapper.gradient-unrivaled-beyond-altitude-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.gradient-unrivaled-beyond-altitude-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-beyond);
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper.gradient-unrivaled-beyond-altitude-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-unrivaled-beyond-altitude-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper.gradient-unrivaled-beyond-altitude-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.gradient-unrivaled-beyond-altitude-wrapper .context_module_item .type_icon i {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-unrivaled-beyond-altitude-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-unrivaled);
+}
+/*********************************************************************/
+/***** GRADIENT: UNRIVALED → BEYOND (GREY ACCENT)
+**********************************************************************/
+
+#main:has(.gradient-unrivaled-beyond-grey-wrapper) #left-side a, /* course navigation links */
+.gradient-unrivaled-beyond-grey-wrapper a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper header.gradient-unrivaled-beyond-grey-header {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-unrivaled), var(--erau-beyond));
+}
+#dp-wrapper:has(.gradient-unrivaled-beyond-grey-header) .dp-banner-image {
+    border-color: var(--erau-unrivaled);
+}
+#dp-wrapper:has(.gradient-unrivaled-beyond-grey-header) .gradient-unrivaled-beyond-grey-header .dp-header-pre {
+    color: var(--erau-unrivaled);
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper .gradient-unrivaled-beyond-grey-link-grid a {
+    background: linear-gradient(135deg, var(--erau-unrivaled), var(--erau-beyond));
+}
+#dp-wrapper .gradient-unrivaled-beyond-grey-link-grid a:hover,
+#dp-wrapper .gradient-unrivaled-beyond-grey-link-grid a:focus-visible {
+    border-color: var(--erau-grey);
+}
+#dp-wrapper .gradient-unrivaled-beyond-grey-link-grid .dp-icon,
+#dp-wrapper .gradient-unrivaled-beyond-grey-link-grid .fas {
+    color: var(--erau-grey);
+}
+
+#dp-wrapper.gradient-unrivaled-beyond-grey-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-unrivaled), var(--erau-beyond));
+}
+#dp-wrapper.gradient-unrivaled-beyond-grey-wrapper h3 {
+    color: var(--erau-unrivaled);
+    border-color: var(--erau-grey);
+}
+#dp-wrapper.gradient-unrivaled-beyond-grey-wrapper h4,
+#dp-wrapper.gradient-unrivaled-beyond-grey-wrapper h5,
+#dp-wrapper.gradient-unrivaled-beyond-grey-wrapper h6 {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-unrivaled-beyond-grey-wrapper .btn {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-unrivaled), var(--erau-beyond));
+}
+#dp-wrapper.gradient-unrivaled-beyond-grey-wrapper .btn:hover,
+#dp-wrapper.gradient-unrivaled-beyond-grey-wrapper .btn:focus-visible {
+    color: var(--erau-unrivaled);
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper.gradient-unrivaled-beyond-grey-wrapper .dp-card .nav-link {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-unrivaled), var(--erau-beyond));
+}
+#dp-wrapper.gradient-unrivaled-beyond-grey-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.gradient-unrivaled-beyond-grey-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-unrivaled);
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper.gradient-unrivaled-beyond-grey-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-unrivaled-beyond-grey-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper.gradient-unrivaled-beyond-grey-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-unrivaled-beyond-grey-wrapper .context_module_item .type_icon i {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.gradient-unrivaled-beyond-grey-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-unrivaled);
 }
 /* ERAU Gradient Themes: Sunrise <-> Grey */
 /*********************************************************************/
@@ -4611,6 +5314,518 @@
 
 #dp-wrapper.wing-black-unrivaled-grey-wrapper .context_module_item .fa-map-marker-alt {
     color: var(--erau-black);
+}
+/* ERAU Wing Themes: Beyond -> Unrivaled */
+/*********************************************************************/
+/***** WING: BEYOND → UNRIVALED HARD-EDGE (SUNRISE ACCENT)
+**********************************************************************/
+
+#main:has(.wing-beyond-unrivaled-sunrise-wrapper) #left-side a, /* course navigation links */
+.wing-beyond-unrivaled-sunrise-wrapper a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper header.wing-beyond-unrivaled-sunrise-header {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-beyond) 80%, var(--erau-unrivaled) 20%);
+}
+#dp-wrapper:has(.wing-beyond-unrivaled-sunrise-header) .dp-banner-image {
+    border-color: var(--erau-beyond);
+}
+#dp-wrapper:has(.wing-beyond-unrivaled-sunrise-header) .wing-beyond-unrivaled-sunrise-header .dp-header-pre {
+    color: var(--erau-beyond);
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper .wing-beyond-unrivaled-sunrise-link-grid a {
+    background: linear-gradient(135deg, var(--erau-beyond) 80%, var(--erau-unrivaled) 20%);
+}
+#dp-wrapper .wing-beyond-unrivaled-sunrise-link-grid a:hover,
+#dp-wrapper .wing-beyond-unrivaled-sunrise-link-grid a:focus-visible {
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper .wing-beyond-unrivaled-sunrise-link-grid .dp-icon,
+#dp-wrapper .wing-beyond-unrivaled-sunrise-link-grid .fas {
+    color: var(--erau-sunrise);
+}
+
+#dp-wrapper.wing-beyond-unrivaled-sunrise-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-beyond) 80%, var(--erau-unrivaled) 20%);
+}
+#dp-wrapper.wing-beyond-unrivaled-sunrise-wrapper h3 {
+    color: var(--erau-beyond);
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper.wing-beyond-unrivaled-sunrise-wrapper h4,
+#dp-wrapper.wing-beyond-unrivaled-sunrise-wrapper h5,
+#dp-wrapper.wing-beyond-unrivaled-sunrise-wrapper h6 {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-beyond-unrivaled-sunrise-wrapper .btn {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-beyond) 80%, var(--erau-unrivaled) 20%);
+}
+#dp-wrapper.wing-beyond-unrivaled-sunrise-wrapper .btn:hover,
+#dp-wrapper.wing-beyond-unrivaled-sunrise-wrapper .btn:focus-visible {
+    color: var(--erau-beyond);
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.wing-beyond-unrivaled-sunrise-wrapper .dp-card .nav-link {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-beyond) 80%, var(--erau-unrivaled) 20%);
+}
+#dp-wrapper.wing-beyond-unrivaled-sunrise-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.wing-beyond-unrivaled-sunrise-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-beyond);
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.wing-beyond-unrivaled-sunrise-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-beyond-unrivaled-sunrise-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.wing-beyond-unrivaled-sunrise-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-beyond-unrivaled-sunrise-wrapper .context_module_item .type_icon i {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-beyond-unrivaled-sunrise-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-beyond);
+}
+/*********************************************************************/
+/***** WING: BEYOND → UNRIVALED HARD-EDGE (ALTITUDE ACCENT)
+**********************************************************************/
+
+#main:has(.wing-beyond-unrivaled-altitude-wrapper) #left-side a, /* course navigation links */
+.wing-beyond-unrivaled-altitude-wrapper a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper header.wing-beyond-unrivaled-altitude-header {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-beyond) 80%, var(--erau-unrivaled) 20%);
+}
+#dp-wrapper:has(.wing-beyond-unrivaled-altitude-header) .dp-banner-image {
+    border-color: var(--erau-beyond);
+}
+#dp-wrapper:has(.wing-beyond-unrivaled-altitude-header) .wing-beyond-unrivaled-altitude-header .dp-header-pre {
+    color: var(--erau-beyond);
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper .wing-beyond-unrivaled-altitude-link-grid a {
+    background: linear-gradient(135deg, var(--erau-beyond) 80%, var(--erau-unrivaled) 20%);
+}
+#dp-wrapper .wing-beyond-unrivaled-altitude-link-grid a:hover,
+#dp-wrapper .wing-beyond-unrivaled-altitude-link-grid a:focus-visible {
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper .wing-beyond-unrivaled-altitude-link-grid .dp-icon,
+#dp-wrapper .wing-beyond-unrivaled-altitude-link-grid .fas {
+    color: var(--erau-altitude);
+}
+
+#dp-wrapper.wing-beyond-unrivaled-altitude-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-beyond) 80%, var(--erau-unrivaled) 20%);
+}
+#dp-wrapper.wing-beyond-unrivaled-altitude-wrapper h3 {
+    color: var(--erau-beyond);
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper.wing-beyond-unrivaled-altitude-wrapper h4,
+#dp-wrapper.wing-beyond-unrivaled-altitude-wrapper h5,
+#dp-wrapper.wing-beyond-unrivaled-altitude-wrapper h6 {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-beyond-unrivaled-altitude-wrapper .btn {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-beyond) 80%, var(--erau-unrivaled) 20%);
+}
+#dp-wrapper.wing-beyond-unrivaled-altitude-wrapper .btn:hover,
+#dp-wrapper.wing-beyond-unrivaled-altitude-wrapper .btn:focus-visible {
+    color: var(--erau-beyond);
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper.wing-beyond-unrivaled-altitude-wrapper .dp-card .nav-link {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-beyond) 80%, var(--erau-unrivaled) 20%);
+}
+#dp-wrapper.wing-beyond-unrivaled-altitude-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.wing-beyond-unrivaled-altitude-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-beyond);
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper.wing-beyond-unrivaled-altitude-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-beyond-unrivaled-altitude-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper.wing-beyond-unrivaled-altitude-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-beyond-unrivaled-altitude-wrapper .context_module_item .type_icon i {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-beyond-unrivaled-altitude-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-beyond);
+}
+/*********************************************************************/
+/***** WING: BEYOND → UNRIVALED HARD-EDGE (GREY ACCENT)
+**********************************************************************/
+
+#main:has(.wing-beyond-unrivaled-grey-wrapper) #left-side a, /* course navigation links */
+.wing-beyond-unrivaled-grey-wrapper a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper header.wing-beyond-unrivaled-grey-header {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-beyond) 80%, var(--erau-unrivaled) 20%);
+}
+#dp-wrapper:has(.wing-beyond-unrivaled-grey-header) .dp-banner-image {
+    border-color: var(--erau-beyond);
+}
+#dp-wrapper:has(.wing-beyond-unrivaled-grey-header) .wing-beyond-unrivaled-grey-header .dp-header-pre {
+    color: var(--erau-beyond);
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper .wing-beyond-unrivaled-grey-link-grid a {
+    background: linear-gradient(135deg, var(--erau-beyond) 80%, var(--erau-unrivaled) 20%);
+}
+#dp-wrapper .wing-beyond-unrivaled-grey-link-grid a:hover,
+#dp-wrapper .wing-beyond-unrivaled-grey-link-grid a:focus-visible {
+    border-color: var(--erau-grey);
+}
+#dp-wrapper .wing-beyond-unrivaled-grey-link-grid .dp-icon,
+#dp-wrapper .wing-beyond-unrivaled-grey-link-grid .fas {
+    color: var(--erau-grey);
+}
+
+#dp-wrapper.wing-beyond-unrivaled-grey-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-beyond) 80%, var(--erau-unrivaled) 20%);
+}
+#dp-wrapper.wing-beyond-unrivaled-grey-wrapper h3 {
+    color: var(--erau-beyond);
+    border-color: var(--erau-grey);
+}
+#dp-wrapper.wing-beyond-unrivaled-grey-wrapper h4,
+#dp-wrapper.wing-beyond-unrivaled-grey-wrapper h5,
+#dp-wrapper.wing-beyond-unrivaled-grey-wrapper h6 {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-beyond-unrivaled-grey-wrapper .btn {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-beyond) 80%, var(--erau-unrivaled) 20%);
+}
+#dp-wrapper.wing-beyond-unrivaled-grey-wrapper .btn:hover,
+#dp-wrapper.wing-beyond-unrivaled-grey-wrapper .btn:focus-visible {
+    color: var(--erau-beyond);
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper.wing-beyond-unrivaled-grey-wrapper .dp-card .nav-link {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-beyond) 80%, var(--erau-unrivaled) 20%);
+}
+#dp-wrapper.wing-beyond-unrivaled-grey-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.wing-beyond-unrivaled-grey-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-beyond);
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper.wing-beyond-unrivaled-grey-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-beyond-unrivaled-grey-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper.wing-beyond-unrivaled-grey-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-beyond-unrivaled-grey-wrapper .context_module_item .type_icon i {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-beyond-unrivaled-grey-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-beyond);
+}
+/* ERAU Wing Themes: Unrivaled -> Beyond */
+/*********************************************************************/
+/***** WING: UNRIVALED → BEYOND HARD-EDGE (SUNRISE ACCENT)
+**********************************************************************/
+
+#main:has(.wing-unrivaled-beyond-sunrise-wrapper) #left-side a, /* course navigation links */
+.wing-unrivaled-beyond-sunrise-wrapper a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper header.wing-unrivaled-beyond-sunrise-header {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-unrivaled) 80%, var(--erau-beyond) 20%);
+}
+#dp-wrapper:has(.wing-unrivaled-beyond-sunrise-header) .dp-banner-image {
+    border-color: var(--erau-unrivaled);
+}
+#dp-wrapper:has(.wing-unrivaled-beyond-sunrise-header) .wing-unrivaled-beyond-sunrise-header .dp-header-pre {
+    color: var(--erau-unrivaled);
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper .wing-unrivaled-beyond-sunrise-link-grid a {
+    background: linear-gradient(135deg, var(--erau-unrivaled) 80%, var(--erau-beyond) 20%);
+}
+#dp-wrapper .wing-unrivaled-beyond-sunrise-link-grid a:hover,
+#dp-wrapper .wing-unrivaled-beyond-sunrise-link-grid a:focus-visible {
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper .wing-unrivaled-beyond-sunrise-link-grid .dp-icon,
+#dp-wrapper .wing-unrivaled-beyond-sunrise-link-grid .fas {
+    color: var(--erau-sunrise);
+}
+
+#dp-wrapper.wing-unrivaled-beyond-sunrise-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-unrivaled) 80%, var(--erau-beyond) 20%);
+}
+#dp-wrapper.wing-unrivaled-beyond-sunrise-wrapper h3 {
+    color: var(--erau-unrivaled);
+    border-color: var(--erau-sunrise);
+}
+#dp-wrapper.wing-unrivaled-beyond-sunrise-wrapper h4,
+#dp-wrapper.wing-unrivaled-beyond-sunrise-wrapper h5,
+#dp-wrapper.wing-unrivaled-beyond-sunrise-wrapper h6 {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-unrivaled-beyond-sunrise-wrapper .btn {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-unrivaled) 80%, var(--erau-beyond) 20%);
+}
+#dp-wrapper.wing-unrivaled-beyond-sunrise-wrapper .btn:hover,
+#dp-wrapper.wing-unrivaled-beyond-sunrise-wrapper .btn:focus-visible {
+    color: var(--erau-unrivaled);
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.wing-unrivaled-beyond-sunrise-wrapper .dp-card .nav-link {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-unrivaled) 80%, var(--erau-beyond) 20%);
+}
+#dp-wrapper.wing-unrivaled-beyond-sunrise-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.wing-unrivaled-beyond-sunrise-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-unrivaled);
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.wing-unrivaled-beyond-sunrise-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-unrivaled-beyond-sunrise-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-sunrise);
+}
+
+#dp-wrapper.wing-unrivaled-beyond-sunrise-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-unrivaled-beyond-sunrise-wrapper .context_module_item .type_icon i {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-unrivaled-beyond-sunrise-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-unrivaled);
+}
+/*********************************************************************/
+/***** WING: UNRIVALED → BEYOND HARD-EDGE (ALTITUDE ACCENT)
+**********************************************************************/
+
+#main:has(.wing-unrivaled-beyond-altitude-wrapper) #left-side a, /* course navigation links */
+.wing-unrivaled-beyond-altitude-wrapper a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper header.wing-unrivaled-beyond-altitude-header {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-unrivaled) 80%, var(--erau-beyond) 20%);
+}
+#dp-wrapper:has(.wing-unrivaled-beyond-altitude-header) .dp-banner-image {
+    border-color: var(--erau-unrivaled);
+}
+#dp-wrapper:has(.wing-unrivaled-beyond-altitude-header) .wing-unrivaled-beyond-altitude-header .dp-header-pre {
+    color: var(--erau-beyond);
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper .wing-unrivaled-beyond-altitude-link-grid a {
+    background: linear-gradient(135deg, var(--erau-unrivaled) 80%, var(--erau-beyond) 20%);
+}
+#dp-wrapper .wing-unrivaled-beyond-altitude-link-grid a:hover,
+#dp-wrapper .wing-unrivaled-beyond-altitude-link-grid a:focus-visible {
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper .wing-unrivaled-beyond-altitude-link-grid .dp-icon,
+#dp-wrapper .wing-unrivaled-beyond-altitude-link-grid .fas {
+    color: var(--erau-altitude);
+}
+
+#dp-wrapper.wing-unrivaled-beyond-altitude-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-unrivaled) 80%, var(--erau-beyond) 20%);
+}
+#dp-wrapper.wing-unrivaled-beyond-altitude-wrapper h3 {
+    color: var(--erau-unrivaled);
+    border-color: var(--erau-altitude);
+}
+#dp-wrapper.wing-unrivaled-beyond-altitude-wrapper h4,
+#dp-wrapper.wing-unrivaled-beyond-altitude-wrapper h5,
+#dp-wrapper.wing-unrivaled-beyond-altitude-wrapper h6 {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-unrivaled-beyond-altitude-wrapper .btn {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-unrivaled) 80%, var(--erau-beyond) 20%);
+}
+#dp-wrapper.wing-unrivaled-beyond-altitude-wrapper .btn:hover,
+#dp-wrapper.wing-unrivaled-beyond-altitude-wrapper .btn:focus-visible {
+    color: var(--erau-beyond);
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper.wing-unrivaled-beyond-altitude-wrapper .dp-card .nav-link {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-unrivaled) 80%, var(--erau-beyond) 20%);
+}
+#dp-wrapper.wing-unrivaled-beyond-altitude-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.wing-unrivaled-beyond-altitude-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-beyond);
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper.wing-unrivaled-beyond-altitude-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-unrivaled-beyond-altitude-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-altitude);
+}
+
+#dp-wrapper.wing-unrivaled-beyond-altitude-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-beyond);
+}
+
+#dp-wrapper.wing-unrivaled-beyond-altitude-wrapper .context_module_item .type_icon i {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-unrivaled-beyond-altitude-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-unrivaled);
+}
+/*********************************************************************/
+/***** WING: UNRIVALED → BEYOND HARD-EDGE (GREY ACCENT)
+**********************************************************************/
+
+#main:has(.wing-unrivaled-beyond-grey-wrapper) #left-side a, /* course navigation links */
+.wing-unrivaled-beyond-grey-wrapper a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper header.wing-unrivaled-beyond-grey-header {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-unrivaled) 80%, var(--erau-beyond) 20%);
+}
+#dp-wrapper:has(.wing-unrivaled-beyond-grey-header) .dp-banner-image {
+    border-color: var(--erau-unrivaled);
+}
+#dp-wrapper:has(.wing-unrivaled-beyond-grey-header) .wing-unrivaled-beyond-grey-header .dp-header-pre {
+    color: var(--erau-unrivaled);
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper .wing-unrivaled-beyond-grey-link-grid a {
+    background: linear-gradient(135deg, var(--erau-unrivaled) 80%, var(--erau-beyond) 20%);
+}
+#dp-wrapper .wing-unrivaled-beyond-grey-link-grid a:hover,
+#dp-wrapper .wing-unrivaled-beyond-grey-link-grid a:focus-visible {
+    border-color: var(--erau-grey);
+}
+#dp-wrapper .wing-unrivaled-beyond-grey-link-grid .dp-icon,
+#dp-wrapper .wing-unrivaled-beyond-grey-link-grid .fas {
+    color: var(--erau-grey);
+}
+
+#dp-wrapper.wing-unrivaled-beyond-grey-wrapper h2 {
+    background: linear-gradient(135deg, var(--erau-unrivaled) 80%, var(--erau-beyond) 20%);
+}
+#dp-wrapper.wing-unrivaled-beyond-grey-wrapper h3 {
+    color: var(--erau-unrivaled);
+    border-color: var(--erau-grey);
+}
+#dp-wrapper.wing-unrivaled-beyond-grey-wrapper h4,
+#dp-wrapper.wing-unrivaled-beyond-grey-wrapper h5,
+#dp-wrapper.wing-unrivaled-beyond-grey-wrapper h6 {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-unrivaled-beyond-grey-wrapper .btn {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-unrivaled) 80%, var(--erau-beyond) 20%);
+}
+#dp-wrapper.wing-unrivaled-beyond-grey-wrapper .btn:hover,
+#dp-wrapper.wing-unrivaled-beyond-grey-wrapper .btn:focus-visible {
+    color: var(--erau-unrivaled);
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper.wing-unrivaled-beyond-grey-wrapper .dp-card .nav-link {
+    color: var(--erau-white);
+    background: linear-gradient(135deg, var(--erau-unrivaled) 80%, var(--erau-beyond) 20%);
+}
+#dp-wrapper.wing-unrivaled-beyond-grey-wrapper .dp-card .nav-link:hover,
+#dp-wrapper.wing-unrivaled-beyond-grey-wrapper .dp-card .nav-link:focus-visible {
+    color: var(--erau-unrivaled);
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper.wing-unrivaled-beyond-grey-wrapper hr[class*=dp-hr-] {
+    border-color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-unrivaled-beyond-grey-wrapper .dp-module-details li.dp-current .ig-row {
+    background-color: var(--erau-grey);
+}
+
+#dp-wrapper.wing-unrivaled-beyond-grey-wrapper .dp-module-details li.dp-current .ig-row a {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-unrivaled-beyond-grey-wrapper .context_module_item .type_icon i {
+    color: var(--erau-unrivaled);
+}
+
+#dp-wrapper.wing-unrivaled-beyond-grey-wrapper .context_module_item .fa-map-marker-alt {
+    color: var(--erau-unrivaled);
 }
 /* ERAU Wing Themes: Sunrise <-> Grey */
 /*********************************************************************/
