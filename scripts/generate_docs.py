@@ -148,6 +148,22 @@ PAGES = [
             "Y",
         ],
     },
+    {
+        "filename": "designplus-link-grid-styles.html",
+        "page_title": "DesignPLUS ERAU Link Grid Style Content Blocks",
+        "canvas_area": "ERAU Styles",
+        "block_intro": None,
+        "columns": [
+            "Style Name",
+            "CSS Classes to apply to Link Grid",
+            "Active",
+        ],
+        "row_cells": lambda r: [
+            r["name"],
+            f'erau-link-grid {r["slug"]}-link-grid',
+            "Y",
+        ],
+    },
 ]
 
 
