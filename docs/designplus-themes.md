@@ -16,9 +16,15 @@ This file is generated from `custom-themes.manifest.css` and the actual `.css` f
 | Gradient Unrivaled-Black Sunrise | dp-wrapper erau-wrapper gradient-unrivaled-black-sunrise-wrapper | dp-header erau-header gradient-unrivaled-black-sunrise-header | container-fluid dp-link-grid erau-link-grid gradient-unrivaled-black-sunrise-link-grid |  |  | Y |
 | Gradient Unrivaled-Black Altitude | dp-wrapper erau-wrapper gradient-unrivaled-black-altitude-wrapper | dp-header erau-header gradient-unrivaled-black-altitude-header | container-fluid dp-link-grid erau-link-grid gradient-unrivaled-black-altitude-link-grid |  |  | Y |
 | Gradient Unrivaled-Black Grey | dp-wrapper erau-wrapper gradient-unrivaled-black-grey-wrapper | dp-header erau-header gradient-unrivaled-black-grey-header | container-fluid dp-link-grid erau-link-grid gradient-unrivaled-black-grey-link-grid |  |  | Y |
+| Gradient Unrivaled-Beyond Sunrise | dp-wrapper erau-wrapper gradient-unrivaled-beyond-sunrise-wrapper | dp-header erau-header gradient-unrivaled-beyond-sunrise-header | container-fluid dp-link-grid erau-link-grid gradient-unrivaled-beyond-sunrise-link-grid |  |  | Y |
+| Gradient Unrivaled-Beyond Altitude | dp-wrapper erau-wrapper gradient-unrivaled-beyond-altitude-wrapper | dp-header erau-header gradient-unrivaled-beyond-altitude-header | container-fluid dp-link-grid erau-link-grid gradient-unrivaled-beyond-altitude-link-grid |  |  | Y |
+| Gradient Unrivaled-Beyond Grey | dp-wrapper erau-wrapper gradient-unrivaled-beyond-grey-wrapper | dp-header erau-header gradient-unrivaled-beyond-grey-header | container-fluid dp-link-grid erau-link-grid gradient-unrivaled-beyond-grey-link-grid |  |  | Y |
 | Wing Unrivaled-Black Sunrise | dp-wrapper erau-wrapper wing-unrivaled-black-sunrise-wrapper | dp-header erau-header wing-unrivaled-black-sunrise-header | container-fluid dp-link-grid erau-link-grid wing-unrivaled-black-sunrise-link-grid |  |  | Y |
 | Wing Unrivaled-Black Altitude | dp-wrapper erau-wrapper wing-unrivaled-black-altitude-wrapper | dp-header erau-header wing-unrivaled-black-altitude-header | container-fluid dp-link-grid erau-link-grid wing-unrivaled-black-altitude-link-grid |  |  | Y |
 | Wing Unrivaled-Black Grey | dp-wrapper erau-wrapper wing-unrivaled-black-grey-wrapper | dp-header erau-header wing-unrivaled-black-grey-header | container-fluid dp-link-grid erau-link-grid wing-unrivaled-black-grey-link-grid |  |  | Y |
+| Wing Unrivaled-Beyond Sunrise | dp-wrapper erau-wrapper wing-unrivaled-beyond-sunrise-wrapper | dp-header erau-header wing-unrivaled-beyond-sunrise-header | container-fluid dp-link-grid erau-link-grid wing-unrivaled-beyond-sunrise-link-grid |  |  | Y |
+| Wing Unrivaled-Beyond Altitude | dp-wrapper erau-wrapper wing-unrivaled-beyond-altitude-wrapper | dp-header erau-header wing-unrivaled-beyond-altitude-header | container-fluid dp-link-grid erau-link-grid wing-unrivaled-beyond-altitude-link-grid |  |  | Y |
+| Wing Unrivaled-Beyond Grey | dp-wrapper erau-wrapper wing-unrivaled-beyond-grey-wrapper | dp-header erau-header wing-unrivaled-beyond-grey-header | container-fluid dp-link-grid erau-link-grid wing-unrivaled-beyond-grey-link-grid |  |  | Y |
 
 ## Beyond Blue
 
@@ -30,9 +36,15 @@ This file is generated from `custom-themes.manifest.css` and the actual `.css` f
 | Gradient Beyond-Black Sunrise | dp-wrapper erau-wrapper gradient-beyond-black-sunrise-wrapper | dp-header erau-header gradient-beyond-black-sunrise-header | container-fluid dp-link-grid erau-link-grid gradient-beyond-black-sunrise-link-grid |  |  | Y |
 | Gradient Beyond-Black Altitude | dp-wrapper erau-wrapper gradient-beyond-black-altitude-wrapper | dp-header erau-header gradient-beyond-black-altitude-header | container-fluid dp-link-grid erau-link-grid gradient-beyond-black-altitude-link-grid |  |  | Y |
 | Gradient Beyond-Black Grey | dp-wrapper erau-wrapper gradient-beyond-black-grey-wrapper | dp-header erau-header gradient-beyond-black-grey-header | container-fluid dp-link-grid erau-link-grid gradient-beyond-black-grey-link-grid |  |  | Y |
+| Gradient Beyond-Unrivaled Sunrise | dp-wrapper erau-wrapper gradient-beyond-unrivaled-sunrise-wrapper | dp-header erau-header gradient-beyond-unrivaled-sunrise-header | container-fluid dp-link-grid erau-link-grid gradient-beyond-unrivaled-sunrise-link-grid |  |  | Y |
+| Gradient Beyond-Unrivaled Altitude | dp-wrapper erau-wrapper gradient-beyond-unrivaled-altitude-wrapper | dp-header erau-header gradient-beyond-unrivaled-altitude-header | container-fluid dp-link-grid erau-link-grid gradient-beyond-unrivaled-altitude-link-grid |  |  | Y |
+| Gradient Beyond-Unrivaled Grey | dp-wrapper erau-wrapper gradient-beyond-unrivaled-grey-wrapper | dp-header erau-header gradient-beyond-unrivaled-grey-header | container-fluid dp-link-grid erau-link-grid gradient-beyond-unrivaled-grey-link-grid |  |  | Y |
 | Wing Beyond-Black Sunrise | dp-wrapper erau-wrapper wing-beyond-black-sunrise-wrapper | dp-header erau-header wing-beyond-black-sunrise-header | container-fluid dp-link-grid erau-link-grid wing-beyond-black-sunrise-link-grid |  |  | Y |
 | Wing Beyond-Black Altitude | dp-wrapper erau-wrapper wing-beyond-black-altitude-wrapper | dp-header erau-header wing-beyond-black-altitude-header | container-fluid dp-link-grid erau-link-grid wing-beyond-black-altitude-link-grid |  |  | Y |
 | Wing Beyond-Black Grey | dp-wrapper erau-wrapper wing-beyond-black-grey-wrapper | dp-header erau-header wing-beyond-black-grey-header | container-fluid dp-link-grid erau-link-grid wing-beyond-black-grey-link-grid |  |  | Y |
+| Wing Beyond-Unrivaled Sunrise | dp-wrapper erau-wrapper wing-beyond-unrivaled-sunrise-wrapper | dp-header erau-header wing-beyond-unrivaled-sunrise-header | container-fluid dp-link-grid erau-link-grid wing-beyond-unrivaled-sunrise-link-grid |  |  | Y |
+| Wing Beyond-Unrivaled Altitude | dp-wrapper erau-wrapper wing-beyond-unrivaled-altitude-wrapper | dp-header erau-header wing-beyond-unrivaled-altitude-header | container-fluid dp-link-grid erau-link-grid wing-beyond-unrivaled-altitude-link-grid |  |  | Y |
+| Wing Beyond-Unrivaled Grey | dp-wrapper erau-wrapper wing-beyond-unrivaled-grey-wrapper | dp-header erau-header wing-beyond-unrivaled-grey-header | container-fluid dp-link-grid erau-link-grid wing-beyond-unrivaled-grey-link-grid |  |  | Y |
 
 ## Black
 
@@ -93,6 +105,8 @@ This file is generated from `custom-themes.manifest.css` and the actual `.css` f
 
 | Theme Name | Heading Styles Classes | Banner Title Classes | Link Grid/Nav Classes | Image Classes | Default Banner Image | Active |
 |---|---|---|---|---|---|---|
+| Altitude Beyond | dp-wrapper erau-wrapper altitude-beyond-wrapper | dp-header erau-header altitude-beyond-header | container-fluid dp-link-grid erau-link-grid altitude-beyond-link-grid |  |  | Y |
+| Altitude Black | dp-wrapper erau-wrapper altitude-black-wrapper | dp-header erau-header altitude-black-header | container-fluid dp-link-grid erau-link-grid altitude-black-link-grid |  |  | Y |
 | Gradient Altitude-Grey Unrivaled | dp-wrapper erau-wrapper gradient-altitude-grey-unrivaled-wrapper | dp-header erau-header gradient-altitude-grey-unrivaled-header | container-fluid dp-link-grid erau-link-grid gradient-altitude-grey-unrivaled-link-grid |  |  | Y |
 | Gradient Altitude-Grey Beyond | dp-wrapper erau-wrapper gradient-altitude-grey-beyond-wrapper | dp-header erau-header gradient-altitude-grey-beyond-header | container-fluid dp-link-grid erau-link-grid gradient-altitude-grey-beyond-link-grid |  |  | Y |
 | Gradient Altitude-Grey Black | dp-wrapper erau-wrapper gradient-altitude-grey-black-wrapper | dp-header erau-header gradient-altitude-grey-black-header | container-fluid dp-link-grid erau-link-grid gradient-altitude-grey-black-link-grid |  |  | Y |

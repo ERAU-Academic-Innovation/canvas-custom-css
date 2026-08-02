@@ -25,6 +25,9 @@
 @import url(theme-erau-solid-grey-unrivaled.css);
 @import url(theme-erau-solid-grey-beyond.css);
 @import url(theme-erau-solid-grey-black.css);
+/* ERAU Altitude Themes */
+@import url(theme-erau-solid-altitude-beyond.css);
+@import url(theme-erau-solid-altitude-black.css);
 /* ERAU Gradient Themes: Beyond -> Black */
 @import url(theme-erau-gradient-beyond-black-sunrise.css);
 @import url(theme-erau-gradient-beyond-black-altitude.css);
@@ -41,6 +44,14 @@
 @import url(theme-erau-gradient-black-unrivaled-sunrise.css);
 @import url(theme-erau-gradient-black-unrivaled-altitude.css);
 @import url(theme-erau-gradient-black-unrivaled-grey.css);
+/* ERAU Gradient Themes: Beyond -> Unrivaled */
+@import url(theme-erau-gradient-beyond-unrivaled-sunrise.css);
+@import url(theme-erau-gradient-beyond-unrivaled-altitude.css);
+@import url(theme-erau-gradient-beyond-unrivaled-grey.css);
+/* ERAU Gradient Themes: Unrivaled -> Beyond */
+@import url(theme-erau-gradient-unrivaled-beyond-sunrise.css);
+@import url(theme-erau-gradient-unrivaled-beyond-altitude.css);
+@import url(theme-erau-gradient-unrivaled-beyond-grey.css);
 /* ERAU Gradient Themes: Sunrise <-> Grey */
 @import url(theme-erau-gradient-sunrise-grey-unrivaled.css);
 @import url(theme-erau-gradient-grey-sunrise-unrivaled.css);
@@ -71,6 +82,14 @@
 @import url(theme-erau-wing-black-unrivaled-sunrise.css);
 @import url(theme-erau-wing-black-unrivaled-altitude.css);
 @import url(theme-erau-wing-black-unrivaled-grey.css);
+/* ERAU Wing Themes: Beyond -> Unrivaled */
+@import url(theme-erau-wing-beyond-unrivaled-sunrise.css);
+@import url(theme-erau-wing-beyond-unrivaled-altitude.css);
+@import url(theme-erau-wing-beyond-unrivaled-grey.css);
+/* ERAU Wing Themes: Unrivaled -> Beyond */
+@import url(theme-erau-wing-unrivaled-beyond-sunrise.css);
+@import url(theme-erau-wing-unrivaled-beyond-altitude.css);
+@import url(theme-erau-wing-unrivaled-beyond-grey.css);
 /* ERAU Wing Themes: Sunrise <-> Grey */
 @import url(theme-erau-wing-sunrise-grey-unrivaled.css);
 @import url(theme-erau-wing-grey-sunrise-unrivaled.css);
