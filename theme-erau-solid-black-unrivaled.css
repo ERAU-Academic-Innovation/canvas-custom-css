@@ -50,7 +50,7 @@
 }
 #dp-wrapper.black-unrivaled-wrapper .btn:hover,
 #dp-wrapper.black-unrivaled-wrapper .btn:focus-visible {
-    color: var(--erau-black);
+    color: var(--erau-white);
     background-color: var(--erau-unrivaled);
 }
 
@@ -60,7 +60,7 @@
 }
 #dp-wrapper.black-unrivaled-wrapper .dp-card .nav-link:hover,
 #dp-wrapper.black-unrivaled-wrapper .dp-card .nav-link:focus-visible {
-    color: var(--erau-black);
+    color: var(--erau-white);
     background-color: var(--erau-unrivaled);
 }
 
@@ -73,7 +73,7 @@
 }
 
 #dp-wrapper.black-unrivaled-wrapper .dp-module-details li.dp-current .ig-row a {
-    color: var(--erau-black);
+    color: var(--erau-white);
 }
 
 #dp-wrapper.black-unrivaled-wrapper .context_module_item .type_icon i {

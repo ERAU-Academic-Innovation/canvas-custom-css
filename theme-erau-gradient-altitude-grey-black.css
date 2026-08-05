@@ -61,7 +61,7 @@
 #dp-wrapper.gradient-altitude-grey-black-wrapper .btn:hover,
 #dp-wrapper.gradient-altitude-grey-black-wrapper .btn:focus-visible {
     color: var(--erau-altitude);
-    background-color: var(--erau-black);
+    background: var(--erau-black);
 }
 
 #dp-wrapper.gradient-altitude-grey-black-wrapper .dp-card .nav-link {
@@ -71,7 +71,7 @@
 #dp-wrapper.gradient-altitude-grey-black-wrapper .dp-card .nav-link:hover,
 #dp-wrapper.gradient-altitude-grey-black-wrapper .dp-card .nav-link:focus-visible {
     color: var(--erau-altitude);
-    background-color: var(--erau-black);
+    background: var(--erau-black);
 }
 
 #dp-wrapper.gradient-altitude-grey-black-wrapper hr[class*=dp-hr-] {
