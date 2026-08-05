@@ -61,7 +61,7 @@
 #dp-wrapper.gradient-sunrise-grey-unrivaled-wrapper .btn:hover,
 #dp-wrapper.gradient-sunrise-grey-unrivaled-wrapper .btn:focus-visible {
     color: var(--erau-sunrise);
-    background-color: var(--erau-unrivaled);
+    background: var(--erau-unrivaled);
 }
 
 #dp-wrapper.gradient-sunrise-grey-unrivaled-wrapper .dp-card .nav-link {
@@ -71,7 +71,7 @@
 #dp-wrapper.gradient-sunrise-grey-unrivaled-wrapper .dp-card .nav-link:hover,
 #dp-wrapper.gradient-sunrise-grey-unrivaled-wrapper .dp-card .nav-link:focus-visible {
     color: var(--erau-sunrise);
-    background-color: var(--erau-unrivaled);
+    background: var(--erau-unrivaled);
 }
 
 #dp-wrapper.gradient-sunrise-grey-unrivaled-wrapper hr[class*=dp-hr-] {
