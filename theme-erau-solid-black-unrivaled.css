@@ -19,7 +19,7 @@
     background-color: var(--erau-unrivaled);
 }
 #dp-wrapper:has(.black-unrivaled-header) .black-unrivaled-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-white-20.png");
 }
 
 #dp-wrapper .black-unrivaled-link-grid a {

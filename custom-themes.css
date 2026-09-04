@@ -24,7 +24,7 @@
     background-color: var(--erau-grey);
 }
 #dp-wrapper:has(.unrivaled-grey-header) .unrivaled-grey-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-black-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
 }
 
 #dp-wrapper .unrivaled-grey-link-grid a {
@@ -112,7 +112,7 @@
     background-color: var(--erau-sunrise);
 }
 #dp-wrapper:has(.unrivaled-sunrise-header) .unrivaled-sunrise-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-black-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
 }
 
 #dp-wrapper .unrivaled-sunrise-link-grid a {
@@ -200,7 +200,7 @@
     background-color: var(--erau-altitude);
 }
 #dp-wrapper:has(.unrivaled-altitude-header) .unrivaled-altitude-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-black-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
 }
 
 #dp-wrapper .unrivaled-altitude-link-grid a {
@@ -637,7 +637,7 @@
     background-color: var(--erau-unrivaled);
 }
 #dp-wrapper:has(.black-unrivaled-header) .black-unrivaled-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-white-20.png");
 }
 
 #dp-wrapper .black-unrivaled-link-grid a {
@@ -902,7 +902,7 @@
     background-color: var(--erau-unrivaled);
 }
 #dp-wrapper:has(.sunrise-unrivaled-header) .sunrise-unrivaled-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-white-20.png");
 }
 #dp-wrapper:has(.sunrise-unrivaled-header) .erau-header.sunrise-unrivaled-header .dp-header-subtitle,
 #dp-wrapper:has(.sunrise-unrivaled-header) .erau-header.sunrise-unrivaled-header .dp-header-description p {
@@ -1197,7 +1197,7 @@
     background-color: var(--erau-unrivaled);
 }
 #dp-wrapper:has(.grey-unrivaled-header) .grey-unrivaled-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-white-20.png");
 }
 #dp-wrapper:has(.grey-unrivaled-header) .erau-header.grey-unrivaled-header .dp-header-subtitle,
 #dp-wrapper:has(.grey-unrivaled-header) .erau-header.grey-unrivaled-header .dp-header-description p {
@@ -2219,7 +2219,7 @@
     background-color: var(--erau-sunrise);
 }
 #dp-wrapper:has(.gradient-unrivaled-black-sunrise-header) .gradient-unrivaled-black-sunrise-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-black-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
 }
 
 #dp-wrapper .gradient-unrivaled-black-sunrise-link-grid a {
@@ -2307,7 +2307,7 @@
     background-color: var(--erau-altitude);
 }
 #dp-wrapper:has(.gradient-unrivaled-black-altitude-header) .gradient-unrivaled-black-altitude-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-black-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
 }
 
 #dp-wrapper .gradient-unrivaled-black-altitude-link-grid a {
@@ -2395,7 +2395,7 @@
     background-color: var(--erau-grey);
 }
 #dp-wrapper:has(.gradient-unrivaled-black-grey-header) .gradient-unrivaled-black-grey-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-black-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
 }
 
 #dp-wrapper .gradient-unrivaled-black-grey-link-grid a {
@@ -3014,7 +3014,7 @@
     background-color: var(--erau-sunrise);
 }
 #dp-wrapper:has(.gradient-unrivaled-beyond-sunrise-header) .gradient-unrivaled-beyond-sunrise-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-black-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
 }
 
 #dp-wrapper .gradient-unrivaled-beyond-sunrise-link-grid a {
@@ -3102,7 +3102,7 @@
     background-color: var(--erau-altitude);
 }
 #dp-wrapper:has(.gradient-unrivaled-beyond-altitude-header) .gradient-unrivaled-beyond-altitude-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-black-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
 }
 
 #dp-wrapper .gradient-unrivaled-beyond-altitude-link-grid a {
@@ -3190,7 +3190,7 @@
     background-color: var(--erau-grey);
 }
 #dp-wrapper:has(.gradient-unrivaled-beyond-grey-header) .gradient-unrivaled-beyond-grey-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-black-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
 }
 
 #dp-wrapper .gradient-unrivaled-beyond-grey-link-grid a {
@@ -3279,7 +3279,7 @@
     background-color: var(--erau-unrivaled);
 }
 #dp-wrapper:has(.gradient-sunrise-grey-unrivaled-header) .gradient-sunrise-grey-unrivaled-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-white-20.png");
 }
 #dp-wrapper:has(.gradient-sunrise-grey-unrivaled-header) .erau-header.gradient-sunrise-grey-unrivaled-header .dp-header-subtitle,
 #dp-wrapper:has(.gradient-sunrise-grey-unrivaled-header) .erau-header.gradient-sunrise-grey-unrivaled-header .dp-header-description p {
@@ -3377,7 +3377,7 @@
     background-color: var(--erau-unrivaled);
 }
 #dp-wrapper:has(.gradient-grey-sunrise-unrivaled-header) .gradient-grey-sunrise-unrivaled-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-white-20.png");
 }
 #dp-wrapper:has(.gradient-grey-sunrise-unrivaled-header) .erau-header.gradient-grey-sunrise-unrivaled-header .dp-header-subtitle,
 #dp-wrapper:has(.gradient-grey-sunrise-unrivaled-header) .erau-header.gradient-grey-sunrise-unrivaled-header .dp-header-description p {
@@ -3868,7 +3868,7 @@
     background-color: var(--erau-unrivaled);
 }
 #dp-wrapper:has(.gradient-altitude-grey-unrivaled-header) .gradient-altitude-grey-unrivaled-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-white-20.png");
 }
 #dp-wrapper:has(.gradient-altitude-grey-unrivaled-header) .erau-header.gradient-altitude-grey-unrivaled-header .dp-header-subtitle,
 #dp-wrapper:has(.gradient-altitude-grey-unrivaled-header) .erau-header.gradient-altitude-grey-unrivaled-header .dp-header-description p {
@@ -3966,7 +3966,7 @@
     background-color: var(--erau-unrivaled);
 }
 #dp-wrapper:has(.gradient-grey-altitude-unrivaled-header) .gradient-grey-altitude-unrivaled-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-white-20.png");
 }
 #dp-wrapper:has(.gradient-grey-altitude-unrivaled-header) .erau-header.gradient-grey-altitude-unrivaled-header .dp-header-subtitle,
 #dp-wrapper:has(.gradient-grey-altitude-unrivaled-header) .erau-header.gradient-grey-altitude-unrivaled-header .dp-header-description p {
@@ -4987,7 +4987,7 @@
     background-color: var(--erau-sunrise);
 }
 #dp-wrapper:has(.wing-unrivaled-black-sunrise-header) .wing-unrivaled-black-sunrise-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-black-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
 }
 
 #dp-wrapper .wing-unrivaled-black-sunrise-link-grid a {
@@ -5075,7 +5075,7 @@
     background-color: var(--erau-altitude);
 }
 #dp-wrapper:has(.wing-unrivaled-black-altitude-header) .wing-unrivaled-black-altitude-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-black-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
 }
 
 #dp-wrapper .wing-unrivaled-black-altitude-link-grid a {
@@ -5163,7 +5163,7 @@
     background-color: var(--erau-grey);
 }
 #dp-wrapper:has(.wing-unrivaled-black-grey-header) .wing-unrivaled-black-grey-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-black-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
 }
 
 #dp-wrapper .wing-unrivaled-black-grey-link-grid a {
@@ -5782,7 +5782,7 @@
     background-color: var(--erau-sunrise);
 }
 #dp-wrapper:has(.wing-unrivaled-beyond-sunrise-header) .wing-unrivaled-beyond-sunrise-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-black-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
 }
 
 #dp-wrapper .wing-unrivaled-beyond-sunrise-link-grid a {
@@ -5870,7 +5870,7 @@
     background-color: var(--erau-altitude);
 }
 #dp-wrapper:has(.wing-unrivaled-beyond-altitude-header) .wing-unrivaled-beyond-altitude-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-black-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
 }
 
 #dp-wrapper .wing-unrivaled-beyond-altitude-link-grid a {
@@ -5958,7 +5958,7 @@
     background-color: var(--erau-grey);
 }
 #dp-wrapper:has(.wing-unrivaled-beyond-grey-header) .wing-unrivaled-beyond-grey-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-black-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
 }
 
 #dp-wrapper .wing-unrivaled-beyond-grey-link-grid a {
@@ -6047,7 +6047,7 @@
     background-color: var(--erau-unrivaled);
 }
 #dp-wrapper:has(.wing-sunrise-grey-unrivaled-header) .wing-sunrise-grey-unrivaled-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-white-20.png");
 }
 #dp-wrapper:has(.wing-sunrise-grey-unrivaled-header) .erau-header.wing-sunrise-grey-unrivaled-header .dp-header-subtitle,
 #dp-wrapper:has(.wing-sunrise-grey-unrivaled-header) .erau-header.wing-sunrise-grey-unrivaled-header .dp-header-description p {
@@ -6145,7 +6145,7 @@
     background-color: var(--erau-unrivaled);
 }
 #dp-wrapper:has(.wing-grey-sunrise-unrivaled-header) .wing-grey-sunrise-unrivaled-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-white-20.png");
 }
 #dp-wrapper:has(.wing-grey-sunrise-unrivaled-header) .erau-header.wing-grey-sunrise-unrivaled-header .dp-header-subtitle,
 #dp-wrapper:has(.wing-grey-sunrise-unrivaled-header) .erau-header.wing-grey-sunrise-unrivaled-header .dp-header-description p {
@@ -6636,7 +6636,7 @@
     background-color: var(--erau-unrivaled);
 }
 #dp-wrapper:has(.wing-altitude-grey-unrivaled-header) .wing-altitude-grey-unrivaled-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-white-20.png");
 }
 #dp-wrapper:has(.wing-altitude-grey-unrivaled-header) .erau-header.wing-altitude-grey-unrivaled-header .dp-header-subtitle,
 #dp-wrapper:has(.wing-altitude-grey-unrivaled-header) .erau-header.wing-altitude-grey-unrivaled-header .dp-header-description p {
@@ -6734,7 +6734,7 @@
     background-color: var(--erau-unrivaled);
 }
 #dp-wrapper:has(.wing-grey-altitude-unrivaled-header) .wing-grey-altitude-unrivaled-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-white-20.png");
 }
 #dp-wrapper:has(.wing-grey-altitude-unrivaled-header) .erau-header.wing-grey-altitude-unrivaled-header .dp-header-subtitle,
 #dp-wrapper:has(.wing-grey-altitude-unrivaled-header) .erau-header.wing-grey-altitude-unrivaled-header .dp-header-description p {
