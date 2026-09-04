@@ -13,7 +13,7 @@ ROOT = Path(__file__).resolve().parent.parent
 MANIFEST = ROOT / "custom-themes.manifest.css"
 DOCS = ROOT / "docs"
 
-IMPORT_RE = re.compile(r"@import url\((theme-erau-[a-z0-9-]+\.css)\);")
+IMPORT_RE = re.compile(r"@import url\((theme-[A-Za-z0-9-]+\.css)\);")
 WRAPPER_CLASS_RE = re.compile(r"\.([a-z0-9]+(?:-[a-z0-9]+)*)-wrapper\b")
 
 COLOR_ORDER = ["unrivaled", "beyond", "black", "sunrise", "grey", "altitude"]
@@ -24,6 +24,14 @@ COLOR_HEADERS = {
     "sunrise": "Sunrise Yellow",
     "grey": "Grey",
     "altitude": "Altitude Blue",
+}
+
+# One-off themes built for a specific outside sponsor/org rather than as a
+# general ERAU color option. Filed under their own "Sponsored Themes"
+# section instead of grouped by ERAU color. Keyed by the theme's *-wrapper
+# class slug; add an entry here for each new sponsored theme file.
+SPONSORED_THEME_NAMES = {
+    "her": "hER Women's Professional Network",
 }
 
 
@@ -42,8 +50,10 @@ def load_theme_rows():
             kind = "gradient"
         elif fname.startswith("theme-erau-wing-"):
             kind = "wing"
-        else:
+        elif fname.startswith("theme-erau-"):
             sys.exit(f"error: unrecognized theme file in manifest: {fname}")
+        else:
+            kind = "sponsored"
 
         theme_file = ROOT / fname
         if not theme_file.exists():
@@ -54,7 +64,12 @@ def load_theme_rows():
             sys.exit(f"error: no *-wrapper class found in {fname}")
         slug = match.group(1)
 
-        if kind == "solid":
+        if kind == "sponsored":
+            if slug not in SPONSORED_THEME_NAMES:
+                sys.exit(f"error: {fname} has no SPONSORED_THEME_NAMES entry for slug '{slug}'")
+            name = SPONSORED_THEME_NAMES[slug]
+            color = None
+        elif kind == "solid":
             name = " ".join(p.capitalize() for p in slug.split("-"))
             color = slug.split("-")[0]
         else:
@@ -70,9 +85,14 @@ def load_theme_rows():
 def group_by_color(rows):
     groups = []
     for color in COLOR_ORDER:
-        color_rows = [r for r in rows if r["color"] == color]
+        color_rows = [r for r in rows if r["kind"] != "sponsored" and r["color"] == color]
         if color_rows:
             groups.append({"header": COLOR_HEADERS[color], "rows": color_rows})
+
+    sponsored_rows = [r for r in rows if r["kind"] == "sponsored"]
+    if sponsored_rows:
+        groups.append({"header": "Sponsored Themes", "rows": sponsored_rows})
+
     return groups
 
 
@@ -124,7 +144,10 @@ PAGES = [
                 "regardless of whether it's a solid, gradient, or wing (hard-edge split) "
                 "treatment. Two-color gradient/wing themes are filed under their "
                 'first-listed (dominant) color only — e.g. "Black-Beyond" lives under '
-                'Black, "Beyond-Black" lives under Beyond — so no theme is listed twice.\n\n'
+                'Black, "Beyond-Black" lives under Beyond — so no theme is listed twice. '
+                'One-off themes built for a specific outside sponsor rather than as a '
+                'general ERAU color option are filed under their own "Sponsored Themes" '
+                "section instead.\n\n"
                 "This file is generated from `custom-themes.manifest.css` and the actual "
                 "`.css` files' class names by `scripts/generate_docs.py`, and regenerates "
                 "automatically via CI whenever theme variants change — see "

@@ -2,7 +2,7 @@
 
 Reference table for the "ERAU Themes" content blocks in the DesignPLUS settings course. For pasting into Canvas, use the [copy-paste page](https://erau-academic-innovation.github.io/canvas-custom-css/docs/designplus-themes.html) instead — its **Copy Content Block** buttons include the required `div.dp-content-block` wrapper, which a table copied from this rendered markdown does not. This file exists for looking up or verifying a theme's exact classes directly on GitHub.
 
-Themes are grouped by their primary/dominant color so instructional designers can find every theme that pairs with a given banner image color, regardless of whether it's a solid, gradient, or wing (hard-edge split) treatment. Two-color gradient/wing themes are filed under their first-listed (dominant) color only — e.g. "Black-Beyond" lives under Black, "Beyond-Black" lives under Beyond — so no theme is listed twice.
+Themes are grouped by their primary/dominant color so instructional designers can find every theme that pairs with a given banner image color, regardless of whether it's a solid, gradient, or wing (hard-edge split) treatment. Two-color gradient/wing themes are filed under their first-listed (dominant) color only — e.g. "Black-Beyond" lives under Black, "Beyond-Black" lives under Beyond — so no theme is listed twice. One-off themes built for a specific outside sponsor rather than as a general ERAU color option are filed under their own "Sponsored Themes" section instead.
 
 This file is generated from `custom-themes.manifest.css` and the actual `.css` files' class names by `scripts/generate_docs.py`, and regenerates automatically via CI whenever theme variants change — see [`README.md`](../README.md) for the underlying naming conventions.
 
@@ -113,3 +113,9 @@ This file is generated from `custom-themes.manifest.css` and the actual `.css` f
 | Wing Altitude-Grey Unrivaled | dp-wrapper erau-wrapper wing-altitude-grey-unrivaled-wrapper | dp-header erau-header wing-altitude-grey-unrivaled-header | container-fluid dp-link-grid erau-link-grid wing-altitude-grey-unrivaled-link-grid |  |  | Y |
 | Wing Altitude-Grey Beyond | dp-wrapper erau-wrapper wing-altitude-grey-beyond-wrapper | dp-header erau-header wing-altitude-grey-beyond-header | container-fluid dp-link-grid erau-link-grid wing-altitude-grey-beyond-link-grid |  |  | Y |
 | Wing Altitude-Grey Black | dp-wrapper erau-wrapper wing-altitude-grey-black-wrapper | dp-header erau-header wing-altitude-grey-black-header | container-fluid dp-link-grid erau-link-grid wing-altitude-grey-black-link-grid |  |  | Y |
+
+## Sponsored Themes
+
+| Theme Name | Heading Styles Classes | Banner Title Classes | Link Grid/Nav Classes | Image Classes | Default Banner Image | Active |
+|---|---|---|---|---|---|---|
+| hER Women's Professional Network | dp-wrapper erau-wrapper her-wrapper | dp-header erau-header her-header | container-fluid dp-link-grid erau-link-grid her-link-grid |  |  | Y |
