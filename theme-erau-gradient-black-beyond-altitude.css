@@ -18,6 +18,9 @@
     color: var(--erau-black);
     background-color: var(--erau-altitude);
 }
+#dp-wrapper:has(.gradient-black-beyond-altitude-header) .gradient-black-beyond-altitude-header .dp-header-pre-2:before {
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-white-20.png");
+}
 
 #dp-wrapper .gradient-black-beyond-altitude-link-grid a {
     background: linear-gradient(135deg, var(--erau-black), var(--erau-beyond));

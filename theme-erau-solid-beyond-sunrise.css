@@ -18,6 +18,9 @@
     color: var(--erau-beyond);
     background-color: var(--erau-sunrise);
 }
+#dp-wrapper:has(.beyond-sunrise-header) .beyond-sunrise-header .dp-header-pre-2:before {
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-white-20.png");
+}
 
 #dp-wrapper .beyond-sunrise-link-grid a {
     background: var(--erau-beyond);

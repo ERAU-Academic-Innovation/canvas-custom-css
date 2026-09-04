@@ -18,6 +18,9 @@
     color: var(--erau-unrivaled);
     background-color: var(--erau-sunrise);
 }
+#dp-wrapper:has(.unrivaled-sunrise-header) .unrivaled-sunrise-header .dp-header-pre-2:before {
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
+}
 
 #dp-wrapper .unrivaled-sunrise-link-grid a {
     background: var(--erau-unrivaled);

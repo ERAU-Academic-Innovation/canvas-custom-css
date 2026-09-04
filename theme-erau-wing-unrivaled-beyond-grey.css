@@ -18,6 +18,9 @@
     color: var(--erau-unrivaled);
     background-color: var(--erau-grey);
 }
+#dp-wrapper:has(.wing-unrivaled-beyond-grey-header) .wing-unrivaled-beyond-grey-header .dp-header-pre-2:before {
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
+}
 
 #dp-wrapper .wing-unrivaled-beyond-grey-link-grid a {
     background: linear-gradient(135deg, var(--erau-unrivaled) 80%, var(--erau-beyond) 20%);

@@ -18,6 +18,9 @@
     color: var(--erau-grey);
     background-color: var(--erau-unrivaled);
 }
+#dp-wrapper:has(.grey-unrivaled-header) .grey-unrivaled-header .dp-header-pre-2:before {
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-black-20.png");
+}
 #dp-wrapper:has(.grey-unrivaled-header) .erau-header.grey-unrivaled-header .dp-header-subtitle,
 #dp-wrapper:has(.grey-unrivaled-header) .erau-header.grey-unrivaled-header .dp-header-description p {
     color: var(--erau-unrivaled);

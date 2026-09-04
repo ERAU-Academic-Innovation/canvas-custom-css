@@ -13,6 +13,9 @@
     color: var(--erau-black);
     background-color: var(--erau-grey);
 }
+#dp-wrapper:has(.black-grey-header) .black-grey-header .dp-header-pre-2:before {
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-white-20.png");
+}
 
 #dp-wrapper .black-grey-link-grid a {
     background: var(--erau-black);

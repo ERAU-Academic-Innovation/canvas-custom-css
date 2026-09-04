@@ -18,6 +18,9 @@
     color: var(--erau-black);
     background-color: var(--erau-altitude);
 }
+#dp-wrapper:has(.unrivaled-altitude-header) .unrivaled-altitude-header .dp-header-pre-2:before {
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-unrivaled-20.png");
+}
 
 #dp-wrapper .unrivaled-altitude-link-grid a {
     background: var(--erau-unrivaled);
