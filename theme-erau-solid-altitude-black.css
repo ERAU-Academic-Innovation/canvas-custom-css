@@ -19,7 +19,7 @@
     background-color: var(--erau-black);
 }
 #dp-wrapper:has(.altitude-black-header) .altitude-black-header .dp-header-pre-2:before {
-    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-black-20.png");
+    content: url("https://cdn.jsdelivr.net/gh/ERAU-Academic-Innovation/canvas-custom-css/images/erau-eagle-white-20.png");
 }
 #dp-wrapper:has(.altitude-black-header) .erau-header.altitude-black-header .dp-header-subtitle,
 #dp-wrapper:has(.altitude-black-header) .erau-header.altitude-black-header .dp-header-description p {
